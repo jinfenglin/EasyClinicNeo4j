@@ -1,0 +1,1 @@
+class tipovisita date : 20/09/03 version : 0 01 000 description contains a description of the different 类型 of visit that 可能 be made in 门诊病人 attributes name access description private code code type of visit ( pv dh c ) private description description of the type of visit 方法 signature access description

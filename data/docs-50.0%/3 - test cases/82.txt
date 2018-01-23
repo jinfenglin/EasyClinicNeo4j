@@ -1,0 +1,1 @@
+test case reservation a 第一 日期 : c32 visit 之前 by 另一个 20/06/2003 第一 visit version : 0 02 000 使用 case meets the 请求 for a reservation ucprevis service by 门诊病人 a 患者 high priority 组 up the 持续 reservation is ` : 24/09/2003 hours 09 00 第一 visit 描述 test 输入 type selected visit : 第一 visit oracle sequence invalid the 系统 允许 the reservation of the visit 类 盖 valid : ce1 ce6 类 are not valid : 没有

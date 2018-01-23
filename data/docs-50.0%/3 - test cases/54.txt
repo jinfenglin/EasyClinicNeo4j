@@ -1,0 +1,1 @@
+login operator test 案件 by 日期 : c04 login registered in s i o and 20/06/2003 incorrect password ( 少 人物 ) 版 : 0 02 000 use 案件 he 施行 the 功能 ucvalope necessary to 认证 an operator high 优先 组 up the login rocolo is `recorded in the sio description test input login : rocolo password : 为 神谕 无效 input : password classes cover 有效 : ce2 classes 无效 : ce8

@@ -1,0 +1,1 @@
+class guielencoprenotazioni 日期 : 19/09/03 版 : 0 01 000 description 抽象 class 用过的 to 确定 guieliminaprenotazione of 类 and guiselezionaprenotazione 属性 那么 访问 description 私人的 btnannulla 按键 that 允许 you to cancel the 当前 手术 私人的 gridprenotazioni grid 含 the list of 预订 仍然 活性 组 by 患者 方法 签名 notificasuccesso ( ) public 访问 description its 任务 is to 通知 the success of

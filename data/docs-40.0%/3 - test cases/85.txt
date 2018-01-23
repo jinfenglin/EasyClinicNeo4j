@@ -1,0 +1,1 @@
+测试 case 保留 a day date : c35 hospital 之前 by a 20/06/2003 第一 访问 version : 0 02 000 use case meets the request for a 保留 你预测 service by outpatient a 患者 high 优先 set up the last 保留 is ` : 26/09/2003 hours 11 00 第一 访问 description 测试 输入 type 选 访问 : day hospital the 神谕 system enables the 保留 of 访问 classes 盖 valid : ce2 ce6 classes are not valid : 没有

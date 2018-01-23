@@ -1,0 +1,1 @@
+测试 案件 保留 a visit 日期 : c39 control by 20/06/2003 a 新 patient 版 : 0 02 000 use 案件 meets the request for a 保留 ucprevis 服务 by 门诊病人 a patient 高 priority 组 up there are no previous 预订 描述 测试 输入 type 选 visit : visit 查 神谕 sequence 无效 the 系统 allows the 保留 of the visit classes 盖 有效 : ce3 ce5 classes are not 有效 : none

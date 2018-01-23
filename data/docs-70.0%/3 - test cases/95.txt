@@ -1,0 +1,1 @@
+测试 房屋 删除 a 天 日期 : c45 醫院 following a 第一 20/06/2003 访问 and that is the last booking 制作 版 : 0 02 000 use case 符合 the 请求 for 删除 of ucannpre a booking service 制作 by an 动态 患者 high 优先 组 up the 以前 保留 is ` : 26/09/2003 小时 11 00 第一 访问 there are no 预订 after 选 描述 test 输入 访问 选 : 30/09/2003 小时 08 00 天 醫院 the oracle 系统 deletes the 保留 选 classes cover 有效 : ce2 ce7 ce10 classes are not 有效 : 没有

@@ -1,0 +1,1 @@
+测试 case reservation a day date : c36 醫院 preceded by a 20/06/2003 visit control 版 : 0 02 000 使用 case meets the 请求 for a reservation ucprevis 服务 by outpatient a patient high priority set up the last reservation is ` : 02/10/2003 hours 09 00 visit control description 测试 input 类型 selected visit : day 醫院 the 神谕 系统 enables the reservation of visit 类 盖 有效 : ce2 ce8 类 are not 有效 : 没有

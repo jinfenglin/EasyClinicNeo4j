@@ -1,0 +1,1 @@
+验证 test case 患者 数据 : c12 tax 码 through 20/06/2003 正确 ( 16 digits ) and in s i o 版 : 0 02 000 使用 case he 施行 the 功能 ucvalpaz 必要 to 认证 an 患者 高 优先 set up the tax 码 必须 zccrcc80d13g942u be 注册 in s i o 描述 test input : company ID : zccrcc80d13g942u 神谕 : the 操作者 访问 to the 手术 验证 患者 类 盖 有效 : ce6 : 类 无效 : ce7

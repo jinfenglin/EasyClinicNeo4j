@@ -1,0 +1,1 @@
+验证 test case patient data : c08 card hospital through 20/06/2003 正确 ( 5 digits ) and in s i o version : 0 02 000 use case he performs the functions ucvalpaz necessary to authenticate an patient high 优先 the hospital set up 00,001 card must be 记录 in s i o 描述 test hospital 输入 card : 00,001 the 神谕 operator 访问 to the operation 验证 patient 类 盖 有效 : ce1 ce2 类 are not 有效 : none

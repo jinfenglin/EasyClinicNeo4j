@@ -1,0 +1,1 @@
+操作者 class date : 20/09/03 version : 0 01 000 it contains descriptions for your employees of the outpatient attributes name access description private 操作者 login login private password associated with the login password methods signature validaoperatore ( ) public access it description of the procedure for validation of 操作者

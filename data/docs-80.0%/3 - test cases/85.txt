@@ -1,0 +1,1 @@
+测试 case 保留 a 天 日期 : c35 醫院 之前 by a 20/06/2003 first 访问 版 : 0 02 000 use case 符合 the 请求 for a 保留 你预测 服务 by 门诊病人 a 患者 高 priority 组 up the 持续 保留 is ` : 26/09/2003 小时 11 00 first 访问 描述 测试 input 类型 选 访问 : 天 醫院 the oracle 系统 使 the 保留 of 访问 类 cover 有效 : ce2 ce6 类 are not 有效 : 没有

@@ -1,0 +1,1 @@
+class tipovisita date : 20/09/03 version : 0 01 000 描述 contains a 描述 of the different types of 访问 that may be made in outpatient attributes name access 描述 private code code type of 访问 ( pv dh c ) private 描述 描述 of the type of 访问 methods signature access 描述

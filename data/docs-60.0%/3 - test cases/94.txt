@@ -1,0 +1,1 @@
+测试 房屋 删除 a first 日期 : c44 访问 20/06/2003 version : 0 02 000 使用 案件 符合 the 请求 for 删除 of ucannpre a 保留 service 制作 by an 动态 patient 高 priority set up there are no 以前 reservations and reservations 随后 描述 测试 输入 访问 selected : 03/09/2003 hours 09 00 first 访问 the oracle 系统 消除 the 保留 and 删除 the patient from s i o classes cover valid : ce1 ce6 ce10 classes are not valid : none

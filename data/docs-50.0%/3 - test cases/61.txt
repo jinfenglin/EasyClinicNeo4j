@@ -1,0 +1,1 @@
+validation test case 患者 数据 : c11 card hospital through 20/06/2003 but not stored properly in s i o 版 : 0 02 000 使用 case he 施行 the functions ucvalpaz 必要 to 认证 an 患者 high priority the hospital set up 99,999 card should not be recorded in s i o 描述 test hospital input card : 99,999 the 神谕 system does not allow 访问 to 部分 on 患者 类 cover 有效 : ce1 类 无效 : ce5
