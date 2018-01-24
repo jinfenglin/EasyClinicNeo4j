@@ -1,0 +1,1 @@
+test 案件 reservation a first 日期 : c33 visit 之前 by a day 20/06/2003 hospital 版 : 0 02 000 use 案件 符合 the request for a reservation ucprevis 服务 by outpatient a 患者 高 优先 set up the last reservation is ` : 25/09/2003 hours 08 00 day hospital 描述 test 输入 类型 选 visit : first visit oracle sequence 无效 the system 允许 the reservation of the visit 类 cover 有效 : ce1 ce7 类 are not 有效 : none

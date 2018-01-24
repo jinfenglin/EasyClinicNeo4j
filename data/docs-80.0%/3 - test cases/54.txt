@@ -1,0 +1,1 @@
+登录 operator 测试 案件 by 日期 : c04 登录 注册 in s i o and 20/06/2003 不正确 密码 ( 少 characters ) version : 0 02 000 使用 案件 he 施行 the functions ucvalope 必要 to 认证 an operator 高 优先 set up the 登录 rocolo is `recorded in the SIO description 测试 input 登录 : rocolo 密码 : 为 神谕 无效 input : 密码 类 盖 有效 : ce2 类 无效 : ce8

@@ -1,0 +1,1 @@
+reservation 测试 case for a type of date : c43 is not 预期 访问 20/06/2003 之前 by a 访问 by 查 version : 0 02 000 使用 case 符合 the 请求 for a reservation ucprevis 服务 by outpatient a 患者 媒体 priorities 组 up the last reservation is ` : 07/10/2003 小时 10 00 访问 控制 描述 测试 输入 type 选 访问 : 例如， oracle 输入 无效 类 盖 有效 : ce8 类 无效 : ce4

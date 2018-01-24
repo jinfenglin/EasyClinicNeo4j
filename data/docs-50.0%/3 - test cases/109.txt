@@ -1,0 +1,1 @@
+登录 测试 case by patient 数据 : c59 card hospital incorrect 20/06/2003 ( 更高 数 of digits ) and pin 记录 in s i o 版 : 0 02 000 use case he 施行 the 功能 uclogpaz 必要 to 认证 an patient high priority 组 up 65,323 the pin is 记录 in the `s i o description 测试 hospital input card : 000,000 pin : 65,323 神谕 无效 input : hospital card classes cover valid : ce7 classes 无效 : ce4

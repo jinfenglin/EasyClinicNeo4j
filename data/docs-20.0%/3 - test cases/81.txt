@@ -1,0 +1,1 @@
+test case reservation a first date : c31 from a visit 20/06/2003 新 patient of the 门诊病人 版 : 0 02 000 use case meets the request for a reservation ucprevis service by 门诊病人 a patient high priority 组 up there are no 预订 description test input type selected visit : first visit the oracle 系统 enables the reservation of visit classes cover valid : ce1 ce5 classes are not valid : none

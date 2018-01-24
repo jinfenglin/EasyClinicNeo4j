@@ -1,0 +1,1 @@
+测试 案件 reservation a first date : c31 from a 访问 20/06/2003 new patient of the 门诊病人 version : 0 02 000 使用 案件 meets the 请求 for a reservation 你预测 service by 门诊病人 a patient high 优先 组 up there are no reservations 描述 测试 输入 类型 selected 访问 : first 访问 the 神谕 系统 使 the reservation of 访问 类 盖 有效 : ce1 ce5 类 are not 有效 : none

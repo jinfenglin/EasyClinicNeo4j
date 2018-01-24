@@ -1,0 +1,1 @@
+test 案件 保留 a day date : c38 hospital by a 20/06/2003 new patient 版 : 0 02 000 use 案件 符合 the request for a 保留 ucprevis service by outpatient a patient high priority set up there are no previous reservations description test 输入 type selected visit : day hospital 神谕 sequence 无效 the system allows the 保留 of the visit 类 盖 有效 : ce2 ce5 类 are not 有效 : none

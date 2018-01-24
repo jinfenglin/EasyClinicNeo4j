@@ -1,0 +1,1 @@
+validation test case patient data : c09 卡 hospital by not 20/06/2003 sound ( fewer figures ) version : 0 02 000 使用 case he 施行 the 功能 ucvalpaz necessary to 认证 an patient 高 priority set up not identified 描述 test hospital 输入 卡 : 0000 神谕 输入 invalid classes 盖 valid : 没有 classes invalid : ce3

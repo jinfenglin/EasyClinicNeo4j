@@ -1,0 +1,1 @@
+validation 测试 案件 patient 数据 : c08 卡 醫院 through 20/06/2003 正确 ( 5 数字 ) and in s i o 版 : 0 02 000 use 案件 he 施行 the functions ucvalpaz 必要 to 认证 an patient 高 优先 the 醫院 组 up 00,001 卡 must be 记录 in s i o 描述 测试 醫院 输入 卡 : 00,001 the 神谕 操作者 访问 to the 手术 验证 patient 类 cover valid : ce1 ce2 类 are not valid : 没有

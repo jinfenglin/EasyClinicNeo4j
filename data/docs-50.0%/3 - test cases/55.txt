@@ -1,0 +1,1 @@
+login 操作者 测试 案件 by date : c05 login 注册 in s i o and 20/06/2003 不正确 password ( higher characters ) version : 0 02 000 使用 案件 he 施行 the functions ucvalope 必要 to authenticate an 操作者 high 优先 set up the login rocolo is `recorded in the SIO 描述 测试 input login : rocolo password : rocolivirago 神谕 invalid input : password classes 盖 有效 : ce2 classes invalid : ce9

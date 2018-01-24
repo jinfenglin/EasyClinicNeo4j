@@ -1,0 +1,1 @@
+类 guieliminaprenotazione 日期 : 16/09/2003 版 : 0 01 000 描述 使 the 面具 用过的 for 管理 of an 预订 属性 那么 访问 描述 私人的 btnannulla 按键 用过的 to 取消 the 删除 of a 访问 私人的 gridelencoprenotaz 名单 含 all 活性 保留 制作 by a 患者 方法 签名 visualizzaelencoprenotazioni 上市 访问 ( ) 描述 显示 the 名单 of 预订 制作 by 患者 签名 eliminaprenotazione ( ) 上市 访问 描述 its 任务 is to 找 the 信息 必要 for the 实现 of guieliminaprenotazione

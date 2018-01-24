@@ -1,0 +1,1 @@
+登录 测试 案件 by patient 数据 : 醫院 c57 卡 正确 品 20/06/2003 正确 and the 一对 ( 醫院 卡 品 ) in s i o 版 : 0 02 000 use 案件 he 施行 the functions uclogpaz necessary to 认证 an patient high 优先 the 一对 组 up ( 醫院 卡 品 ) = ( 00,001 65323 ) is 注册 in the `s i o 描述 测试 醫院 输入 卡 : 00,001 品 : 65,323 the 神谕 系统 允许 access to the patient 类 cover 有效 : ce1 ce2 ce6 ce7 类 are not 有效 : 没有

@@ -1,0 +1,1 @@
+登录 test 案件 by patient 数据 : c58 card 醫院 incorrect 20/06/2003 ( fewer 数字 ) and 品 recorded in s i o 版 : 0 02 000 使用 案件 he performs the functions uclogpaz necessary to authenticate an patient high 优先 set up 65,323 the 品 is recorded in the `s i o description test 醫院 input card : 0000 品 : 65,323 oracle invalid input : 醫院 card classes 盖 有效 : ce7 classes invalid : ce3

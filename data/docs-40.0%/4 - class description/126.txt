@@ -1,0 +1,1 @@
+class guiresocontovisite date : 16/09/2003 版 : 0 01 000 description make the mask on the management of 报告 of 访问 需要 in outpatient attributes name access description private panelparametri panel containing the 参数 必要 to set 标准 creation of 报告 of 访问 methods signature resocontovisite ( ) 上市 access it description to 找 all the 信息 必要 to 生成 the 报告 in compliance with the 标准 specified

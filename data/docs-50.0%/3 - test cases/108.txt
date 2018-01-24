@@ -1,0 +1,1 @@
+login test case by 患者 数据 : c58 卡 醫院 incorrect 20/06/2003 ( fewer 数字 ) and 品 recorded in s i o 版 : 0 02 000 使用 case he 施行 the functions uclogpaz 必要 to authenticate an 患者 high 优先 组 up 65,323 the 品 is recorded in the `s i o description test 醫院 输入 卡 : 0000 品 : 65,323 oracle invalid 输入 : 醫院 卡 classes 盖 valid : ce7 classes invalid : ce3

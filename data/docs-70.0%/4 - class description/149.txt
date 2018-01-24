@@ -1,0 +1,1 @@
+类 cartellaclinicamanager 日期 : 16/09/2003 version : 0 01 000 描述 its 任务 is to 管理 the data that 使 up the medical 记录 of a 患者 attributes 那么 访问 描述 方法 签名 getcartellaclinica ( ) 上市 访问 it 描述 to 找 all the 信息 on the 诊所 菲尔德斯塔特 of a 患者 签名 getdettagli ( ) 上市 访问 描述 提供 a load all the 细节 of a visit 签名 getdatipaziente ( ) 上市 访问 描述 has the 任务 of finding the 注册处 data of 患者

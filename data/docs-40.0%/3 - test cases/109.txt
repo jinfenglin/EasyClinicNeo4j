@@ -1,0 +1,1 @@
+登录 test case by patient data : c59 卡 hospital incorrect 20/06/2003 ( higher 数 of digits ) and 品 recorded in s i o version : 0 02 000 use case he performs the functions uclogpaz necessary to 认证 an patient high 优先 组 up 65,323 the 品 is recorded in the `s i o description test hospital input 卡 : 000,000 品 : 65,323 神谕 无效 input : hospital 卡 类 cover 有效 : ce7 类 无效 : ce4
