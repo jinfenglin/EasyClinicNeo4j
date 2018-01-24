@@ -1,0 +1,1 @@
+validation test case patient data : c14 tax code by not 20/06/2003 correct ( 更高 figures ) , but not this in s i o version : 0 02 000 use case he performs the functions ucvalpaz necessary to 认证 an patient high priority 组 up not 确定 description test 输入 tax : zccrcc80d13g942uzccrcc oracle 输入 invalid 类 盖 valid : 没有 类 invalid : ce9

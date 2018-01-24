@@ -1,0 +1,1 @@
+测试 案件 保留 a 天 日期 : c35 hospital preceded by a 20/06/2003 第一 访问 版 : 0 02 000 使用 案件 meets the 请求 for a 保留 你预测 service by 门诊病人 a 患者 高 优先 set up the 持续 保留 is ` : 26/09/2003 hours 11 00 第一 访问 描述 测试 input type selected 访问 : 天 hospital the 神谕 系统 使 the 保留 of 访问 类 盖 valid : ce2 ce6 类 are not valid : 没有

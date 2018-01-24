@@ -1,0 +1,1 @@
+login test 案件 by 患者 数据 : c63 card 醫院 but 正确 20/06/2003 not 存储 on the s i o and 品 recorded in s i o 版 : 0 02 000 使用 案件 he 施行 the functions uclogpaz necessary to 认证 an 患者 高 priority the 醫院 set up 00,034 card is not 注册 in ` i s o the 品 is `65,323 recorded in s i o description test 醫院 输入 card : 00,034 品 : 65,323 the 神谕 系统 does not 允许 access to 患者 类 盖 有效 : ce1 ce7 类 无效 : ce5

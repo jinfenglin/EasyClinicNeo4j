@@ -1,0 +1,1 @@
+类 guiresocontoprenotazioni date : 16/09/2003 版 : 0 01 000 描述 make the 面具 on the 管理 of report of 保留 in 门诊病人 属性 那么 访问 描述 私人的 panelparametri 面板 containing all the 参数 necessary to set criteria 创建 of reports 预订 方法 signature resocontoprenotazioni ( ) 上市 访问 it 描述 to 找 all the information necessary to 生成 the report in 合规 with the criteria specified

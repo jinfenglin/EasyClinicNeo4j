@@ -1,0 +1,1 @@
+验证 test 案件 patient data : c11 卡 醫院 through 20/06/2003 but not 存储 properly in s i o version : 0 02 000 use 案件 he performs the 功能 ucvalpaz necessary to authenticate an patient 高 priority the 醫院 set up 99,999 卡 should not be recorded in s i o description test 醫院 输入 卡 : 99,999 the oracle system does not allow access to section on patient 类 cover valid : ce1 类 invalid : ce5

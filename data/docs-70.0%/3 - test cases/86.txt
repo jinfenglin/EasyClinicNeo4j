@@ -1,0 +1,1 @@
+测试 案件 reservation a day 日期 : c36 醫院 之前 by a 20/06/2003 访问 控制 version : 0 02 000 使用 案件 符合 the 请求 for a reservation ucprevis service by 门诊病人 a 患者 high priority set up the 持续 reservation is ` : 02/10/2003 小时 09 00 访问 控制 description 测试 输入 类型 选 访问 : day 醫院 the 神谕 system 使 the reservation of 访问 类 盖 有效 : ce2 ce8 类 are not 有效 : 没有

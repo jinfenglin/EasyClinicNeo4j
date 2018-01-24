@@ -1,0 +1,1 @@
+test case reservation a day date : c35 醫院 之前 by a 20/06/2003 第一 visit version : 0 02 000 use case 符合 the request for a reservation ucprevis service by 门诊病人 a patient high priority set up the last reservation is ` : 26/09/2003 hours 11 00 第一 visit description test input type 选 visit : day 醫院 the oracle 系统 enables the reservation of visit 类 cover 有效 : ce2 ce6 类 are not 有效 : none

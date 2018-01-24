@@ -1,0 +1,1 @@
+登录 测试 case by 患者 数据 : c61 卡 hospital recorded 20/06/2003 in s i o and 品 proper ( higher figures ) 版 : 0 02 000 use case he 施行 the 功能 uclogpaz 必要 to 认证 an 患者 high priority the hospital 组 up 00,001 卡 is `recorded in i s o description 测试 hospital input 卡 : 00,001 品 : 65323555 oracle 无效 input : 品 classes cover valid : ce2 classes 无效 : ce9

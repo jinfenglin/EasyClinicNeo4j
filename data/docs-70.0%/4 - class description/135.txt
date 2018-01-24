@@ -1,0 +1,1 @@
+类 guiselezionaprenotazione 日期 : 16/09/2003 版 : 0 01 000 使 描述 to permit the mask the 操作者 to select a 特定 预订 属性 那么 访问 描述 私人的 btnselezionaprenota 按键 that 允许 you to 确认 选项 the selection of the 保留 制作 in methods signature selezionaprenotazioni ( ) public 访问 it 描述 of the 恢复 of all information 必要 for the 实现 of guiselezionaprenotazioni

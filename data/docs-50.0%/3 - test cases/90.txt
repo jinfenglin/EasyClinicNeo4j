@@ -1,0 +1,1 @@
+测试 case reservation a 访问 日期 : c40 control preceded by 20/06/2003 a day 醫院 版 : 0 02 000 use case meets the request for a reservation ucprevis 服务 by outpatient a 患者 高 优先 组 up the last reservation is ` : 03/10/2003 小时 08 00 day 醫院 description 测试 输入 type selected 访问 : 访问 查 the oracle 系统 enables the reservation of 访问 classes 盖 有效 : ce3 ce7 classes are not 有效 : 没有

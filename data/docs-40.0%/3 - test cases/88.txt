@@ -1,0 +1,1 @@
+测试 案件 reservation a day date : c38 醫院 by a 20/06/2003 new 患者 版 : 0 02 000 使用 案件 meets the request for a reservation ucprevis 服务 by outpatient a 患者 high 优先 set up there are no previous reservations description 测试 input type selected 访问 : day 醫院 oracle 序列 invalid the system 允许 the reservation of the 访问 classes 盖 valid : ce2 ce5 classes are not valid : 没有

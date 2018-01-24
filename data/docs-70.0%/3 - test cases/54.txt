@@ -1,0 +1,1 @@
+登录 operator test 案件 by 日期 : c04 登录 注册 in s i o and 20/06/2003 不正确 password ( 少 人物 ) 版 : 0 02 000 使用 案件 he 施行 the 功能 ucvalope necessary to authenticate an operator 高 priority 组 up the 登录 rocolo is `recorded in the SIO 描述 test input 登录 : rocolo password : vir 神谕 无效 input : password classes 盖 有效 : ce2 classes 无效 : ce8

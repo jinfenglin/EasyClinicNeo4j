@@ -1,0 +1,1 @@
+validation test case patient 数据 : c10 卡 hospital by not 20/06/2003 正确 ( higher 人物 ) version : 0 02 000 use case he performs the functions ucvalpaz 必要 to 认证 an patient high priority 组 up not identified 描述 test hospital input 卡 : 000,000 oracle input invalid classes cover valid : none classes invalid : ce4

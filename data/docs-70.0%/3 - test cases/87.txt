@@ -1,0 +1,1 @@
+测试 案件 reservation a day date : c37 hospital 之前 by a 20/06/2003 other day hospital version : 0 02 000 使用 案件 符合 the 请求 for a reservation 你预测 service by outpatient a 患者 高 priority 组 up the 持续 reservation is ` : 03/10/2003 小时 08 00 day hospital 描述 测试 输入 type 选 访问 : day hospital 神谕 序列 invalid the 系统 允许 the reservation of the 访问 类 盖 有效 : ce2 ce7 类 are not 有效 : none

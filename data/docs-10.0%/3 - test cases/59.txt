@@ -1,0 +1,1 @@
+validation test case patient data : c09 card hospital by not 20/06/2003 sound ( 少 figures ) version : 0 02 000 use case he 施行 the functions ucvalpaz necessary to authenticate an patient high priority set up not identified description test hospital input card : 0000 oracle input invalid classes cover valid : none classes invalid : ce3
