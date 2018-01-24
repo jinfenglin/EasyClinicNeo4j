@@ -1,1 +1,0 @@
-test 案件 operator 登录 日期 : c01 's 登录 through 20/06/2003 正确 and 不正确 密码 torque ( 登录 密码 ) in s i o 版 : 0 02 000 use 案件 he 施行 the 功能 ucvalope 必要 to 认证 an operator high priority the 一对 set up ( 登录 密码 ) = ( rocolo virago ) is 记录 in the `s i o 描述 test input 登录 : rocolo 密码 : virago the oracle 系统 allows access the operator 类 盖 valid : ce1 ce2 ce6 ce7 类 are not valid : none

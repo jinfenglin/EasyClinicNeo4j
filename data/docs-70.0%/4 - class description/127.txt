@@ -1,1 +1,0 @@
-class guiresocontoesami 日期 : 16/09/2003 版 : 0 01 000 描述 make the 面具 on the 管理 of 报告 of the 考试 规定 in 访问 incurred in 门诊病人 属性 那么 access 描述 私人的 panelparametri 面板 含 the parameters necessary to set 标准 创建 of 报告 of the 考试 methods signature resocontoesami ( ) 上市 access it 描述 to find all the 信息 necessary to 生成 the report in 合规 with the 标准 规定

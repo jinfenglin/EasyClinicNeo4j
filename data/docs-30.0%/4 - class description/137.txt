@@ -1,1 +1,0 @@
-class guihospitalcard date : 16/09/2003 version : 0 01 000 description make the mask used for dell'hospital 视图 of a card newly recorded 患者 属性 name 访问 description methods 签名 visualizzahospitalcard ( ) public 访问 description display data 醫院 card 签名 stampahc ( ) public 访问 description its 任务 is to find the data for the 观看 data dell'hospital card

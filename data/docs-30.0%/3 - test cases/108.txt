@@ -1,1 +1,0 @@
-login test 案件 by patient data : c58 card hospital incorrect 20/06/2003 ( fewer digits ) and 品 recorded in s i o 版 : 0 02 000 使用 案件 he performs the 功能 uclogpaz 必要 to authenticate an patient 高 priority set up 65,323 the 品 is recorded in the `s i o description test hospital input card : 0000 品 : 65,323 oracle invalid input : hospital card classes 盖 valid : ce7 classes invalid : ce3

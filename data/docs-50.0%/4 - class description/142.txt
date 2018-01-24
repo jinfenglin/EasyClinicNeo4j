@@ -1,1 +1,0 @@
-类 operatoremanager 日期 : 16/09/2003 version : 0 01 000 描述 has the 任务 of managing the operations access easy 软件 system to clinch 2003 operator by the 属性 name access 描述 方法 登录 signature ( ) 上市 access 描述 its 任务 is to manage the operation 登录 of signature 登出 ( ) 上市 access 描述 its 任务 is to manage the operation 登出 of

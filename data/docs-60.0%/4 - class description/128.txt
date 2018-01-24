@@ -1,1 +1,0 @@
-class guiresocontoprenotazioni date : 16/09/2003 版 : 0 01 000 描述 make the 面具 on the 管理 of 报告 of 保留 in outpatient 属性 name access 描述 私人的 panelparametri 面板 containing all the parameters necessary to 组 criteria 创建 of 报告 reservations methods 签名 resocontoprenotazioni ( ) 上市 access it 描述 to 找 all the information necessary to 生成 the 报告 in 合规 with the criteria 规定

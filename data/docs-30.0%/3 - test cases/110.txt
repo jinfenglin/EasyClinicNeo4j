@@ -1,1 +1,0 @@
-login test case by patient data : c60 card hospital recorded 20/06/2003 in s i o and pin correct ( 少 figures ) version : 0 02 000 use case he 施行 the 功能 uclogpaz 必要 to authenticate an patient high priority the hospital set up 00,001 card is `recorded in i s o 描述 test hospital input card : 00,001 pin : 6532 oracle invalid input : pin classes 盖 有效 : ce2 classes invalid : ce8

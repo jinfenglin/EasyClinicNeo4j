@@ -1,1 +1,0 @@
-test 案件 reservation a day 日期 : c36 醫院 preceded by a 20/06/2003 visit control 版 : 0 02 000 use 案件 符合 the request for a reservation ucprevis service by outpatient a 患者 high 优先 组 up the 持续 reservation is ` : 02/10/2003 小时 09 00 visit control description test 输入 类型 选 visit : day 醫院 the oracle system 使 the reservation of visit 类 cover valid : ce2 ce8 类 are not valid : 没有

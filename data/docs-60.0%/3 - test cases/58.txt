@@ -1,1 +1,0 @@
-验证 测试 案件 患者 data : c08 card 醫院 through 20/06/2003 正确 ( 5 digits ) and in s i o 版 : 0 02 000 使用 案件 he performs the functions ucvalpaz necessary to 认证 an 患者 高 优先 the 醫院 set up 00,001 card must be recorded in s i o 描述 测试 醫院 输入 card : 00,001 the oracle 操作者 访问 to the 手术 validated 患者 classes 盖 valid : ce1 ce2 classes are not valid : 没有

@@ -1,1 +1,0 @@
-test case 保留 a first date : c31 from a visit 20/06/2003 新 患者 of the outpatient version : 0 02 000 使用 case 符合 the request for a 保留 ucprevis 服务 by outpatient a 患者 high priority 组 up there are no reservations description test input type selected visit : first visit the oracle system enables the 保留 of visit classes cover 有效 : ce1 ce5 classes are not 有效 : 没有

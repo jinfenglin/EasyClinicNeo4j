@@ -1,1 +1,0 @@
-login test 案件 by patient 数据 : c60 card hospital 记录 20/06/2003 in s i o and pin correct ( 少 人物 ) 版 : 0 02 000 use 案件 he 施行 the 功能 uclogpaz necessary to authenticate an patient high 优先 the hospital 组 up 00,001 card is `recorded in i s o description test hospital input card : 00,001 pin : 6532 神谕 无效 input : pin 类 cover 有效 : ce2 类 无效 : ce8

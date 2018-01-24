@@ -1,1 +1,0 @@
-测试 案件 reservation a first date : c31 from a 访问 20/06/2003 新 患者 of the 门诊病人 版 : 0 02 000 使用 案件 meets the 请求 for a reservation 你预测 service by 门诊病人 a 患者 high priority set up there are no 预订 description 测试 输入 类型 selected 访问 : first 访问 the oracle system 使 the reservation of 访问 classes cover 有效 : ce1 ce5 classes are not 有效 : none

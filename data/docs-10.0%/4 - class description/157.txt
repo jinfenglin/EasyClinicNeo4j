@@ -1,1 +1,0 @@
-class tipoesame date : 15/09/2003 version : 0 01 000 description contains a description of the different types of tests that can be made 属性 name access description private description description of the type of examination methods signature access description

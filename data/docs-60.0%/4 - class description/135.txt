@@ -1,1 +1,0 @@
-class guiselezionaprenotazione date : 16/09/2003 version : 0 01 000 使 description to permit the 面具 the 操作者 to select a particular reservations 属性 name access description 私人的 btnselezionaprenota 按键 that 允许 you to confirm 选项 the 选择 of the 保留 制作 in 方法 签名 selezionaprenotazioni ( ) 上市 access it description of the 恢复 of all 信息 necessary for the 实现 of guiselezionaprenotazioni

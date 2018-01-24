@@ -1,1 +1,0 @@
-测试 案件 保留 a 第一 日期 : c34 preceded by a visit 20/06/2003 visit control version : 0 02 000 使用 案件 meets the 请求 for a 保留 ucprevis service by 门诊病人 a patient 媒体 优先 组 up the 持续 保留 is ` : 30/09/2003 小时 10 30 visit control 描述 测试 input type selected visit : 第一 visit oracle sequence invalid the 系统 allows the 保留 of the visit classes cover 有效 : ce1 ce8 classes are not 有效 : 没有

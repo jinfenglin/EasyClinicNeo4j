@@ -1,1 +1,0 @@
-test 案件 保留 a visit date : c40 控制 preceded by 20/06/2003 a day hospital version : 0 02 000 use 案件 meets the request for a 保留 ucprevis service by outpatient a 患者 high priority 组 up the last 保留 is ` : 03/10/2003 小时 08 00 day hospital description test 输入 type 选 visit : visit 查 the oracle system 使 the 保留 of visit classes cover valid : ce3 ce7 classes are not valid : none

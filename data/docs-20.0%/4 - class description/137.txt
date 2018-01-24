@@ -1,1 +1,0 @@
-class guihospitalcard date : 16/09/2003 version : 0 01 000 description make the mask used for dell'hospital view of a 卡 新 recorded 患者 attributes name access description methods signature visualizzahospitalcard ( ) public access description 显示 data hospital 卡 signature stampahc ( ) public access description its task is to 找 the data for the viewing data dell'hospital 卡

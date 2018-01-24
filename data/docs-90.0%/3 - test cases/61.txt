@@ -1,1 +1,0 @@
-验证 测试 案件 patient 数据 : c11 card 醫院 through 20/06/2003 but not 存储 正确 in s i o 版 : 0 02 000 使用 案件 he 施行 the 功能 ucvalpaz necessary to 认证 an patient 高 优先 the 醫院 组 up 99,999 card should not be 记录 in s i o 描述 测试 醫院 输入 card : 99,999 the 神谕 系统 does not 允许 access to 部分 on patient 类 盖 有效 : ce1 类 无效 : ce5
