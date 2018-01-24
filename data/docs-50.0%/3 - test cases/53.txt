@@ -1,1 +1,0 @@
-login operator 测试 case by 日期 : c03 login 不正确 ( number 20/06/2003 top character ) and 密码 存储 on the i s o 版 : 0 02 000 使用 case he performs the 功能 ucvalope 必要 to authenticate an operator high priority set up virago the 密码 is `recorded in the SIO description 测试 input login : roccoliveto 密码 : virago 神谕 无效 input : login classes 盖 valid : ce7 classes 无效 : ce4

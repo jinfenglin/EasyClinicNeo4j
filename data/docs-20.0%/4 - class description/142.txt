@@ -1,1 +1,0 @@
-class operatoremanager date : 16/09/2003 version : 0 01 000 描述 has the task of managing the operations 访问 easy 软件 system to clinch 2003 operator by the 属性 name 访问 描述 methods login signature ( ) public 访问 描述 its task is to manage the operation login of signature logout ( ) public 访问 描述 its task is to manage the operation logout of

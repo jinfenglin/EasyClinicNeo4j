@@ -1,1 +1,0 @@
-reservation test case for a 类型 of 日期 : c43 is not expected visit 20/06/2003 preceded by a visit by 查 版 : 0 02 000 use case meets the 请求 for a reservation ucprevis 服务 by outpatient a patient media priorities set up the last reservation is ` : 07/10/2003 小时 10 00 visit control 描述 test input 类型 selected visit : np oracle input invalid 类 cover valid : ce8 类 invalid : ce4

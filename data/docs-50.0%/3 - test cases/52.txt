@@ -1,1 +1,0 @@
-login operator 测试 case by date : c02 login incorrect ( 数 20/06/2003 fewer characters ) and 密码 stored on the i s o 版 : 0 02 000 使用 case he 施行 the 功能 ucvalope necessary to authenticate an operator high 优先 set up virago the password is `recorded in the SIO 描述 测试 输入 login : 鹏 password : virago 神谕 无效 输入 : login classes 盖 valid : ce7 classes 无效 : ce3

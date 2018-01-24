@@ -1,1 +1,0 @@
-test case 保留 a visit date : c42 控制 preceded by 20/06/2003 before a visit 版 : 0 02 000 使用 case 符合 the 请求 for a 保留 ucprevis 服务 by outpatient a patient media priorities 组 up the 持续 保留 is ` : 03/09/2003 hours 09 00 第一 visit description test input type 选 visit : visit check oracle 序列 invalid the 系统 allows the 保留 of the visit classes cover valid : ce3 ce6 classes are not valid : 没有

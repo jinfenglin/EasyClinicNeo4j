@@ -1,1 +1,0 @@
-保留 test case for a 类型 of 日期 : c43 is not expected visit 20/06/2003 之前 by a visit by 查 version : 0 02 000 use case 符合 the request for a 保留 ucprevis service by outpatient a patient media priorities set up the last 保留 is ` : 07/10/2003 小时 10 00 visit 控制 描述 test input 类型 选 visit : np 神谕 input invalid classes cover 有效 : ce8 classes invalid : ce4

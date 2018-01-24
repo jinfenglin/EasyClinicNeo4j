@@ -1,1 +1,0 @@
-测试 case reservation a 第一 日期 : c32 访问 之前 by 另一个 20/06/2003 第一 访问 版 : 0 02 000 use case 符合 the 请求 for a reservation 你预测 服务 by 门诊病人 a 患者 高 优先 组 up the last reservation is ` : 24/09/2003 小时 09 00 第一 访问 描述 测试 输入 类型 selected 访问 : 第一 访问 oracle 序列 无效 the 系统 允许 the reservation of the 访问 类 盖 valid : ce1 ce6 类 are not valid : 没有

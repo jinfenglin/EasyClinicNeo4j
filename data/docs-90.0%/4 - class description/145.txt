@@ -1,1 +1,0 @@
-类 pazientemanager 日期 : 14/09/2003 版 : 0 01 000 描述 has the task to 管理 操作 要求 访问 to 个人 数据 of 耐心 属性 那么 访问 描述 methods 签名 editpaziente ( ) 上市 访问 描述 管理 更新 of 数据 a 患者 签名 findpaziente ( ) 上市 访问 描述 检查 for a particular 患者 in the s i o 签名 getdatipaziente ( ) 上市 访问 描述 its task is to 找 all the information 有关 to 个人 数据 of a 特定 患者 签名 newpaziente ( ) 上市 访问 描述 its task is to 创建 a 新 患者

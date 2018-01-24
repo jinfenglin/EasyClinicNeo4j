@@ -1,1 +1,0 @@
-validation 测试 案件 患者 data : c11 卡 醫院 through 20/06/2003 but not 存储 properly in s i o 版 : 0 02 000 使用 案件 he 施行 the functions ucvalpaz 必要 to authenticate an 患者 high 优先 the 醫院 组 up 99,999 卡 should not be recorded in s i o description 测试 醫院 输入 卡 : 99,999 the 神谕 系统 does not allow 访问 to 部分 on 患者 类 盖 valid : ce1 类 无效 : ce5

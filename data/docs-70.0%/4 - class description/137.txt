@@ -1,1 +1,0 @@
-class guihospitalcard 日期 : 16/09/2003 版 : 0 01 000 描述 使 the mask 用过的 for dell'hospital view of a 卡 新 记录 patient 属性 name 访问 描述 方法 signature visualizzahospitalcard ( ) 上市 访问 描述 display 数据 hospital 卡 signature stampahc ( ) 上市 访问 描述 its 任务 is to 找 the 数据 for the 观看 数据 dell'hospital 卡

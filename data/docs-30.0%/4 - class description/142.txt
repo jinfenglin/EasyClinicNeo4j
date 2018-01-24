@@ -1,1 +1,0 @@
-class operatoremanager date : 16/09/2003 version : 0 01 000 description has the task of managing the operations 访问 简单 software 系统 to clinch 2003 操作者 by the attributes name 访问 description methods login signature ( ) public 访问 description its task is to 管理 the operation login of signature logout ( ) public 访问 description its task is to 管理 the operation logout of

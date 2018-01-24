@@ -1,1 +1,0 @@
-validation 测试 案件 患者 data : c15 税 码 through 20/06/2003 正确 but not 注册 in s i o version : 0 02 000 使用 案件 he 施行 the functions ucvalpaz 必要 to 认证 an 患者 high priority 组 up the 税 码 should not rganll80c14h703e be 注册 in s i o 描述 测试 输入 税 : rganll80c14h703e the 神谕 系统 does not 允许 access to section on 患者 类 盖 有效 : ce6 类 invalid : ce10

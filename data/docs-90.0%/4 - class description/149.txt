@@ -1,1 +1,0 @@
-类 cartellaclinicamanager date : 16/09/2003 版 : 0 01 000 描述 its 任务 is to 管理 the 数据 that 使 up the 医 记录 of a 患者 属性 那么 access 描述 方法 签名 getcartellaclinica ( ) public access it 描述 to 找 all the 信息 on the 诊所 菲尔德斯塔特 of a 患者 签名 getdettagli ( ) public access 描述 提供 a 加载 all the 细节 of a 访问 签名 getdatipaziente ( ) public access 描述 has the 任务 of 发现 the 注册处 数据 of 患者

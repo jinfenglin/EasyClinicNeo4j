@@ -1,1 +1,0 @@
-class guiresocontovisite 日期 : 16/09/2003 version : 0 01 000 描述 make the mask on the management of 报告 of visits 需要 in 门诊病人 attributes 那么 access 描述 私人的 panelparametri 面板 含 the parameters necessary to 组 criteria 创建 of report of visits 方法 signature resocontovisite ( ) 上市 access it 描述 to 找 all the information necessary to generate the report in compliance with the criteria specified

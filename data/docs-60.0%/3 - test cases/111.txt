@@ -1,1 +1,0 @@
-login 测试 case by patient 数据 : c61 card 醫院 记录 20/06/2003 in s i o and 品 正确 ( 更高 figures ) 版 : 0 02 000 使用 case he 施行 the functions uclogpaz 必要 to authenticate an patient 高 优先 the 醫院 set up 00,001 card is `recorded in i s o description 测试 醫院 input card : 00,001 品 : 65323555 神谕 无效 input : 品 classes cover 有效 : ce2 classes 无效 : ce9

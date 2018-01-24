@@ -1,1 +1,0 @@
-类 guiresocontoesami 日期 : 16/09/2003 版 : 0 01 000 描述 使 the 面具 on the 管理 of 报告 of the 考试 规定 in visits 发生 in 门诊病人 attributes name 访问 描述 私人的 panelparametri panel containing the 参数 necessary to 组 标准 创建 of 报告 of the 考试 methods 签名 resocontoesami ( ) 上市 访问 it 描述 to 找 all the 信息 necessary to 生成 the 报告 in 合规 with the 标准 规定

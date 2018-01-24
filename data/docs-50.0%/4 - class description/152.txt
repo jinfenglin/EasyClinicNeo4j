@@ -1,1 +1,0 @@
-操作者 class date : 20/09/03 版 : 0 01 000 it contains 说明 for your employees of the 门诊病人 attributes name 访问 描述 私人的 操作者 login login 私人的 密码 相关 with the login 密码 methods signature validaoperatore ( ) 上市 访问 it 描述 of the 程序 for validation of 操作者

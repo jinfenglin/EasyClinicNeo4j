@@ -1,1 +1,0 @@
-测试 案件 保留 a day 日期 : c35 醫院 preceded by a 20/06/2003 first visit 版 : 0 02 000 use 案件 符合 the 请求 for a 保留 ucprevis 服务 by 门诊病人 a patient 高 优先 组 up the 持续 保留 is ` : 26/09/2003 小时 11 00 first visit description 测试 input type 选 visit : day 醫院 the 神谕 系统 enables the 保留 of visit classes cover valid : ce2 ce6 classes are not valid : 没有

@@ -1,1 +1,0 @@
-class operatoremanager 日期 : 16/09/2003 版 : 0 01 000 description has the task of managing the 操作 访问 简单 software 系统 to clinch 2003 operator by the attributes name 访问 description methods login 签名 ( ) 上市 访问 description its task is to 管理 the operation login of 签名 logout ( ) 上市 访问 description its task is to 管理 the operation logout of

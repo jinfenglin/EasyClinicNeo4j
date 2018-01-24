@@ -1,1 +1,0 @@
-test case reservation a 天 date : c38 hospital by a 20/06/2003 新 patient 版 : 0 02 000 使用 case meets the 请求 for a reservation ucprevis 服务 by 门诊病人 a patient 高 优先 组 up there are no 以前 预订 description test 输入 type 选 访问 : 天 hospital 神谕 序列 invalid the 系统 允许 the reservation of the 访问 类 盖 有效 : ce2 ce5 类 are not 有效 : 没有

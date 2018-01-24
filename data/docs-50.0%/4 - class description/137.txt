@@ -1,1 +1,0 @@
-class guihospitalcard date : 16/09/2003 版 : 0 01 000 description 使 the 面具 used for dell'hospital 视图 of a 卡 newly 记录 patient 属性 name 访问 description methods 签名 visualizzahospitalcard ( ) 上市 访问 description 显示 data hospital 卡 签名 stampahc ( ) 上市 访问 description its 任务 is to find the data for the 观看 data dell'hospital 卡

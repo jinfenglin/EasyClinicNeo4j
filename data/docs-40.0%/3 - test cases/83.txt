@@ -1,1 +1,0 @@
-测试 案件 保留 a 第一 date : c33 visit preceded by a day 20/06/2003 醫院 version : 0 02 000 使用 案件 符合 the request for a 保留 你预测 service by 门诊病人 a patient high 优先 组 up the last 保留 is ` : 25/09/2003 小时 08 00 day 醫院 description 测试 input 类型 selected visit : 第一 visit oracle sequence invalid the system allows the 保留 of the visit 类 cover valid : ce1 ce7 类 are not valid : none

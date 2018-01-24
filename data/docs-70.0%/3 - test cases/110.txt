@@ -1,1 +1,0 @@
-登录 测试 案件 by 患者 数据 : c60 card 醫院 recorded 20/06/2003 in s i o and 品 correct ( fewer 人物 ) 版 : 0 02 000 使用 案件 he 施行 the functions uclogpaz necessary to authenticate an 患者 高 优先 the 醫院 组 up 00,001 card is `recorded in i s o 描述 测试 醫院 输入 card : 00,001 品 : 6532 oracle 无效 输入 : 品 类 cover 有效 : ce2 类 无效 : ce8

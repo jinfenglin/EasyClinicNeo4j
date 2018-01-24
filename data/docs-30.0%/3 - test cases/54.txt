@@ -1,1 +1,0 @@
-login operator 测试 case by date : c04 login 注册 in s i o and 20/06/2003 不正确 password ( fewer characters ) version : 0 02 000 use case he performs the functions ucvalope necessary to authenticate an operator high 优先 组 up the login rocolo is `recorded in the SIO 描述 测试 输入 login : rocolo password : vir oracle invalid 输入 : password classes cover valid : ce2 classes invalid : ce8
