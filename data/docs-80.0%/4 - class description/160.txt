@@ -1,1 +1,0 @@
-class tipovisita 日期 : 20/09/03 version : 0 01 000 description 包含 a description of the 不同 类型 of 访问 that 可能 be 制作 in 门诊病人 attributes 那么 访问 description 私人的 code code 类型 of 访问 ( 天 即 C ) 私人的 description description of the 类型 of 访问 方法 签名 访问 description

@@ -1,1 +1,0 @@
-validation test case patient data : c13 tax code by not 20/06/2003 correct ( fewer figures ) version : 0 02 000 use case he 施行 the functions ucvalpaz necessary to 认证 an patient high priority set up not identified description test input tax : zccrcc80d oracle input invalid classes cover valid : none classes invalid : ce8

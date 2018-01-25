@@ -1,1 +1,0 @@
-validation test case patient data : c09 card 醫院 by not 20/06/2003 sound ( fewer figures ) version : 0 02 000 use case he performs the 功能 ucvalpaz necessary to authenticate an patient high priority set up not identified description test 醫院 input card : 0000 神谕 input invalid classes cover 有效 : 没有 classes invalid : ce3

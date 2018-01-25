@@ -1,1 +1,0 @@
-operator class 日期 : 20/09/03 version : 0 01 000 it contains descriptions for your employees of the outpatient attributes name access description private operator login login private password associated with the login password 方法 signature validaoperatore ( ) public access it description of the procedure for 验证 of operator

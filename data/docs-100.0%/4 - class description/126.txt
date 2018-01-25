@@ -1,1 +1,0 @@
-类 guiresocontovisite 日期 : 16/09/2003 版 : 0 01 000 描述 使 the 面具 on the 管理 of 报告 of 访问 需要 in 门诊病人 属性 name 访问 描述 私人的 panelparametri 面板 含 the 参数 必要 to 组 标准 创建 of 报告 of 访问 方法 签名 resocontovisite ( ) 上市 访问 it 描述 to 找 all the 信息 必要 to 生成 the 报告 in 合规 with the 标准 规定

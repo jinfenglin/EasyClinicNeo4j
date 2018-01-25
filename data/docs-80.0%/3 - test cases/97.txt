@@ -1,1 +1,0 @@
-测试 房屋 删除 a 天 日期 : c47 醫院 以下 a 第一 20/06/2003 and 先于 a 访问 访问 control 版 : 0 02 000 使用 案件 符合 the request for 删除 of ucannpre a 预订 服务 made by an 动态 患者 high 优先 组 up the 以前 保留 is ` : 26/09/2003 hours 11 00 第一 访问 the 保留 is `next : 30/09/2003 hours 09 00 访问 control 描述 test input 访问 选 : 29/09/2003 hours 08 00 天 醫院 神谕 序列 invalid the 系统 allows 取消 类 盖 有效 : ce2 ce7 ce13 类 are not 有效 : 没有

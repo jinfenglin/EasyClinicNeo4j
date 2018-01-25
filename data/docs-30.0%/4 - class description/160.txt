@@ -1,1 +1,0 @@
-class tipovisita date : 20/09/03 版 : 0 01 000 description contains a description of the different types of visit that may be 制作 in 门诊病人 attributes name access description private code code type of visit ( pv 即 C ) private description description of the type of visit methods signature access description

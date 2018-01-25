@@ -1,1 +1,0 @@
-class guiselezionaprenotazione date : 16/09/2003 版 : 0 01 000 make 描述 to permit the mask the 操作者 to 选择 a particular 预订 attributes name 访问 描述 private btnselezionaprenota button that allows you to confirm options the 选择 of the reservation made in methods signature selezionaprenotazioni ( ) public 访问 it 描述 of the 恢复 of all 信息 necessary for the realization of guiselezionaprenotazioni

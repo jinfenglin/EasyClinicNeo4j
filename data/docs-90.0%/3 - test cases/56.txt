@@ -1,1 +1,0 @@
-登录 操作者 测试 案件 by 日期 : c06 登录 注册 in s i o 20/06/2003 and 密码 正确地 but not 记录 in s i o 版 : 0 02 000 use 案件 he 施行 the 功能 ucvalope 必要 to 认证 an 操作者 高 优先 组 up the 登录 rocolo is `recorded in the sio the 密码 is `rocco not 注册 in i s o 描述 测试 输入 登录 : rocolo 密码 : rocco the 神谕 system does not 允许 访问 to 患者 类 盖 有效 : ce2 类 无效 : ce10

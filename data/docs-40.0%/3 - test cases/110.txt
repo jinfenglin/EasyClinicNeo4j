@@ -1,1 +1,0 @@
-login test case by patient data : c60 card hospital recorded 20/06/2003 in s i o and pin correct ( fewer 人物 ) version : 0 02 000 使用 case he 施行 the functions uclogpaz necessary to 认证 an patient 高 优先 the hospital 组 up 00,001 card is `recorded in i s o description test hospital input card : 00,001 pin : 6532 神谕 invalid input : pin classes 盖 有效 : ce2 classes invalid : ce8

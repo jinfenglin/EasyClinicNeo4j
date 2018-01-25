@@ -1,1 +1,0 @@
-validation 测试 case patient 数据 : c10 卡 hospital by not 20/06/2003 proper ( higher 人物 ) version : 0 02 000 use case he 施行 the 功能 ucvalpaz 必要 to 认证 an patient 高 优先 组 up not identified description 测试 hospital 输入 卡 : 000,000 神谕 输入 invalid classes 盖 有效 : 没有 classes invalid : ce4

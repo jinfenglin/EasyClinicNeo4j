@@ -1,1 +1,0 @@
-验证 测试 case patient 数据 : c10 卡 hospital by not 20/06/2003 proper ( higher 人物 ) version : 0 02 000 使用 case he 施行 the functions ucvalpaz necessary to 认证 an patient high 优先 组 up not 确定 description 测试 hospital input 卡 : 000,000 oracle input 无效 classes cover valid : 没有 classes 无效 : ce4
