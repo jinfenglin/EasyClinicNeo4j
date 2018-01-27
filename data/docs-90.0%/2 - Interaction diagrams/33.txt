@@ -1,0 +1,28 @@
+插入anagrafica实验室
+该服务是在明确要求后发起的
+by the actor The Operator logs on to form
+主（例如G​​UIPrincipale）并在那里选择功能
+然后实验室认证管理控制
+GUIPrincipaleHandler to the instance of the delegation which application
+GUIAnagraficaLaboratorioHandler提供的任务
+服务的第一步是获取所有的列表
+因此，实验室控制传递给实例
+LaboratorioManager通过它实验室的实例
+检索列表并将其返回给应用程序
+GUIAnagraficaLaboratorioHandler现在，该对象
+应显示收到的实验室名单
+the mask on the management of database
+实验室（例如GUIAnagraficaLaboratorio）运营商
+激活实验室登记册的功能
+插入新门诊的数据并确认数据
+控制权传递给GUIAnagraficaLaboratorioHandler的实例
+该代表团将包括一个新的实验室
+LaboratorioManager的应用程序通过
+实验室的主体，以确保包容和
+在新实验室保存数据通过了
+接下来是GUIAnagraficaLaboratorioHandler
+通过成功的方式处理通知
+在屏幕上显示一条消息
+管理实验室（例如
+GUIAnagraficaLaboratorio）此功能已被描述`
+通过图3的协作图4

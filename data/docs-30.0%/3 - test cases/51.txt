@@ -1,0 +1,20 @@
+测试用例操作员登录日期：
+C01的登录截止日期为20/06/2003
+correct and incorrect password
+torque (login password)
+in S I O
+Version:
+0 02 000
+Use Case He performs the functions
+UcValOpe necessary to authenticate an
+Operator
+High Priority
+这对夫妇设置了（登录密码）=（Rocolo
+Virago）被记录在`S我O.
+Description test
+输入登录名：Rocolo
+Password: Virago
+The Oracle system allows access
+the operator
+Classes cover valid: CE1 CE2 CE6 CE7
+Classes are not valid: None

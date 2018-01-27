@@ -1,0 +1,31 @@
+GUICartellaClinica类日期：18/09/2003
+版：
+0 01 000
+Description Make the mask used for
+查看临床文件夹
+患者
+属性
+名称访问说明
+Private btnDettagli button used to display the
+选择访问的细节
+私人btnRitorna按钮，允许您返回
+主要形式是GUIPrincipale
+包含anagrafica数据的专用panelDatiAnagraf面板
+这里有病人
+包含网格的私人面板ElencoVisit面板
+和什么出现访问
+病人声称
+方法
+签名visualizzaDatiPaziente（）公共访问
+请参阅顶部的说明
+掩盖病人的anagrafica数据
+签名visualizzaElencoVisite（）公共访问
+说明查看格栅（panelDatiAnagrafici）
+包含Patient支付的访问
+签名getCartellaClinica（）公共访问
+获取患者临床文件夹的描述
+Signature dettagliVisita () Public Access
+说明管理由患者生成的事件
+决定查看访问的详细信息
+点击细节中的按钮
+由GUICartellaClinica实施的面具

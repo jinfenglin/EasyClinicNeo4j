@@ -1,0 +1,34 @@
+Class PrintManager日期：
+16/09/2003
+版：
+0 01 000
+说明它负责管理印刷机的操作
+贡献给运营商
+属性
+名称访问说明
+
+Methods
+签名stampaHospitalCard（）公共访问
+说明它的任务是提供检索
+information necessary for printing the
+hospital card
+签名printPianoSettimanale（）公共访问
+说明它的任务是提供检索
+information necessary for printing the plan
+以表格形式每周预订
+签名stampaResocontoEsami（）公共访问
+说明它的任务是提供检索
+information necessary for printing
+报告运营商的考试
+需要
+签名printResidential信息（公共访问
+)
+说明它的任务是提供检索
+打印所需的信息
+reports of reservations that the Operator has
+需要
+签名stampaResocontoVisite（）公共访问
+说明它的任务是提供检索
+打印所需的信息
+运营商的访问记录
+需要

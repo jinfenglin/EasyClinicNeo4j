@@ -1,0 +1,42 @@
+Delete anagrafica doctor
+It allows the operator to delete
+the anagrafica of a doctor who works
+at the outpatient
+He works for the delete of data
+of anagrafica related to a doctor
+The Operator has been recognized by `
+System (See UcValOp) and anagrafica
+`the doctor is present within the
+并与O.
+The details of the doctor
+are not modified, remain in
+This state was before execution
+Success: The  doctor anagrafica is
+successfully deleted
+操作员激活执行
+delete of the register service
+Laboratory
+1 View the list of
+laboratories that are
+在S I O中
+2 Select the doctor which
+改变anagrafica
+3 Confirm the selection
+4 View the mask
+to delete
+the doctor anagrafica
+6 confirm to delete of
+doctor
+7 Delete the data
+关于anagrafica的
+doctor
+通知8该操作
+it is `finished with
+成功
+Operator cancels operation
+3 1 ends the execution of use case with
+6 1 failure
+4 1面具将包含有关医疗的数据
+selected so as to allow the operator
+to examine them in detail before proceeding
+to delete

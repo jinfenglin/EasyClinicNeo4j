@@ -1,0 +1,21 @@
+Login Operator test case by Date:
+C07 login correct but not 20/06/2003
+记录在S I O和
+passwords stored on the
+I S O
+版：
+0 02 000
+用例他执行这些功能
+UcValOpe necessary to authenticate an
+Operator
+High Priority
+设置登录橄榄树林未在`中注册
+I S O
+The password is `Virago registered in S I O
+Description test
+Input Login: olive grove
+密码：Virago
+Oracle系统不允许访问
+patient
+Classes cover valid: CE1 CE7
+Classes invalid: CE5

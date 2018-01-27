@@ -1,0 +1,31 @@
+显示诊所文件夹
+这项服务是在明确要求之后发起的
+患者演员Patient的部分访问表单
+主要（例如GUIPrincipale）的管理
+all services provided by the system to the demands of patients
+并在那里选择他们的诊所文件夹的显示
+然后病人将控制权交给病人
+GUIPrincipaleHandler代表的实例
+GUICartellaClinicaHandler管理服务的任务
+要采取的第一步是查找数据
+Patient进行的所有访问和检查
+申请人，因此控制权转移到了实例
+CartellaClinicaManager At this point through a process
+iterative are the retrieval of all visits and all
+步骤进行如下：身体的
+VisiteManager通过应用数据访问找到
+for a visit and then passes control
+EsamiManager application to ensure that through instances of
+Consideration for finding all the examinations for the visit
+在这个过程结束时，结果被发送
+到CartellaClinicaManager的实例下一步
+is to find anarafica data relating to patient
+申请人，因此控制权转移到了实例
+PazienteManager through which the request for Patient Recovers
+such data and sends them up backward to the instance of
+CartellaClinicaManager此时控制开关
+GUICartellaClinicaHandler的实例
+anagrafica数据的可视化和患者访问
+在管理文件夹上的蒙版上执行
+诊所（例如GUICartellaClinica）这个功能是`
+been described by the collaboration diagram of Fig 3 11

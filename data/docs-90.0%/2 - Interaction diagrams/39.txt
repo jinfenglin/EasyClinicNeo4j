@@ -1,0 +1,17 @@
+Access section patient failed (by code
+医院卡）
+这项服务是在明确要求之后发起的
+由演员操作员登录形成
+on the management section of the patient (body
+的GUILoginPaziente）插入医院卡的代码
+已提出请求并选择功能的患者
+验证控制然后应用
+代表实例的GUILoginPazienteHandler
+HospitalCardManager管理服务的任务
+后者负责验证输入的数据
+通过申请医院卡失败
+该事务被通知向后的实例
+应显示GUILoginPazienteHandler
+屏幕访问（应用程序
+GUILoginPaziente）这个特性已经被``描述了
+图3的序列图14

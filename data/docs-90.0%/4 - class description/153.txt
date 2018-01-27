@@ -1,0 +1,25 @@
+医疗类日期：20/09/03
+版：
+0 01 000
+包含年龄的医生的描述
+在门诊
+Attributes
+名称访问说明
+私人的Anno Abilitazione医生在哪一年
+许可执业
+职业
+方法
+签名创建（）公共访问
+说明它的任务是创建一个新类型的对象
+医生
+Signature delete () Public Access
+它描述了删除一个
+医生
+签名GetAttributes（）公共访问
+它描述了所有的检索
+有关医生的信息
+签名保存（）公共访问
+Description Provides storage of data from an
+S I O内的医生
+签名setAttributes（）公共访问
+它描述了设置一个医生的属性

@@ -1,0 +1,47 @@
+Class GUIPrenotaVisita Date: 16/09/2003
+版本：0 01 000
+说明在管理上制作蒙版
+预约参观
+属性
+Name Access Description
+私人btnAnnulla按钮，允许您返回
+由面具实施
+GUIPaziente
+Private btnConfermaTipo button that allows you to confirm
+type of access to reservation
+Private btnPrenota button that allows you to confirm
+预订
+Private panelDataVisita panel containing the date of
+建议系统访问
+包含必要数据的专用panelDati面板
+to make a reservation
+Private panelTipoVisita panel containing the various types of
+参观哪个可以预定
+方法
+签名notificaSuccesso（）公共访问
+说明它的任务是通知成功
+的
+签名秀（）公共访问
+说明查看蒙版
+签名visualizzaDataVisi公共访问
+他 ()
+说明查看系统提出的日期
+签名visualizzaDatiVisi公共访问
+ta ()
+说明查看预订的数据
+签名消除Prenotazione（）公共访问
+说明管理操作员生成的事件
+Select a reservation and start the procedure
+delete
+签名修改Prenotazione（）公共访问
+Description Manages the event generated when the Operator
+选择一个预订并开始程序
+改变
+Signature prenotaVisita () Public Access
+说明管理操作员生成的事件
+选择并启动预订过程
+新的访问
+Signature primaVisita () Public Access
+Description Manages the event generated when the Operator
+选择一个预订并开始程序
+保留第一次访问

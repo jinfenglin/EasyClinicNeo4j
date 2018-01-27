@@ -1,0 +1,26 @@
+Class GUILogin Date: 16/09/2003
+版：
+0 01 000
+说明制作引导操作员的面罩
+during the validation
+Attributes
+名称访问说明
+私人btnAnnulla按钮用于结束
+the implementation of Easy Clinic 2003
+Operator
+Private btnEsegui button used to confirm
+数据
+Private panelDati panel containing the boxes
+运营商进入的文本
+登录
+Methods
+Signature showLoginError () Public Access
+说明如果显示错误消息
+在验证过程中
+is not successful
+签名登录（）公共访问
+说明管理患者发生的事件
+开始验证过程
+签名注销（）公共访问
+说明当操作员离开时管理事件
+the system

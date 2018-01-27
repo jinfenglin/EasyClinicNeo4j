@@ -1,0 +1,13 @@
+运营商级日期：20/09/03
+版：
+0 01 000
+It contains descriptions for your employees
+的门诊病人
+属性
+名称访问说明
+私人运营商登录登录
+与登录密码相关的私人密码
+方法
+Signature validaOperatore () Public Access
+它描述了验证的程序
+的运营商

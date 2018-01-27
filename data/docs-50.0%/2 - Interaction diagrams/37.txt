@@ -1,0 +1,30 @@
+input examination
+该服务是在明确要求后发起的
+by the actor The Operator logs on to form
+关于访问的管理（例如GUIVisita）
+Select from a visit to add a assessment and
+activates the function of inserting a new examination Control
+然后到代表的GUIVisitaHandler的实例
+GUIEsameHandler to the instance of the task of providing the service
+第一步是找到有关信息
+visit that the operator has selected therefore control passes
+通过应用程序的VisiteManager的应用程序
+访问访问的检索信息
+选择并将控制权传递给该EsamiManager的实例
+through the examination of bodies found a list containing the
+有关考试访问的信息列表是
+GUIVisitaHandler返回到接收实例
+控制并确保访问的显示
+examinations on the mask on the management of examinations
+（GUIEsami的例子）
+操作员插入数据进一步检查和确认
+在这一点上包含控制开关
+GUIEsamiHandler到代表团的实例
+enter a new examination of the application latter EsameManager
+through the application for review to ensure the inclusion and
+Saving data for further examination and passes control
+to the instance of GUIEsameHandler which in turn deals with
+通过查看通知成功
+a special message in the mask on the management
+examinations (for instance GUIEsame) This feature is was
+described by the collaboration diagrams of Fig 3 22

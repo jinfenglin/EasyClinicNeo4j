@@ -1,0 +1,31 @@
+验证患者
+He works to perform the functions
+necessary to authenticate an
+patient
+这是登录到的兴趣
+see your information
+The patient must be in possession of
+医院卡
+病人不认识
+system
+Success: The patient is recognized by `
+system and access to its section
+Patient access to Box Tower
+1 View the mask
+为操作
+登录
+2输入代码
+Hospital Card and the code
+PIN
+3 Confirm validation
+4 Verify that the couple
+(Hospital Card PIN)
+identifies a patient
+within S I O
+患者取消功能
+validation
+3 1 ends the execution of use case with
+failure
+验证失败
+4 1 Show appropriate message
+4 2 Reinserts running from 1 step

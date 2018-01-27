@@ -1,0 +1,23 @@
+GUITempiMedi类日期：16/09/2003
+Version: 0 01 000
+说明它的任务是显示掩码
+on the calculation of the average time that are
+occurred to serve a request for
+预订
+Attributes
+Name Access Description
+Private btnUscita button that allows you to return
+the mask represented by
+GUIPrincipale
+Private graphRisultati Chart shows the average time that
+是为了服务而发生的请求
+Reservations
+Private panelRisultati panel with the results
+(numerical) obtained from the calculation of
+平均时间服务的要求
+Reservations
+Methods
+Signature tempiMedi () Public Access
+It description to find all the information
+necessary for the calculation of average
+有待

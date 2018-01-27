@@ -1,0 +1,19 @@
+通过患者数据登录测试案例：
+医院C57卡的正确密码20/06/2003
+正确和夫妻
+（医院卡密码）
+在S I O中
+版：
+0 02 000
+用例他执行这些功能
+UcLogPaz验证一个
+患者
+高优先级
+The couple set up (Hospital Card PIN) = (00,001
+65323）在`S I O中注册
+描述测试
+Hospital Input Card: 00,001
+pin: 65,323
+Oracle系统允许访问患者
+类别覆盖有效：CE1 CE2 CE6 CE7
+类无效：无

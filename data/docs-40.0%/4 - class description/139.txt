@@ -1,0 +1,17 @@
+Class GUIElencoPrenotazioni Date: 19/09/03
+版：
+0 01 000
+描述抽象类用于定义
+GUIEliminaPrenotazione of classes and
+GUISelezionaPrenotazione
+Attributes
+名称访问说明
+Private btnAnnulla button that allows you to cancel
+the current operation
+Private gridPrenotazioni grid containing the list of
+预订仍然有效
+由患者
+方法
+Signature notificaSuccesso () Public Access
+Description Its task is to notify the success
+of

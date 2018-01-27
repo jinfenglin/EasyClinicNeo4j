@@ -1,0 +1,22 @@
+Class GUIEliminaPrenotazione Date: 16/09/2003
+版：
+0 01 000
+说明制作用于掩码的掩码
+management of an
+Reservations
+Attributes
+Name Access Description
+Private btnAnnulla button used to cancel
+the delete of a visit
+Private gridElencoPrenotaz list containing all
+active reservation made by
+a patient
+Methods
+Signature VisualizzaElencoPrenotazioni Public Access
+()
+说明显示预订列表
+病人做的
+Signature eliminaPrenotazione () Public Access
+Description Its task is to find the information
+necessary for the realization of
+GUIEliminaPrenotazione

@@ -1,0 +1,45 @@
+Class GUIPaziente Date: 16/09/2003
+版本：0 01 000
+说明在管理上制作蒙版
+Patient预约
+the operator
+Attributes
+名称访问说明
+Private btnAnnullaPrenot button that allows you to start
+行动程序删除一个
+程序
+私人btnModificaDatiP按钮，让您启动
+病人程序改变数据
+患者注册表
+Private btnModificaPreno button that allows you to start
+评估程序
+Reservations
+私人btnPrenotaVisita按钮，让你开始
+预订程序
+visit
+Methods
+Signature show () Public Access
+说明查看蒙版
+Signature abilitaAccesso () Public Access
+Description Manages the event generated when the procedure
+验证进展顺利
+签名消除Prenotazione（）公共访问
+Its task description call the handler class
+与面具相关的面具
+GUIEliminaPrenotazuione并开始这个过程
+删除保留
+Signature modificaAnagrafica () Public Access
+Description Its task is to draw handler class
+与面具相关的面具
+GUIAnagraficaPaziente and begin the process of
+Review of data anagrafica Patient
+签名修改Prenotazione（）公共访问
+Description Its task is to draw handler class
+associated with the mask represented by
+GUIAnagraficaPaziente and start the procedure
+审查有关预订的数据
+Signature prenotaVisita () Public Access
+Description Its task is to draw handler class
+与面具相关的面具
+GUIPrenotaVisita and start the procedure
+reservation a visit

@@ -1,0 +1,16 @@
+Validation test case Patient Data:
+不是20/06/2003的C13税码
+correct (fewer
+人物）
+Version:
+0 02 000
+Use Case He performs the functions
+UcValPaz necessary to authenticate an
+患者
+High Priority
+Set up not identified
+描述测试
+Input Tax: ZCCRCC80D
+Oracle Input Invalid
+Classes cover valid: None
+Classes invalid: CE8

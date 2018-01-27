@@ -1,0 +1,20 @@
+Patient Login Scenario validation run
+该服务是在明确要求后发起的
+由患者演员患者访问屏幕
+on the management of the system (for instance
+GUISfondo) Control then goes to the instance of
+GUISfondoHandler which delegates to the instance of GUILoginHandler
+the task of managing the service The first step to take
+is to enter the Hospital Patient Card and PIN and then
+Patient is presented to the same page for the acquisition
+such data (for instance GUILogin) The patient data sets and
+confirms the insertion, and the scrutiny goes back to the application
+GUILoginHandler of derogating the validation of the application
+HospitalCardManager latter deals to validate the information
+entered the patient through the application of the outcome Hospital Card
+is notified of the positive backward up
+GUILoginHandler the application of which requires the application of
+允许GUIPrincipaleHandler访问患者
+applicant and then to arrange for display
+主窗体（例如GUIPrincipale）这个特性
+it was described by the sequence diagram of Fig 3 7

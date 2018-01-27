@@ -1,0 +1,25 @@
+上课人日期：
+15/09/2003
+版：
+0 01 000
+描述抽象类用于定义
+操作员类和医生病人
+属性
+名称访问说明
+CAP Private Postal Code
+codiceFiscale个人的公司ID
+私人名字人的姓
+dataNascita私人出生日期
+Private Address address of the person
+luogo nascita私人出生地的人
+luogoResidenza私人住所的人
+私人姓名的人
+私人备注附加说明
+私人provinciaNascita省的人的出生
+provinciaResiden省的私人住宅
+人
+个人地址的私人详细信息
+Private sex sex of the person
+Methods
+Signature Access
+描述

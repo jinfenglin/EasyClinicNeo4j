@@ -1,0 +1,31 @@
+VisiteManager类日期：
+16/09/2003
+Version:
+0 01 000
+说明具有管理操作的任务
+需要访问访问数据
+在门诊进行
+属性
+名称访问说明
+
+方法
+签名delvis（）公共访问
+描述的任务是管理a的处置
+visit
+签名editVisita（）公共访问
+Description Its task is to manage the change data
+参观
+签名getElencoVisite（）公共访问
+提供所有检索的描述
+visits
+签名getVisitaAt（）公共访问
+说明它的任务是找到所有的信息
+参观
+签名newVisita（）公共访问
+Description Its task is to manage the inclusion of a
+新的访问
+签名resocontoVisite（）公共访问
+说明它的任务是找到所有的信息
+necessary for the composition of the statement of
+在给定的差距进行访问
+time

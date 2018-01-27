@@ -1,0 +1,33 @@
+input test case data Date:
+C22病人详情20/06/2003
+not recorded in S I O
+(tax code and correct
+没有记录在S I O）
+The data are not included
+none except
+province of birth
+版：
+0 02 000
+Use Case He performs the functions
+UcInsPaz necessary for input of anagrafica of
+一个新病人
+媒体优先
+设置税码不应该是ZCCRCC80D13G942U
+在S I O注册
+Description test
+输入税：ZCCRCC80D13G942U
+Name: Rocco
+Surname: Zaccagnino
+性别：男
+出生日期：13/04/1980
+出生地点：电源
+出生地：
+Address: fraz Paoladoce 26
+Place of residence: Avigliano
+居住省份：PCS
+ZIP code: 85020
+Contact information: 0971/87267 347/9908973
+Oracle Invalid Input: Country of Birth
+课程覆盖有效：CE1 CE3 CE5 CE8 CE10
+CE14 CE16 CE18 CE20 CE23 CE24 CE28
+课程无效：CE13

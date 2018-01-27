@@ -1,0 +1,23 @@
+显示详细信息
+该服务是在明确要求后发起的
+由患者演员患者访问面罩
+（GUICartellaClinica实例）管理
+clinic folder of patients and there select a visit from
+从访问控制列表中查看
+那么GUICartellaClinicaHandler的应用
+GUIVisitaHandler代表团的管理任务的实例
+服务的第一步是收集信息
+on the selected visit therefore control passes
+VisiteManager的应用主要通过
+访问的主体检索这些信息，然后
+EsamiManager委托给查找任务的实例
+与所有考察相关的信息
+所选对象通过
+Consideration of instances provides the results of the application
+VisiteManager反过来返回所有
+信息反向发现的实例
+后者最后是GUIVisitaHandler
+显示在面具上收到的信息
+在访问的详细显示上（例如
+GUIVisita）这个功能被描述了
+图3的协作图12

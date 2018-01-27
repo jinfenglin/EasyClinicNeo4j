@@ -1,0 +1,17 @@
+Test case reservation a First Date:
+C31 from a visit 20/06/2003
+新病人
+of the outpatient
+Version:
+0 02 000
+Use Case Meets the request for a reservation
+UcPreVis service by Outpatient a
+患者
+高优先级
+Set up There are no reservations
+Description test
+输入类型选择访问：首次访问
+The Oracle system enables the reservation of
+visit
+课程覆盖有效：CE1 CE5
+Classes are not valid: None

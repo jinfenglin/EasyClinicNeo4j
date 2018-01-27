@@ -1,0 +1,31 @@
+验证患者
+他努力执行这些功能
+necessary to authenticate an
+patient
+it's Interest to log on to
+see your information
+The patient must be in possession of
+Hospital Card
+The patient is not recognized `
+系统
+成功：病人被认可
+系统和访问其部分
+病人进入Box Tower
+1查看蒙版
+for the operation
+登录
+2输入代码
+Hospital Card and the code
+PIN
+3 Confirm validation
+4 Verify that the couple
+（医院卡密码）
+识别病人
+within S I O
+患者取消功能
+验证
+3 1 ends the execution of use case with
+failure
+验证失败
+4 1 Show appropriate message
+4 2从1步重新插入运行

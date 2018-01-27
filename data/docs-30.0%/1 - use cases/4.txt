@@ -1,0 +1,48 @@
+插入anagrafica医生
+它允许操作员输入
+the anagrafica of a doctor who works
+at the outpatient
+The Operator is responsible to
+input of doctor anagrafica
+in the S I O
+The Operator has been recognized by `
+系统（请参阅UcValOp）并具有
+all the data that characterize
+医生anagrafica
+The data in the S I O
+不被修改
+Success: The doctor anagrafica is
+correctly inserted in the
+I S O
+The operator activates the execution of
+input service of the
+注册表医生
+1 View the mask
+for input of
+needed information
+2插入医生anagrafica的数据
+3 Confirm input
+4 Verify the data insert by operator
+5 Stores data
+6 Notify that the operation
+is finished with
+成功
+数据输入无效
+4 1 Display a message showing the
+data deemed invalid
+4 2 take back running from point 1
+underpinned the fields of the form with data
+insert by operator
+操作员取消操作
+3 1 ends the execution of use case with
+failure
+2 1医师的年龄是“特征在于”
+以下数据：姓氏性别代码
+Tax date of birth place of birth
+province of birth place of address
+home province of residence address ZIP code
+telephone specialization year
+certification and additional notes
+注意：斜体是突出显示的数据
+Optional whose inclusion does not affect
+正确完成操作

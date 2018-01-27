@@ -1,0 +1,48 @@
+Inserting anagrafica doctor
+它允许操作员输入
+the anagrafica of a doctor who works
+在门诊
+运营商有责任
+input of doctor anagrafica
+in the S I O
+The Operator has been recognized by `
+系统（请参阅UcValOp）并具有
+all the data that characterize
+医生anagrafica
+The data in the S I O
+not be modified
+Success: The doctor anagrafica is
+correctly inserted in the
+并与O.
+The operator activates the execution of
+input service of the
+doctor anagrafica
+1 View the mask
+for input of
+needed information
+2 Inserts data of doctor anagrafica
+3确认输入
+4验证操作员插入的数据
+5 Stores data
+6通知该操作
+is finished with
+成功
+Data entered invalid
+4 1显示一条消息显示
+data deemed invalid
+4 2从第1点收回跑步
+用数据支持表单的字段
+insert by operator
+Operator cancels operation
+3 1结束了用例的执行
+失败
+2 1医师的年龄是“特征在于”
+following data: name surname sex code
+出生地点的出生日期
+地址的出生地
+home province of residence address ZIP code
+telephone specialization year
+certification and additional notes
+NB: In italics are highlighted data
+Optional whose inclusion does not affect
+正确完成操作

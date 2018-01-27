@@ -1,0 +1,28 @@
+插入anagrafica实验室
+The service was launched following the express request
+由演员操作员登录形成
+主（例如G​​UIPrincipale）并在那里选择功能
+然后实验室认证管理控制
+GUIPrincipaleHandler给代表哪个应用程序的实例
+GUIAnagraficaLaboratorioHandler提供的任务
+The service first step is to obtain a list of all
+因此，实验室控制传递给实例
+LaboratorioManager通过它实验室的实例
+检索列表并将其返回给应用程序
+GUIAnagraficaLaboratorioHandler现在，该对象
+应显示收到的实验室名单
+the mask on the management of database
+laboratories (for instance GUIAnagraficaLaboratorio) The Operator
+activates the function of the register inclusion of the laboratory
+插入新门诊的数据并确认数据
+控制权传递给GUIAnagraficaLaboratorioHandler的实例
+该代表团将包括一个新的实验室
+LaboratorioManager的应用程序通过
+The body of Laboratory to ensure the inclusion and
+在新实验室保存数据通过了
+接下来是GUIAnagraficaLaboratorioHandler
+通过成功的方式处理通知
+在屏幕上显示一条消息
+管理实验室（例如
+GUIAnagraficaLaboratorio）此功能已被描述`
+通过图3的协作图4

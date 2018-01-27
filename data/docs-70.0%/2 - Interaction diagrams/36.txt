@@ -1,0 +1,32 @@
+Record visit
+
+此功能已被描述
+collaboration diagrams of Fig 3 21 the main scenario: the
+服务在显式请求之后启动
+操作员的演员部分访问掩码
+主（例如G​​UIPrincipale）并在那里选择功能
+管理访问然后将控制传递给实例
+GUIPrincipaleHandler代表的实例
+GUIVisitaHandler提供服务的任务第一步
+是获取所有访问的列表
+在门诊病人因此控制传递到的实例
+VisiteManager Through an iterative process are the goods
+所有访问的检索和每一步都是在
+如下所示：通过VisiteManager找到该面板
+关于访问和访问的数据正文
+then passes control to the instance of that EsamiManager
+通过考试实例提供所有的查找
+同一次访问的考试通过此列表
+GUIVisitaHandler将显示其实例
+the visits made on the mask on the
+management visits (for instance GUIVisite) The Operator
+select the function visiting placement insert data
+Visit the new and confirms control passes to the application
+GUIVisiteHandler of the delegation which is to enter the
+通过VisiteManager的新实例访问
+访问面板，并确保包括救援
+data on a new tour and return control application
+GUIVisitaHandler负责通知
+成功通过查看一个
+消息形式的管理
+访问（例如GUIVisita）

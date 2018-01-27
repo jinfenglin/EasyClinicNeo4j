@@ -1,0 +1,18 @@
+验证测试用例患者数据：
+C12 tax code through 20/06/2003
+correct (16 digits) and
+in S I O
+Version:
+0 02 000
+Use Case He performs the functions
+UcValPaz验证一个
+Patient
+High Priority
+设置税码必须为ZCCRCC80D13G942U
+在S I O注册
+Description test
+输入：公司ID：ZCCRCC80D13G942U
+Oracle: The Operator access to the operation
+经过验证的患者
+Classes cover valid: CE6
+: Classes invalid: CE7

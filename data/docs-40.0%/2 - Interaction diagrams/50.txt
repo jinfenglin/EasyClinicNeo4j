@@ -1,0 +1,23 @@
+Show details visit
+The service was launched following the express request
+由患者演员患者访问面罩
+（GUICartellaClinica实例）管理
+clinic folder of patients and there select a visit from
+从访问控制列表中查看
+那么GUICartellaClinicaHandler的应用
+GUIVisitaHandler delegation to the instance of the task of managing the
+服务的第一步是收集信息
+on the selected visit therefore control passes
+VisiteManager的应用主要通过
+The body of visits retrieves this information and then
+EsamiManager delegation to the instance of the task of finding the
+与所有考察相关的信息
+The selected object retrieved information through the
+Consideration of instances provides the results of the application
+VisiteManager反过来返回所有
+information found backward up to the instance of
+The latter finally GUIVisitaHandler shall
+displaying the information received on the mask
+on the detailed display of visits (for instance
+GUIVisita) This feature is was described by
+图3的协作图12

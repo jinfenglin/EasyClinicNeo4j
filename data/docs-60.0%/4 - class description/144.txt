@@ -1,0 +1,29 @@
+Class HospitalCardManager日期：
+16/09/2003
+版：
+0 01 000
+Description has the task to manage operations
+require access to data
+all'hospital卡
+Attributes
+名称访问说明
+
+方法
+Signature assegnaHC () Public Access
+说明它的任务是将卡分配给医院
+Patient
+Signature getHospitalCard () Public Access
+Returns description of the data card in hospital
+Patient
+签名登录（）公共访问
+说明这是通过代码
+hospital card and PIN to verify
+that the patient is present within the
+I S O
+签名saveHC（）公共访问
+说明永久存储数据
+医院卡
+签名validaPaziente（）公共访问
+说明这是通过代码
+医院卡，以确认病人是
+在S I O里面

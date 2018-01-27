@@ -1,0 +1,37 @@
+GUILogin类日期：18/09/2003
+版：
+0 01 000
+说明制作引导患者的面罩
+包含医院卡的代码
+and PIN
+Attributes
+Name Access Description
+私人btnAnnulla按钮用于返回
+由面具实施
+GUISfondo
+用于删除私人btnCancella按钮
+输入的最后一位数字
+panelKeys
+用于确认的私人btnEgui按钮
+数据
+专用面板显示面板用于查看
+codes inserted through the
+panelKeys
+包含键盘的专用面板键面板
+数字用于插入
+他的医院卡的代码
+和你的密码
+方法
+Signature showLoginError () Public Access
+Description Show an error message when
+在验证病人的过程中没有
+be successful
+签名秀（）公共访问
+Description View mask
+签名登录（）公共访问
+说明管理由患者生成的事件
+插入卡和PIN后开始医院
+validation procedure
+签名注销（）公共访问
+说明管理由患者生成的事件
+放弃系统

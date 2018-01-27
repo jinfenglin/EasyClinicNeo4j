@@ -1,0 +1,30 @@
+按日期编辑访问测试用例：
+C55之前是20/06/2003的控件
+Day Hospital and followed by
+访问控件
+之间的一个位置
+日间医院和参观
+控制
+版：
+0 02 000
+Use Case Meets the request for modification of a
+UcModVis服务由Outpatient a
+患者
+媒体优先
+设置以前的保留是`：
+29/09/2003营业时间08 00日间医院
+预订是'下一步：
+06/10/2003小时09 00访问控制
+New reservation was
+08/10/2003营业时间08 00日间医院
+New reservation later:
+13/10/2003 hours 09 00 Visit control
+Description test
+选择输入访问：
+02/10/2003 hours 09 00 Visit control
+Review:
+09/10/2003 hours 10 00
+The Oracle system allows the change of
+Reservations
+Classes cover valid: ce3 CE9 CE13 CE19 CE23
+类无效：无

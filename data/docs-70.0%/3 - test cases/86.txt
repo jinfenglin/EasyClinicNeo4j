@@ -1,0 +1,17 @@
+Test case reservation a Day Date:
+C36医院在20/06/2003之前
+访问控制
+Version:
+0 02 000
+Use Case Meets the request for a reservation
+UcPreVis服务由Outpatient a
+patient
+High Priority
+设置最后一个预定是`：
+02/10/2003小时09 00访问控制
+描述测试
+输入类型选择访问：日间医院
+Oracle系统支持保留
+访问
+课程覆盖有效：CE2 CE8
+Classes are not valid: None

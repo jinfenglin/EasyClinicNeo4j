@@ -1,0 +1,35 @@
+注册表演
+允许患者查看
+他们的anagrafica数据使用
+specific locations displaced
+of the outpatient
+他有兴趣访问你的
+注册表信息
+`The patient has been recognized by
+系统
+（见UcAccTB）
+病人获得
+display of their data
+注册处
+病人激活执行
+service display their
+个人资料
+1访问数据库和
+retrieves information
+about anagrafica
+患者
+2视图
+个人信息
+患者
+病人决定打印
+显示信息
+2 1 Start printing the list of
+Reservations
+2 2生成报告并将其发送到
+打印机
+2 1患者的年龄以“特征”表征
+following data: name surname sex code
+出生地点的出生日期
+province of birth place of address
+居住地址省邮政编码
+额外的电话和笔记

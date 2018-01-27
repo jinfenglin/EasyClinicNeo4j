@@ -1,0 +1,13 @@
+Class TipoEsame Date:
+15/09/2003
+Version:
+0 01 000
+Description contains a description of the different types of
+tests that can be made
+属性
+Name Access Description
+私人描述的类型的描述
+examination
+Methods
+Signature Access
+Description

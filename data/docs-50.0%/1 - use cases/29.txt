@@ -1,0 +1,32 @@
+The average time of waiting
+It allows the operator to get an estimate
+提供服务所需的平均时间
+预订
+The Operator's interest to have a
+estimating the average time to serve a
+reservation request
+操作员激活执行
+用于计算估计时间的服务
+average
+1查看蒙版
+去看看
+result of the calculation
+estimation of time
+medium to serve a
+请求
+预订
+2 Start function
+3查看结果
+计算
+Operator decides to print
+信息
+3 1开始打印信息
+显示
+3 2生成报告并将其发送到
+打印机
+Operator cancels the operation
+2 1 ends the use case with failure
+1 1 The time of service delivered in days is `equal
+the time between the date of request
+预约和预约时间
+is assigned

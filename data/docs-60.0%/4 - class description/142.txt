@@ -1,0 +1,17 @@
+类OperatoreManager日期：
+16/09/2003
+版：
+0 01 000
+Description has the task of managing the operations access
+轻松的软件系统Clinch 2003 Operator
+由
+Attributes
+Name Access Description
+
+方法
+登录签名（）公共访问
+Description Its task is to manage the operation Login
+的
+Signature logout () Public Access
+Description Its task is to manage the operation logout
+的

@@ -1,0 +1,20 @@
+Login Operator test case by Date:
+C06 login registered in S I O 20/06/2003
+和密码正确，但不是
+记录在S I O中
+Version:
+0 02 000
+Use Case He performs the functions
+UcValOpe necessary to authenticate an
+Operator
+High Priority
+Set up the login Rocolo is `recorded in the SIO
+The password is `rocco not registered in
+并与O.
+Description test
+Input Login: Rocolo
+Password: rocco
+Oracle系统不允许访问
+patient
+Classes cover valid: CE2
+无效课程：CE10

@@ -1,0 +1,16 @@
+Operator Login Scenario validation run
+该服务是在明确要求后发起的
+by the actor Operator The access to the screen
+on the management of the system (for instance
+GUILogin) enter login and password and check the function
+The validation then passes control to the instance of
+GUILoginHandler委托给OperatoreManager的实例
+管理后者处理的任务
+验证使用面板输入的数据
+The successful operator is notified of a
+backward up the application of which requires GUILoginHandler
+到GUIPrincipaleHandler的实例来启用访问
+患者申请人和该对象应显示
+the main form (for instance GUIPrincipale) This
+feature is was described by the sequence diagram of
+Fig 3 2

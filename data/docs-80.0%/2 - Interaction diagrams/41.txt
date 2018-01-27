@@ -1,0 +1,111 @@
+保留第一次访问
+该服务是在明确要求后发起的
+由演员操作员登录形成
+主（例如G​​UIPrincipale）并在那里选择功能
+保留一次初始访问然后通过控制
+GUIPrincipaleHandler给代表哪个应用程序的实例
+GUIPrenotaVisitaHandler负责管理服务的任务
+你是第一次访问预约通行证控制
+其中的应用程序将GUIAnagraficaPazienteHandler
+the integration of anagrafica patient data
+
+创建新的病人
+
+该应用程序显示类GUIAnagraficaPazienteHandler
+输入anagrafica数据的掩码
+Patient (for instance GUIAnagraficaPaziente) At this point
+操作员插入患者的数据和确认
+这样的数据，然后将控制传递给实例
+GUIAnagraficaPazienteHandler谁搬到了实例
+PazienteManager验证患者内部
+如果患者的SIO“这不是手术可以”
+and then continue GUIAnagraficaPazienteHandler delegation
+PazienteManager创建新的任务的实例
+患者由专家组成患者
+根据操作员插入的数据创建新的患者
+
+创建医院卡
+
+The application of class PazienteManager passes control
+这反过来指的是HospitalCardManager的实例
+The body of Hospital Card provides for the creation of a new
+医院卡在医院后被分配给病人A.
+创建发送成功的通知消息
+the backward up to the instance of
+GUIPrenotaVisitaHandler
+
+Choosing the type of visit
+
+类GUIPrenotaVisitaHandler的应用程序显示
+mask on the reservation to visit the
+Patient must be subject (for instance GUIPrenotaVisita) On this
+运营商选择表格并确认访问类型和
+控制权返回到GUIPrenotaVisitaHandler的实例
+该代表团将包括一项新的保留
+到Prenotazioni经理的实例
+
+创建新的预订
+
+通过应用程序Prenotazioni管理器的应用程序
+预订会在此时创建新的预订
+预订的主体应核实有效性
+预订或检查新的预订是否尊重
+保留的顺序有效如果
+预订是有效的预订应通知
+创建保留的成功
+backward up to the instance of GUIPrenotaVisitaHandler
+
+查找可用数据
+
+The application of the proxy class GUIPrenotaVisitaHandler
+到Prenotazioni Manager找到第一个任务的实例
+访问时可以保留这个日期的日期是
+GUIPrenotaVisitaHandler给予其实例
+在窗体上显示它
+预约参观（例如GUIPrenotaVisita）
+经营者确认了系统和控制建议的日期
+返回到GUIPrenotaVisitaHandler的实例
+
+将数据存储在患者和医院卡上
+
+类GUIPrenotaVisitaHandler通行证的应用
+GUIAnagraficaPazienteHandler控制应用程序
+允许它存储数据患者
+应用程序GUIAnagraficaPazienteHandler又被委托
+存储与患者有关的个人数据
+PazienteManager到通过应用程序的类的实例
+Patient in stores on a permanent basis The data
+控制返回到落后的类
+HospitalCardManager通过应用程序提供
+Hospital Card rescue data Hospital Card
+对预约的患者进行一次访视
+操作完成后返回存储
+向后传递一条消息，通知成功
+来参加班级GUIAnagraficaPazienteHandler的实例
+
+Viewing and printing the Hospital Card
+
+代理类GUIAnagraficaPazienteHandler的应用
+查看和打印申请医院卡
+类GUIHospitalCardHandler后者获取数据
+医院卡由HospitalCardManager的适当机构提供
+在屏幕上显示数据
+医院卡（例如GUIHospitalCard）和代表团
+to print the Hospital Card to the instance of the class
+PrintManager控件返回到
+到达应用GUIPrenotaVisitaHandler
+
+存储预定
+
+此时应用类GUIPrenotaVisitaHandler
+继续通过委托保存预订
+PrenotazioniManager任务到这个应用程序的实例
+through the application for reservation shall saving
+关于预订的数据一旦这样
+操作控制传递给实例
+GUIPrenotaVisitaHandler反过来处理
+通过查看通知成功
+a special message on the screen on the reservation
+参观（例如GUIPrenotaVisita）
+该功能是由该合作描述的
+diagram of Fig 3 16

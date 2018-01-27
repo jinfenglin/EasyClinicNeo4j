@@ -1,0 +1,36 @@
+改变anagrafica实验室
+该服务是在明确要求后发起的
+by the actor The Operator logs on to form
+主（例如G​​UIPrincipale）并在那里选择功能
+然后实验室认证管理控制
+GUIPrincipaleHandler to the instance of the delegation which application
+GUIAnagraficaLaboratorioHandler提供的任务
+服务的第一步是获取所有的列表
+因此，实验室控制传递给实例
+LaboratorioManager通过它实验室的实例
+retrieves the list and return it backward up the application
+of GUIAnagraficaLaboratorioHandler Now that object
+shall display the list of laboratories received
+the mask on the management of database
+laboratories (for instance GUIAnagraficaLaboratorio) The Operator
+从实验室中选择以更改活动
+审查实验室和登记册的登记功能
+控制权传递给GUIAnagraficaLaboratorioHandler的实例
+which delegates the task to collect data on the
+实验室被选为LaboratorioManager的实例
+The latter by the Laboratory of application shall
+恢复提供这种数据的实例
+GUIAnagraficaLaboratorioHandler反过来负责
+他们对面罩GUIAnagraficaLaboratorio的看法
+此时，操作员确认所做的更改
+控制传递给GUIAnagraficaLaboratorioHandler的实例
+将数据存储在实验室中的代表团
+considered the application of LaboratorioManager latter through
+实验室的主体为救援提供数据
+altered passes control to the instance of
+GUIAnagraficaLaboratorioHandler which in turn deals with
+notify success by viewing
+a special message on the screen on the management
+实验室的登记簿（例如
+GUIAnagraficaLaboratorio）此功能已被描述`
+through collaboration diagram of Fig 3 5

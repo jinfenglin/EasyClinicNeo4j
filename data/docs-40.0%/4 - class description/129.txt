@@ -1,0 +1,19 @@
+Class GUIPianiPrenotazioni Date: 16/09/2003
+版本：0 01 000
+说明它的任务是显示掩码
+对计划的管理
+Reservations made in outpatient
+Attributes
+名称访问说明
+私人btnUscita按钮，允许您返回
+the mask represented by
+GUIPrincipale
+包含所有参数的专用panelParametri面板
+necessary to set criteria
+creation of plans for reservations
+Methods
+Signature pianiPrenotazioni () Public Access
+它描述了所有的信息
+necessary for the generation of plan
+reservation in compliance with the criteria
+specified

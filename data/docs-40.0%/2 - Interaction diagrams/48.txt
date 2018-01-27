@@ -1,0 +1,18 @@
+查看列表预订
+这项服务是在明确要求之后发起的
+by the Patient The actor Patient access to the mask
+main (for instance GUIPrincipale) on the management of
+系统提供的所有服务都符合患者的要求
+并在那里选择预约显示
+The control made then to the instance of
+GUIPrincipaleHandler which delegates to the instance of
+GUIPrenotazioniHandler the task of managing the service at this
+Point control is passed to the instance of
+Prenotazioni经理处理通过查找
+Reservation requests for all reservations made by
+The patient requesting results sent backlinks up
+to the instance of GUIPrenotazioniHandler which in turn deals
+their display on the screen on the management
+患者的预约（例如GUIPrenotazioni）这
+feature is was described by the collaboration diagram
+图3的10

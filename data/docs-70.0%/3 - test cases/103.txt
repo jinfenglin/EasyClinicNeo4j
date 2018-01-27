@@ -1,0 +1,29 @@
+编辑日间医院的测试案例日期：
+C53在2003年6月20日之前
+访问，然后是一个
+访问控制
+两个之间的位置
+monitoring visits
+版：
+0 02 000
+Use Case Meets the request for modification of a
+UcModVis服务由Outpatient a
+患者
+High Priority
+设置以前的保留是`：
+26/09/2003小时11 00首次访问
+预订是'下一步：
+02/10/2003小时09 00访问控制
+新的预订是
+06/10/2003小时09 00访问控制
+New reservation later:
+13/10/2003 hours 09 30 Visit Control
+描述测试
+选择输入访问：
+29/09/2003营业时间08 00日间医院
+评论：
+08/10/2003小时08 00
+Oracle系统不允许编辑
+Reservations
+Classes cover valid: CE2 CE9 CE14 CE19 CE22
+Classes are not valid: None

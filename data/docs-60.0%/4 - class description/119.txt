@@ -1,0 +1,28 @@
+Class GUIVisita Date: 18/09/2003
+Version:
+0 01 000
+Description Make the mask on visits
+提供了查看患者的机会
+访问的详细数据
+属性
+Name Access Description
+私人btn下一个按钮用于查看
+the subsequent examination of the
+Visit concerned
+私人btnPrev按钮用于查看
+之前的考试
+有关的访问
+用于返回的私人btnRitorna按钮
+to the form of clinic folder
+(GUICartellaClinica)
+Private panelDatiEsami panel containing data on
+Patient进行了一项评估
+包含所有数据的专用panelDatiVisita面板
+参观
+Methods
+签名创建（）公共访问
+说明类别的制造商
+Signature destroy () Public Access
+类驱逐舰的描述
+Signature getDettagliVisita () Public Access
+说明获取访问的详细信息

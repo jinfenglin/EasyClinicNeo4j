@@ -1,0 +1,23 @@
+PatientManager类日期：
+14/09/2003
+版：
+0 01 000
+说明具有管理操作的任务
+需要访问个人资料
+耐心
+属性
+名称访问说明
+
+方法
+签名editPaziente（）公共访问
+说明管理数据的更新
+病人
+签名findPaziente（）公共访问
+说明检查特定患者
+在S I O中
+签名getDatiPaziente（）公共访问
+说明它的任务是找到所有的信息
+涉及给定的个人资料
+患者
+Signature newPaziente () Public Access
+说明其任务是创建一个新的病人

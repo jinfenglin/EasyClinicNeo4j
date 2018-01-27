@@ -1,0 +1,47 @@
+Input anagrafica laboratory
+It allows the operator to enter
+the anagrafica of a laboratory
+分析或任何数据的
+characterize
+Has an interest to enter the age of
+laboratory within the S I O
+The Operator has been recognized by `
+System (See UcValOp) and has
+表征所有数据
+the anagrafica of the laboratory
+The data in the S I O
+不被修改
+Success: The anagrafica of the laboratory
+正确插入内部
+the S I O
+操作员激活执行
+anagrafica输入服务
+Laboratory
+1 View the mask
+to enter
+需要的信息
+2 Inserts data about the anagrafica of
+laboratory
+3 Confirm placement
+4 Verify the data entered
+by
+5 Stores data
+6 Notify that the operation
+it is `finished with
+成功
+Data entered invalid
+4 1显示一条消息显示
+数据被认为无效
+4 2 Reinserts running from 1
+用数据支持表单的字段
+Entered
+操作员取消操作
+3 1 ends the execution of use case with
+失败
+2 1实验室的anagrafica特点`
+by the following data: name VAT
+address city province CAP addresses
+Additional telephone and Notes
+NB: In italics are highlighted data
+Optional whose inclusion does not affect
+on the correct completion of operation

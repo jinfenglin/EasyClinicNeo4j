@@ -1,0 +1,46 @@
+Class GUIPrincipale Date: 18/09/2003
+Version:
+0 01 000
+描述制作主要形式
+Easy Clinic2003 Box Tower这个表格是
+指导患者选择的任务
+要显示的信息
+Attributes
+Name Access Description
+Private btnAnagrafica button used to access the
+Anagrafica部分
+私人btnCartellaClin按钮用于访问
+ica section Folder Clinic
+私人btn Prenotazioni按钮用于访问
+预订部分
+私人btnUscita按钮用于离开
+application
+方法
+Name show () Public Access
+说明查看蒙版
+Signature abilitaAccesso () Public Access
+Description Manages the event generated when the procedure
+validation goes well
+签名实验室（）公共访问
+说明管理操作员生成的事件
+访问致力于实验室的部分
+Signature management () Public Access
+Description Manages the event generated when the Operator
+access to the section on the management
+的门诊病人
+Signature doctors () Public Access
+Description Manages the event generated when the Operator
+访问管理部分
+data on doctors who are outpatient
+Signature primaVisita () Public Access
+说明管理操作员生成的事件
+首先启动预约程序
+访问
+签名旅游（）公共访问
+说明管理操作员生成的事件
+access to the section on management
+visits
+签名保留（）公共访问
+Description Manages the event generated when the Operator
+Reservations access to the section to have a
+report them

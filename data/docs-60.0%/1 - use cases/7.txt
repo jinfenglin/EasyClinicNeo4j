@@ -1,0 +1,34 @@
+验证操作员
+他努力执行这些功能
+necessary to authenticate an
+操作者
+有兴趣做出自己的想法
+validation in order to use the
+all features available
+System
+The Operator is not recognized by
+系统
+成功：运营商被认可
+系统并启用它
+操作员尝试登录系统
+1查看蒙版
+进行验证
+of operator
+2 Inserts login and password
+3确认数据
+4 verify login and
+识别密码
+内的操作员
+the S I O
+5允许访问
+6 View the main mask
+
+Operator cancels the operation
+验证
+3 1 System: ends the execution of use case with
+失败
+验证失败
+4 1系统：显示适当的信息
+4 2 System: take back the execution by 1 point
+用数据支持表单的字段
+由用户插入

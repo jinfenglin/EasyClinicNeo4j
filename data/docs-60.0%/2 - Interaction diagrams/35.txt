@@ -1,0 +1,34 @@
+删除注册表
+该服务是在明确要求后发起的
+由演员操作员登录形成
+main (for instance GUIPrincipale) and there select the function
+anagrafica医生管理控制
+GUIPrincipaleHandler to the instance of the delegation which application
+GUIAnagraficaMedicoHandler to the task of managing the service
+The first step is to obtain a list of all doctors
+因此控制传递给MedicoManager的实例
+医生通过哪些实例检索列表和
+向后返回到实例
+GUIAnagraficaMedicoHandler Now that object shall
+显示获得的医生名单
+掩盖了医生注册的管理
+（GUIAnagraficaMedico的实例）操作员选择
+从你的医生被淘汰和主动功能
+disposal of medical data of its monitoring and
+GUIAnagraficaMedicoHandler passes to the instance of the delegation which
+the task of finding data for selected medical
+面板的MedicoManager应用程序
+医生提供的恢复此类数据将提供应用程序
+GUIAnagraficaMedicoHandler of which in turn takes care of them
+GUIAnagraficaMedico面具在这一点上展示
+Operator confirms the changes made and control passes
+GUIAnagraficaMedicoHandler的代表团
+to eliminate the doctor selected to the instance of
+MedicoManager latter through the application of Doctor
+to provide and passes control to the instance of
+GUIAnagraficaMedicoHandler反过来处理
+notify success by viewing
+管理屏幕上的特殊消息
+医生登记册（例如GUIAnagraficaMedico）这
+功能是由协作图来描述的
+图3的6

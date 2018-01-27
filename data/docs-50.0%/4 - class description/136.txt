@@ -1,0 +1,38 @@
+Class GUIAnagraficaPaziente Date:
+16/09/2003
+版：
+0 01 000
+Description Make the mask used for managing
+of anagrafica data of a patient
+属性
+Name Access Description
+私人btnAnnulla按钮，允许您返回
+由GUIPaziente实施的面具
+Private btnSalva button that allows you to confirm
+the operation
+包含必要数据的专用panelDati面板
+插入和更改数据
+病人
+Methods
+签名notificaSuccesso（）公共访问
+or
+说明它的任务是通知成功
+of
+签名秀（）公共访问
+or
+说明查看蒙版
+Signature visualizzaDatiPaziente () Public Access
+or
+描述患者数据视图
+签名editPaziente（）公共访问
+要么
+Description Its task is to find the information
+necessary for the modification of a Patient
+签名newPaziente（）公共访问
+or
+Description Its task is to initiate proceedings
+插入一个新的病人
+Signature savePaziente () Public Access
+要么
+Description Its task is to initiate proceedings
+保存新病人的数据

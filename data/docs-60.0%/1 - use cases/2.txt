@@ -1,0 +1,54 @@
+Changing anagrafica laboratory
+它允许操作员进行更改
+实验室分析的anagrafica
+它处理数据的修改
+about anagrafica of laboratory
+analysis
+该运营商已被认可
+系统（请参阅UcValOp）和anagrafica
+Laboratory is inside the
+I S O
+阿格拉菲卡的数据
+实验室没有改变：
+首先留在该州
+的
+Success: The anagrafica of the laboratory
+正确修改
+操作员激活执行
+服务变更的anagrafica的
+laboratory
+1 View the list of
+实验室
+在S I O中
+2 Select the laboratory  Which change
+注册局
+3 Confirm your selection
+4查看蒙版
+进行编辑
+anagrafica的
+laboratory
+5改变
+laboratory
+确认更改6
+7验证操作员插入的数据
+8记住
+updates
+9 Notify  that the operation
+it is finished with
+成功
+Data entered invalid
+7 1显示一条消息显示
+数据被认为无效
+7 2从4重新插入
+用数据支持表单的字段
+进入
+操作员取消操作
+3 1 ends the execution of use case with
+6 1 failure
+5 1一个实验室的anagrafica特点`
+by the following data: name VAT
+地址城市省CAP地址
+Additional telephone and Notes
+注意：斜体是突出显示的数据
+Optional whose inclusion does not affect
+on the proper completion of

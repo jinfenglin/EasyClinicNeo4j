@@ -1,0 +1,27 @@
+Class LaboratoriManager Date:
+16/09/2003
+版：
+0 01 000
+说明具有管理操作的任务
+require access to data for
+Laboratories
+属性
+Name Access Description
+
+Methods
+签名delLaboratorio（）公共访问
+Its task description control deletion of data
+on a laboratory
+Methods
+Signature editLaboratorio () Public Access
+说明它的任务是管理更改数据
+a laboratory
+Signature getElencoLaboratori () Public Access
+Description Its task is to obtain a list of all
+Laboratories
+Signature getLaboratorioAt () Public Access
+说明它的任务是找到所有的信息
+on a laboratory
+Signature newLaboratorio () Public Access
+Description Its task is to manage the insertion of a
+new laboratory

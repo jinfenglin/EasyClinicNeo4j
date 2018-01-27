@@ -1,0 +1,20 @@
+按日期登录运算符测试用例：
+C06 login registered in S I O 20/06/2003
+和密码正确，但不是
+recorded in S I O
+版：
+0 02 000
+Use Case He performs the functions
+UcValOpe necessary to authenticate an
+Operator
+High Priority
+设置登录Rocolo是在SIO中录制的
+The password is `rocco not registered in
+并与O.
+描述测试
+Input Login: Rocolo
+Password: rocco
+Oracle系统不允许访问
+patient
+Classes cover valid: CE2
+Classes invalid: CE10

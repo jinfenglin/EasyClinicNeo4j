@@ -1,0 +1,18 @@
+Validation test case Patient Data:
+C08 Card Hospital through 20/06/2003
+正确（5位数字）和
+in S I O
+版：
+0 02 000
+用例他执行这些功能
+UcValPaz验证一个
+患者
+高优先级
+The Hospital set up 00,001 Card must be
+recorded in S I O
+描述测试
+医院输入卡：00,001
+The oracle Operator access to the operation
+validated patient
+课程覆盖有效：CE1 CE2
+Classes are not valid: None

@@ -1,0 +1,63 @@
+预订参观
+It allows the operator to meet
+请求预订服务
+由一位非卧床患者制成
+经营者对记录有兴趣
+renting an outpatient service
+requested by a patient
+The Operator has been recognized by `
+系统（请参阅UcValOp）患者是`
+被系统认可（见
+UcValPaz) and has issued to
+模块R S A正确完成
+The data in the S I O
+不被修改
+成功：门诊服务
+required is properly booked
+The operator activates the execution of
+服务预订服务
+Outpatient
+1
+首次访问
+
+The Operator has
+收到了一个请求
+首次访问
+一部分病人
+
+Inserting anagrafica
+patient
+2查看蒙版
+for booking of
+service
+Outpatient
+3 Select the type of visit
+病人想要的
+使
+4插入动机的
+请求
+5确认插入的数据
+6验证序列
+Reservations are
+valid
+（见BrValSeq）
+Includes 7 (Select dates
+available)
+8确认您的预订
+9存储数据
+通知操作员10
+that the operation was `
+concluded successfully
+序列保留无效
+6 1 Show an appropriate message
+6 2重新插入步骤2中的执行
+Operator cancels the operation
+预订
+5 1结束失败的用例
+8 1
+9 1 For a first visit has shown to this point
+that will be saved even the personal data
+In addition, the patient always in the case of a
+Before visiting the system will
+在医院查看并打印该卡片
+patient

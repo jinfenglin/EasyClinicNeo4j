@@ -1,0 +1,19 @@
+类CartellaClinicaManager日期：
+16/09/2003
+版：
+0 01 000
+Description Its task is to manage the data that make up
+病人的病历
+属性
+名称访问说明
+
+方法
+签名getCartellaClinica（）公共访问
+It description to find all the information on the
+一个病人的临床记录
+签名getDettagli（）公共访问
+描述提供一个负载的所有细节
+访问
+签名getDatiPaziente（）公共访问
+描述的任务是找到anagrafica的数据
+患者

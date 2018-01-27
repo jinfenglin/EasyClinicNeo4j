@@ -1,0 +1,32 @@
+输入测试用例数据日期：
+患者的C30细节20/06/2003
+已经在内部注册
+包括S I O数据
+不是零
+版：
+0 02 000
+用例他执行这些功能
+UcInsPaz需要输入anagrafica的
+一个新病人
+媒体优先
+设置税码必须为RGANLL80C14H703E
+在S I O注册
+描述测试
+输入税：RGANLL80C14H703E
+名字：Aniello
+姓：拉戈
+性别：男
+Birth date: 14/03/1980
+出生地：萨勒诺
+Province of birth: SA
+地址：Via弗朗切斯科德桑克蒂斯18
+Place of residence: Antessano
+省：SA
+邮政编码：84021
+联系方式：089/951257339/3166793
+Oracle：患者已经注册了系统
+允许数据存储
+细节
+课程覆盖有效：CE1 CE3 CE5 CE8 CE10
+：CE12 CE14 CE16 CE18 CE20 CE28
+课程无效：CE27

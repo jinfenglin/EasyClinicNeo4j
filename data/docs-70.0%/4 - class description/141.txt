@@ -1,0 +1,35 @@
+Class GUIEsame Date: 16/09/2003
+版：
+0 01 000
+在用于掩码的描述上
+与...有关的考试管理
+特别访问
+属性
+名称访问说明
+Private btnDelete button that allows you to start
+删除程序
+检查
+Private btnEdit button that allows you to start
+改变评论的程序
+私人btn新按钮，可以让你开始
+程序输入一个新的
+examination
+私人btnSave按钮，允许您启动
+程序保存评论
+只是改变或添加
+私人btnUndo按钮，允许您取消
+The last operation performed
+方法
+Signature notificaSuccesso () Public Access
+Description Its task is to notify the success of
+更改或插入
+删除一个;一个
+Signature visualizzaDatiEsame () Public Access
+内容提要它的任务是查看细节
+examination
+签名visualizzaElencoEsami（）公共访问
+说明它的任务是查看列表
+考察访问
+Signature examinations () Public Access
+Description Its task is to find the information
+GUIEsame的实现所必需的

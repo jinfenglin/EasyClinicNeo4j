@@ -1,0 +1,60 @@
+Slipping on a visit to a later date
+The service was launched following the express request
+by the actor The Operator logs on to form
+section on the patient (for instance GUIPaziente) and there
+check the function of change reservation Control
+然后是代表GUIPazienteHandler的实例
+GUIPrenotaVisitaHandler to the instance of the task of managing the
+service
+
+Uploading reservations
+
+The request for the matter to the instance of GUIPrenotaVisitaHandler
+GUISelezionaPrenotazioniHandler is to obtain a list of
+患者通过该对象进行的所有预留
+monitoring the application of which PrenotazioniManager
+through instances of reservation shall finding
+that list and return to the instance of
+GUISelezionaPrenotazioniHandler which in turn shall
+可视化在掩码上获得的数据（应用程序
+of GUISelezionaPrenotazioni)
+
+选择要更改的预留
+
+The operator selects from the list reservation
+to edit and control is passed backward up
+GUIPrenotaVisitaHandler作为委员会的实例作为面板
+PrenotazioniManager to the task of transferring all
+information on the reservation selected The request for
+Prenotazioni管理器通过应用保留执行
+这个任务，并返回到获得的数据实例
+GUIPrenotaVisita反过来应该给
+在管理屏幕上显示
+保留（例如GUIPrenotaVisita）
+
+Request new date
+
+The operator requires a new date when the visit can "
+保持和控制传递给的实例
+GUIPrenotaVisitaHandler which obtained the next day
+available by the appropriate body to ensure PrenotazioniManager
+Viewing it in the mask on
+保留管理（例如GUIPrenotaVisita）
+The Operator confirmed the date proposed by the system and control
+is returned to the instance of GUIPrenotaVisitaHandler
+
+节省预订
+
+此时应用类GUIPrenotaVisitaHandler
+通过委托进行预约
+task to the instance of this PrenotazioniManager
+through the application for reservation shall begin to
+validate the reservation and only if so rescue
+data on the reservation Once this
+operation control is returned backward to
+GUIPrenotaVisitaHandler get to the instance of which shall
+to report success with a message
+掩盖管理保留（例如
+GUIPrenotaVisita)
+This feature is was described by the collaboration
+图3的图

@@ -1,0 +1,38 @@
+GUIAnagraficaPaziente类日期：
+16/09/2003
+Version:
+0 01 000
+描述使掩码用于管理
+一个病人的anagrafica数据
+Attributes
+名称访问说明
+私人btnAnnulla按钮，允许您返回
+mask implemented by GUIPaziente
+私人btnSalva按钮，让您确认
+the operation
+包含必要数据的专用panelDati面板
+insert and changing data
+a patient
+Methods
+签名notificaSuccesso（）公共访问
+要么
+说明它的任务是通知成功
+的
+签名秀（）公共访问
+or
+说明查看蒙版
+签名visualizzaDatiPaziente（）公共访问
+or
+描述患者数据视图
+签名editPaziente（）公共访问
+要么
+Description Its task is to find the information
+修改患者所必需的
+Signature newPaziente () Public Access
+要么
+说明其任务是启动程序
+插入一个新的病人
+Signature savePaziente () Public Access
+要么
+说明其任务是启动程序
+保存新病人的数据

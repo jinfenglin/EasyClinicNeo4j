@@ -1,0 +1,17 @@
+测试用例预约a第一次日期：
+2003年6月20日前C32访问
+首次访问
+Version:
+0 02 000
+使用案例满足预约的要求
+UcPreVis service by Outpatient a
+患者
+High Priority
+设置最后一个预定是`：
+24/09/2003小时09 00首次访问
+描述测试
+输入类型选择访问：首次访问
+Oracle Sequence invalid The system
+allows the reservation of the visit
+Classes cover valid: CE1 CE6
+类无效：无

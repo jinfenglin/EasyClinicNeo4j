@@ -1,0 +1,35 @@
+Class GUIEsame Date: 16/09/2003
+Version:
+0 01 000
+Make description on the mask used for
+management of examinations related to a
+particular visit
+属性
+Name Access Description
+Private btnDelete button that allows you to start
+procedure for delete of a
+examination
+Private btnEdit button that allows you to start
+procedure for changing a review
+Private btnNew button that allows you to start
+procedure for input a new
+检查
+Private btnSave button that allows you to start
+procedure saving a review
+just changed or added
+Private btnUndo button that allows you to cancel
+The last operation performed
+Methods
+Signature notificaSuccesso () Public Access
+Description Its task is to notify the success of
+a change or insertion
+删除一个;一个
+Signature visualizzaDatiEsame () Public Access
+内容提要它的任务是查看细节
+检查
+Signature visualizzaElencoEsami () Public Access
+Description Its task is to see the list of
+考察访问
+Signature examinations () Public Access
+内容提要它的任务是找到信息
+necessary for the realization of GUIEsame

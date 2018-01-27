@@ -1,0 +1,33 @@
+显示预订
+Allows a patient of view
+预订利润清单
+使用适当的位置
+流离失所的门诊病人
+他有兴趣进入
+their reservations profits
+`病人已被确认
+系统
+(See UcAccTB)
+病人获得
+显示其列表
+Reservations
+病人激活执行
+service displaying the
+their reservations
+1访问数据库和
+retrieves information
+在保留
+Patient information useful
+2查看清单
+bookings
+the patient in order
+实足
+病人决定打印清单
+reservations
+2 1 Start printing the list of
+Reservations
+2 2 generates the report and sends it to
+Printer
+每次预约2 1列出日期
+time type of access and why
+visit

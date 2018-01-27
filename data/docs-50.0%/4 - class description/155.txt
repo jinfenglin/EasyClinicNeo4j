@@ -1,0 +1,30 @@
+上课日期：15/09/2003
+Version:
+0 01 000
+它包含了一个访问的数据描述
+门诊病人
+Attributes
+名称访问说明
+历史造就了历史私人医生
+私人数据在病人的地方
+支持访问
+Private diagnosis made by medical diagnosis
+Private reason Grounds visit
+Private rilevazioniStrume instrumental observations made
+在访问期间
+由医生规定的私人疗法治疗
+Methods
+Signature create () Public Access
+Description Its task is to create a new object of type
+Visit
+签名删除（）公共访问
+Provides description of a visit to
+Signature save () Public Access
+说明为数据提供数据存储
+visit within the S I O
+签名GetAttributes（）公共访问
+它描述了所有的信息
+on a visit
+Signature setAttributes () Public Access
+It description to set the attributes of a
+患者

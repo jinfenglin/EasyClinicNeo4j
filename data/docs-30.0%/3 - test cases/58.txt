@@ -1,0 +1,18 @@
+Validation test case Patient Data:
+C08卡医院至20/06/2003
+correct (5 digits) and
+in S I O
+Version:
+0 02 000
+Use Case He performs the functions
+UcValPaz验证一个
+Patient
+High Priority
+医院设置00,001卡必须是
+recorded in S I O
+Description test
+医院输入卡：00,001
+The oracle Operator access to the operation
+validated patient
+Classes cover valid: CE1 CE2
+类无效：无

@@ -1,0 +1,51 @@
+改变anagrafica患者
+It allows the operator to change
+the anagrafica of a patient that are
+在门诊
+它处理数据的修改
+about anagrafica a Patient
+运营商已被``认可
+系统（请参阅UcValOp）患者是`
+been recognized by the system (See
+UcValPaz）和病人的年龄是`
+在S I O里面
+The anagrafica data Patient
+没有修改，留在
+这是在执行之前
+成功：病人的anagrafica是
+妥善改变
+操作员激活执行
+改变anagrafica的服务
+Patient
+1查看蒙版
+for editing
+the anagrafica of
+患者
+2改变anagrafica of
+患者
+3确认更改
+4验证操作员插入的数据
+5记住
+updates
+6通知该操作
+它完成了
+成功
+Invalid data set
+4 1显示一条消息显示
+数据被认为无效
+4 2重新插入从1开始运行
+underpinned the fields of the form with data
+由用户插入
+操作员取消功能
+change
+3 1 ends the execution of use case with
+失败
+2 1患者的anagrafica的特征是`
+以下数据：姓氏性别代码
+出生地点的出生日期
+province of birth place of address
+home province of residence address ZIP code
+额外的电话和笔记
+注意：斜体是突出显示的数据
+Optional whose inclusion does not affect
+正确完成操作

@@ -1,0 +1,28 @@
+Class Patient Data:
+15/09/2003
+版：
+0 01 000
+Description contains the age of the patients who are
+在门诊
+Attributes
+名称访问说明
+dataRegistrazion患者拥有的私人数据
+and contacted for the first time
+门诊
+Methods
+签名创建（）公共访问
+说明它的任务是创建一个新类型的对象
+Patient
+签名GetAttributes（）公共访问
+它的描述来找到所有的信息
+relating to it
+Signature save () Public Access
+描述提供一个数据的存储
+Patient in the S I O
+签名setAttributes（）公共访问
+它描述了设置a的属性
+Patient
+Methods
+签名validaPaziente（）公共访问
+It description of the procedure for validation
+患者

@@ -1,0 +1,40 @@
+Class PrenotazioniManager Date:
+16/09/2003
+Version:
+0 01 000
+说明具有管理操作的任务
+需要访问相关的数据
+预订
+Attributes
+名称访问说明
+
+方法
+签名删除Prenotazione（）公共访问
+描述的任务是管理a的处置
+预订
+签名编辑Prenotazione（）公共访问
+Description Its task is to manage the change data
+酒店评价
+Signature getDataDisponibile () Public Access
+说明鉴于访问的性质计算的第一个日期
+访问时可以“保留”
+Signature getPrenotazioneAt () Public Access
+说明它的任务是找到所有的信息
+在保留
+签名getPrenotazioniPaziente（）公共访问
+说明它的任务是找到所有的保留
+病人
+签名新Prenotazione（）公共访问
+说明它的任务是管理包含一个
+新的保留
+签名保存Prenotazione（）公共访问
+说明它的任务是保存一个
+站在一个保留
+签名钢琴Settimanale（）公共访问
+说明它的任务是找到所有的信息
+解决计划所必需的
+每周预订
+签名tempiMediAttesa（）公共访问
+Description Its task is to calculate the average time of
+等待就是发出请求
+an outpatient service

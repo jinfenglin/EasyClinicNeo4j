@@ -1,0 +1,27 @@
+GUILoginPaziente类日期：19/09/03
+版本：0 01 000
+描述制作管理访问的掩码
+病人部分的一部分
+Attributes
+Name Access Description
+启动该过程的私人btnValida按钮
+访问这个病人
+私人btnAnnulla按钮，让你退出
+登录掩码
+Private editCodiceHC Text box used to
+允许操作员输入
+the code of dell'Hospital Card
+患者
+专用editCodoceFiscal文本框用于
+并让操作员进入
+the tax code Patient
+方法
+签名showLoginError（）公共访问
+说明如果显示错误消息
+访问该部分的过程
+Patient fails
+签名登录（）公共访问
+说明管理操作员生成的事件
+插入代码卡或戴尔医院
+患者税代码并运行
+验证程序

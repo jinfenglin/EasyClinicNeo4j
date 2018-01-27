@@ -1,0 +1,23 @@
+GUITempiMedi类日期：16/09/2003
+Version: 0 01 000
+说明它的任务是显示掩码
+在计算的平均时间是
+发生服务请求
+预订
+Attributes
+名称访问说明
+私人btnUscita按钮，允许您返回
+the mask represented by
+GUIPrincipale
+Private graphRisultati Chart显示平均时间
+is `to serve occurred a request for
+Reservations
+Private panelRisultati panel with the results
+（数值）从计算得到
+平均时间服务的要求
+预订
+Methods
+签名tempiMedi（）公共访问
+它描述了所有的信息
+计算平均值所必需的
+有待

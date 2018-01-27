@@ -1,0 +1,18 @@
+查看列表预订
+这项服务是在明确要求之后发起的
+由患者演员患者访问面罩
+主要（例如GUIPrincipale）的管理
+all services provided by the system to the requests of patients
+并在那里选择预约显示
+然后控制到的实例
+GUIPrincipaleHandler代表的实例
+GUIPrenotazioniHandler在此管理服务的任务
+点控制被传递给实例
+Prenotazioni经理处理通过查找
+所有预订的预订请求
+请求结果的患者发送反向链接
+到GUIPrenotazioniHandler进行交易的实例
+他们在管理屏幕上的显示
+患者的预约（例如GUIPrenotazioni）这
+功能是由协作图来描述的
+图3的10

@@ -1,0 +1,21 @@
+测试机构删除访问日期：
+在2003年6月20日之后的C48控制
+日间医院，并在之前
+其他日间医院
+版：
+0 02 000
+用例满足删除的请求
+UcAnnPre预订服务
+made by an ambulatory patient
+Media Priorities
+Set up the previous reservation is `:
+29/03/2003营业时间08 00日间医院
+预订是'下一步：
+01/10/2003营业时间08 00日间医院
+描述测试
+Input Visit selected:
+30/09/2003小时09 00访问控制
+Oracle Sequence invalid The system
+允许删除
+课程覆盖有效：ce3 CE8 CE12
+类无效：无

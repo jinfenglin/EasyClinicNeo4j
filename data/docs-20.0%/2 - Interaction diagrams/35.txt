@@ -1,0 +1,34 @@
+Delete anagrafica doctor
+The service was launched following the express request
+by the actor The Operator logs on to form
+main (for instance GUIPrincipale) and there select the function
+anagrafica doctor management control then
+GUIPrincipaleHandler to the instance of the delegation which application
+GUIAnagraficaMedicoHandler负责管理服务
+第一步是获得所有医生的名单
+therefore control passes to the instance of the MedicoManager
+through which instances of Doctor retrieves the list and
+returns backward up to the instance of
+GUIAnagraficaMedicoHandler Now that object shall
+to display the list of doctors obtained on
+掩盖了医生注册的管理
+(instance of GUIAnagraficaMedico) The operator selects
+从你的医生被淘汰和主动功能
+处理其监测和医疗数据
+GUIAnagraficaMedicoHandler passes to the instance of the delegation which
+the task of finding data for selected medical
+面板的MedicoManager应用程序
+Doctor provides for recovery of such data will provide application
+GUIAnagraficaMedicoHandler of which in turn takes care of them
+GUIAnagraficaMedico mask on display at this point
+Operator confirms the changes made and control passes
+GUIAnagraficaMedicoHandler to the instance of which the delegation
+to eliminate the doctor selected to the instance of
+MedicoManager latter through the application of Doctor
+to provide and passes control to the instance of
+GUIAnagraficaMedicoHandler which in turn deals with
+notify success by viewing
+a special message on the screen on the management
+the register of doctors (for instance GUIAnagraficaMedico) This
+feature is was described by the collaboration diagram
+Fig 3 of 6

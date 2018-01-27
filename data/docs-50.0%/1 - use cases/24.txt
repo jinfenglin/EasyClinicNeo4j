@@ -1,0 +1,24 @@
+接入盒塔
+Allows the patient to access a
+locations of internally displaced
+of the outpatient
+He's Interest to log on to
+see your information
+The patient must be in possession of
+医院卡
+病人不认识
+系统
+Success: The patient is recognized by `
+system and is authorized to have access to
+他的部分
+Patient access to one of the locations
+流离失所的门诊病人
+包括1（有效患者）
+2找到
+Information
+patients
+3在内存中传输
+患者数据
+4查看蒙版
+root of a Box
+塔

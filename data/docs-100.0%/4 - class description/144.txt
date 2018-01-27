@@ -1,0 +1,29 @@
+Class HospitalCardManager日期：
+16/09/2003
+版：
+0 01 000
+说明具有管理操作的任务
+需要访问数据
+all'hospital卡
+属性
+名称访问说明
+
+方法
+签名assegnaHC（）公共访问
+说明它的任务是将卡分配给医院
+患者
+签名getHospitalCard（）公共访问
+返回医院数据卡的说明
+患者
+签名登录（）公共访问
+说明这是通过代码
+医院卡和PIN码进行验证
+病人在场内
+并与O.
+签名saveHC（）公共访问
+说明永久存储数据
+医院卡
+签名validaPaziente（）公共访问
+说明这是通过代码
+hospital card to verify that the patient is
+在S I O里面

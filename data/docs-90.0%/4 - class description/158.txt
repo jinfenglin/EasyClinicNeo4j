@@ -1,0 +1,36 @@
+Class Data Laboratory:
+15/09/2003
+版：
+0 01 000
+说明包含来自实验室的数据
+已经在考试中奠定了
+门诊病人
+属性
+名称访问说明
+邮政编码私人邮政
+私人城市所在的城市
+实验室
+私人地址你在哪里
+实验室
+私人聚会增值税实验室
+私人省份所在的省份
+实验室
+私人ragione实验室的名称
+私人实验室地址的详细信息
+方法
+签名创建（）公共访问
+说明它的任务是创建一个新类型的对象
+实验室
+签名删除（）公共访问
+说明提供关于数据的消除
+实验室
+签名保存（）公共访问
+Description Provides storage of data
+在S I O的一个实验室
+方法
+Signature GetAttributes () Public Access
+它描述了所有的检索
+information relating to a laboratory
+签名setAttributes（）公共访问
+它描述了设置a的属性
+实验室

@@ -1,0 +1,23 @@
+Class GUIAnagraficaLaboratorio Date:
+16/09/2003
+Version:
+0 01 000
+说明在管理上制作蒙版
+the anagrafica of laboratories
+属性
+Name Access Description
+Private gridElencoLaborat list containing the information
+gold key laboratories registered
+within S I O
+方法
+Signature visualizzaDatiLaboratorio（）公共访问
+Description View details of the laboratory
+selected in the panelDati
+Signature visualizzaElencoLaboratori () Public Access
+Description View list of laboratories registered
+在S I O中
+Signature gestioneAnagrafica () Public Access
+It description of the retrieval of all information
+necessary for the organization of the mask
+implemented by GUIAnagraficaLaboratorio
+

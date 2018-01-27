@@ -1,0 +1,29 @@
+Changing age Patient
+
+The service was launched following the express request
+by the actor The Operator logs on to form
+Patient's main section (for instance GUIPaziente) and there
+select the function for amending the register of Patient
+which made the request and then passes control
+GUIPazienteHandler to the instance of that delegation to the instance of
+GUIAnagraficaPazienteHandler the task of managing the service A
+Now the control passes to the instance of
+GUIAnagraficaPazienteHandler委托任务
+retrieve patient data on the applicant to the instance of
+Paziente经理通过申请病人的信
+provides for recovery of such data and provides them to the instance of
+GUIAnagraficaPazienteHandler which in turn takes care of them
+display on screen GUIAnagraficaPaziente
+此时，操作员确认所做的更改
+Control goes back to the instance of
+GUIAnagraficaPazienteHandler which delegated the task of
+存储对数据所做的更改
+患者关注这个PazienteManager的应用
+by the panel shall rescue Patient Data
+并在商店通过时进行修改
+control of the application to which GUIAnagraficaPazienteHandler
+轮到负责通知成功
+by displaying a message on
+mask on managing the Patient
+（GUIAnagraficaPaziente的实例）这个特性是
+described by the collaboration diagram of Fig 3 15

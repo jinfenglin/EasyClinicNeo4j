@@ -1,0 +1,30 @@
+编辑日间医院的测试案例日期：
+C52 preceded by a First 20/06/2003
+访问，然后是一个
+Visit control in a
+a之间的位置
+日间医院和参观
+控制
+Version:
+0 02 000
+Use Case Meets the request for modification of a
+UcModVis服务由Outpatient a
+患者
+High Priority
+设置以前的保留是`：
+26/09/2003小时11 00首次访问
+预订是'下一步：
+02/10/2003 hours 09 00 Visit Control
+新的预订是
+03/10/2003营业时间08 00日间医院
+稍后再次预订：
+06/10/2003小时09 00访问控制
+Description test
+Input: Visit selected:
+29/09/2003营业时间08 00日间医院
+Review:
+06/10/2003小时08 00
+Oracle: Sequence invalid The system
+保留的变化
+Classes cover valid: CE2 CE9 CE13 CE19 CE22
+：类无效：无

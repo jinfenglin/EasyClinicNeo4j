@@ -1,0 +1,14 @@
+Login failed validation Operator Scenario
+这项服务是在明确要求之后发起的
+by the actor Operator The access to the screen
+on the management of the system (for instance
+GUILogin) enter login and password and check the function
+验证然后将控制传递给实例
+GUILoginHandler委托给OperatoreManager的实例
+管理后者处理的任务
+validate the data entered by using the panel
+The operator of the negative outcome is notified
+backward up to the instance of which shall GUILoginHandler
+在上显示错误消息
+mask GUILogin This feature is was described by
+sequence diagram of Fig 3 3

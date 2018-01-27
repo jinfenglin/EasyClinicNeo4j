@@ -1,0 +1,48 @@
+Class GUIManagement Date: 16/09/2003
+Version: 0 01 000
+说明它的任务是显示掩码
+在管理职能上
+to monitor activities
+门诊
+属性
+Name Access Description
+私人btnPianiPrenotazioni按钮，提供访问权限
+implemented by the mask
+GUIPianiPrenotazioni
+Attributes
+Private btnResocontoEsami button that provides access
+由面具实施
+GUIResocontoEsami
+Private btnResocontoMedicina button that provides access
+将被部署为掩码
+GUIResocontoMedicinali
+私人btnResocontoPrenotaz按钮，提供访问权限
+离子形成由操作员实施
+GUIResocontoPrenotazioni
+Private btnResocontoVisite button that provides access
+由面具实施
+GUIResocontoVisite
+Private btnTempiMedi button that provides access
+由面具实施
+GUITempiMedi
+方法
+签名resocontoVisite（）公共访问
+Description Its task is to draw handler class
+与通过实施的面具相关联
+GUIResocontoVisite
+签名resocontoEsami（）公共访问
+Description Its task is to draw handler class
+associated with the mask implemented by
+GUIResocontoEsami
+Signature resocontoPrenotazioni () Public Access
+Description Its task is to draw handler class
+associated with the mask implemented by
+GUIResocontoPrenotazioni
+签名tempiMedi（）公共访问
+Description Its task is to draw handler class
+与通过实施的面具相关联
+GUITempiMedi
+签名pianiPrenotazioni（）公共访问
+说明它的任务是绘制处理程序类
+associated with the mask implemented by
+GUI PIA你P人o塔子哦你

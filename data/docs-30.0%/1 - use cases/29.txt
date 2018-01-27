@@ -1,0 +1,32 @@
+平均等待时间
+It allows the operator to get an estimate
+提供服务所需的平均时间
+Booking
+The Operator's interest to have a
+估计服务a的平均时间
+reservation request
+The operator activates the execution of
+service for calculating the estimated time
+average
+1查看蒙版
+to see the
+计算结果
+estimation of time
+中等服务
+请求
+Reservations
+2 Start function
+3 View results
+calculating
+Operator decides to print
+information
+3 1 Start printing information
+displayed
+3 2 generates the report and sends it to
+Printer
+操作员取消操作
+2 1 ends the use case with failure
+1 1 The time of service delivered in days is `equal
+the time between the date of request
+reservation and when the appointment
+被安排了

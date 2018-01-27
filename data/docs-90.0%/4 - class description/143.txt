@@ -1,0 +1,34 @@
+Class PrintManager日期：
+16/09/2003
+版：
+0 01 000
+Description Its task managing the operations of the press
+贡献给运营商
+属性
+名称访问说明
+
+方法
+签名stampaHospitalCard（）公共访问
+说明它的任务是提供检索
+印刷所需的信息
+医院卡
+签名printPianoSettimanale（）公共访问
+说明它的任务是提供检索
+打印计划所需的信息
+以表格形式每周预订
+签名stampaResocontoEsami（）公共访问
+说明它的任务是提供检索
+打印所需的信息
+报告运营商的考试
+需要
+Signature stampaResocontoPrenotazioni (Public Access
+)
+说明它的任务是提供检索
+打印所需的信息
+报告经营者有保留
+required
+Signature stampaResocontoVisite () Public Access
+说明它的任务是提供检索
+打印所需的信息
+运营商的访问记录
+需要

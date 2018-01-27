@@ -1,0 +1,18 @@
+验证测试用例患者数据：
+通过20/06/2003 C12税码
+正确（16位数字）和
+在S I O中
+版：
+0 02 000
+Use Case He performs the functions
+UcValPaz验证一个
+患者
+高优先级
+设置税码必须为ZCCRCC80D13G942U
+在S I O注册
+描述测试
+输入：公司ID：ZCCRCC80D13G942U
+Oracle：操作员访问操作
+Validated patient
+课程覆盖有效：CE6
+：课程无效：CE7

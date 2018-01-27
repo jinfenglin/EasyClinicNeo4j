@@ -1,0 +1,54 @@
+改变anagrafica实验室
+It allows the operator to change
+the anagrafica of a laboratory analysis
+它处理数据的修改
+about anagrafica of laboratory
+analysis
+The Operator has been recognized by
+System (See UcValOp) and anagrafica
+Laboratory is inside the
+并与O.
+The anagrafica data of
+实验室没有改变：
+remain in the state this first
+of
+Success: The anagrafica of the laboratory
+is properly amended
+The operator activates the execution of
+Service changing of the anagrafica of
+laboratory
+1 View the list of
+laboratories
+在S I O中
+2 Select the laboratory  Which change
+the anagrafica
+3 Confirm your selection
+4查看蒙版
+for editing
+the anagrafica of
+laboratory
+5 Changing the angrafica of
+laboratory
+Confirm the changes 6
+7 Verify the data insert by operator
+8记住
+updates
+9 Notify  that the operation
+它完成了
+成功
+Data entered invalid
+7 1 Display a message showing the
+data deemed invalid
+7 2 Reinserts running from 4
+underpinned the fields of the form with data
+Entered
+操作员取消操作
+3 1 ends the execution of use case with
+6 1 failure
+5 1 The anagrafica of a laboratory is characterized `
+by the following data: name VAT
+address city province CAP addresses
+Additional telephone and Notes
+NB: In italics are highlighted data
+Optional whose inclusion does not affect
+on the proper completion of

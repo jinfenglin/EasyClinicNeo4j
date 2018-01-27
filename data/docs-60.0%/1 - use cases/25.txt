@@ -1,0 +1,31 @@
+Validation patient
+He works to perform the functions
+认证一个必要的
+患者
+it's Interest to log on to
+see your information
+病人必须拥有
+医院卡
+The patient is not recognized `
+系统
+Success: The patient is recognized by `
+系统和访问其部分
+Patient access to Box Tower
+1 View the mask
+为操作
+login
+2输入代码
+医院卡和代码
+PIN
+3确认验证
+4确认这对夫妇
+（医院卡密码）
+识别病人
+within S I O
+Patient cancels function
+验证
+3 1结束了用例的执行
+failure
+验证失败
+4 1显示适当的信息
+4 2从1步重新插入运行

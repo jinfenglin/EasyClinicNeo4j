@@ -1,0 +1,31 @@
+Class GUICartellaClinica Date: 18/09/2003
+版：
+0 01 000
+说明制作用于掩码的掩码
+查看临床文件夹
+患者
+属性
+Name Access Description
+Private btnDettagli button used to display the
+选择访问的细节
+Private btnRitorna button that allows you to return
+主要形式是GUIPrincipale
+包含anagrafica数据的专用panelDatiAnagraf面板
+这里有病人
+包含网格的私人面板ElencoVisit面板
+and what appear visits
+that the patient claimed
+Methods
+签名visualizzaDatiPaziente（）公共访问
+See description at the top of
+mask the anagrafica data of patient
+Signature visualizzaElencoVisite () Public Access
+说明查看格栅（panelDatiAnagrafici）
+包含Patient支付的访问
+签名getCartellaClinica（）公共访问
+获取患者临床文件夹的描述
+Signature dettagliVisita () Public Access
+说明管理由患者生成的事件
+Decides to view the details of a visit
+clicking on the button in the details
+由GUICartellaClinica实施的面具

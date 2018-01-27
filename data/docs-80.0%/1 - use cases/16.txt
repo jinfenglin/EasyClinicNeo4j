@@ -1,0 +1,45 @@
+Cancel Reservation
+它允许操作员见面
+要求取消一项
+renting an outpatient service
+由病人
+运营商有权取消
+预约门诊手术服务
+先前由患者请求
+运营商已被``认可
+系统（请参阅UcValOp）患者是`
+被系统认可（见
+UcValPaz) and the reservation of which
+要求取消是`这个
+in the S I O
+S I O中的数据
+不被修改
+成功：保留是
+明确废止
+操作员激活执行
+服务取消了
+预订
+1查看列表
+Reservations for the
+患者
+2 Select the reservation
+正在改变
+3确认取消
+4验证序列
+Reservations are
+有效
+（见BrValSeq）
+5取消预订
+6通知操作员
+该操作是`
+成功结束
+序列保留无效
+4 1显示适当的信息
+4 2从1步重新插入运行
+操作员取消操作
+评论
+3 1结束失败的用例
+4 1 The sequence of reservations must be ricontrollata
+because the patient may take
+取消预约以外的预约
+持续

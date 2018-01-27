@@ -1,0 +1,21 @@
+按日期登录运算符测试用例：
+C07 login correct but not 20/06/2003
+recorded in S I O and
+密码存储在
+I S O
+Version:
+0 02 000
+用例他执行这些功能
+UcValOpe necessary to authenticate an
+操作者
+高优先级
+Set up the login olive grove is not registered in `
+并与O.
+密码是`Virago注册在S I O
+描述测试
+输入登录名：橄榄树林
+Password: Virago
+Oracle系统不允许访问
+patient
+Classes cover valid: CE1 CE7
+课程无效：CE5

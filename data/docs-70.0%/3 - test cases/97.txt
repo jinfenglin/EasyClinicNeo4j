@@ -1,0 +1,21 @@
+测试机构删除日期日期：
+C47医院在第一次20/06/2003之后
+并在访问之前访问
+Control
+版：
+0 02 000
+用例满足删除的请求
+UcAnnPre预订服务
+由一位非卧床患者制成
+高优先级
+设置以前的保留是`：
+26/09/2003 hours 11 00 First visit
+预订是'下一步：
+30/09/2003 hours 09 00 Visit Control
+Description test
+Input Visit selected:
+29/09/2003营业时间08 00日间医院
+Oracle序列无效系统
+允许取消
+Classes cover valid: CE2 CE7 CE13
+Classes are not valid: None

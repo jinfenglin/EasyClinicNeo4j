@@ -1,0 +1,20 @@
+通过患者数据登录测试案例：
+C62 Card Hospital recorded 20/06/2003
+在S I O和正确的PIN但是
+not recorded in S I O
+版：
+0 02 000
+Use Case He performs the functions
+UcLogPaz necessary to authenticate an
+patient
+High Priority
+The Hospital set up 00,001 Card is `recorded in
+并与O.
+The PIN is not `47,389 recorded in S I O
+Description test
+Input: Hospital Card: 00,001
+pin: 47,389
+Oracle: The system does not allow access to
+患者
+Classes cover valid: CE2
+: Classes invalid: CE10

@@ -1,0 +1,31 @@
+按日期编辑访问测试用例：
+C54之前是20/06/2003的控件
+Day Hospital and followed by a
+在医院的一天
+final position of
+sequence of reservations and
+preceded by a Day
+Hospital
+Version:
+0 02 000
+Use Case Meets the request for modification of a
+UcModVis服务由Outpatient a
+patient
+高优先级
+设置以前的保留是`：
+29/09/2003营业时间08 00日间医院
+The reservation is `Next:
+03/10/2003 hours 08 00 Day Hospital
+New reservation was
+10/10/2003 hours 08 00 Day Hospital
+There are no reservations after the next
+Review
+Description test
+Input Visit selected:
+02/10/2003小时09 00访问控制
+评论：
+02/10/2003小时10 30
+Oracle Sequence invalid The system
+保留的变化
+Classes cover valid: ce3 CE8 CE13 CE16 CE23
+Classes are not valid: None

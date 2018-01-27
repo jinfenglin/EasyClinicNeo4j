@@ -1,0 +1,16 @@
+Validation test case Patient Data:
+C10 Card Hospital by not 20/06/2003
+proper (higher
+人物）
+版：
+0 02 000
+用例他执行这些功能
+UcValPaz验证一个
+患者
+High Priority
+设置不确定
+描述测试
+Hospital Input Card: 000,000
+Oracle输入无效
+Classes cover valid: None
+Classes invalid: CE4

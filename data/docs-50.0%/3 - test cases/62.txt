@@ -1,0 +1,18 @@
+Validation test case Patient Data:
+C12 tax code through 20/06/2003
+正确（16位数字）和
+在S I O中
+Version:
+0 02 000
+Use Case He performs the functions
+UcValPaz验证一个
+Patient
+High Priority
+Set up the tax code must ZCCRCC80D13G942U
+在S I O注册
+描述测试
+输入：公司ID：ZCCRCC80D13G942U
+Oracle: The Operator access to the operation
+经过验证的患者
+Classes cover valid: CE6
+：课程无效：CE7

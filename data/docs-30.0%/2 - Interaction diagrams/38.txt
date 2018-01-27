@@ -1,0 +1,18 @@
+Access section patient performed (by code
+tax)
+The service was launched following the express request
+由演员操作员登录形成
+on the management section of the patient (body
+of GUILoginPaziente) insert the tax code that Patient
+has made a request and select the function
+The validation then passes control to the instance of
+GUILoginPazienteHandler which delegates to the instance of
+PazienteManager the task of managing the service this growth
+deals to validate the data entered by using
+病人的结果是身体
+向后通知GUILoginPazienteHandler的实例
+which requires the application of GUIPazienteHandler to enable
+access by the Section Patient
+申请人和该对象应显示
+主要形式（例如GUIPaziente）此功能是`
+been described by the sequence diagram of Fig 3 13

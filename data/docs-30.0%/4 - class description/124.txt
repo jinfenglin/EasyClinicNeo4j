@@ -1,0 +1,22 @@
+Class GUIAnagraficaMedico Date: 16/09/2003
+版：
+0 01 000
+Description Make the mask on the management
+the anagrafica of doctors
+Attributes
+名称访问说明
+Private gridElencoMedici list containing the information
+principal of doctors registered in
+I S O
+Methods
+Signature visualizzaDatiMedico () Public Access
+说明查看所选医生的详细信息
+Section panelDati
+签名visualizzaElencoMedicii（）公共访问
+Description View list of doctors registered in
+I S O
+Signature gestioneAnagrafica () Public Access
+It description of the retrieval of all
+组织所需的信息
+Mask implemented by
+GUIAnagraficaMedico

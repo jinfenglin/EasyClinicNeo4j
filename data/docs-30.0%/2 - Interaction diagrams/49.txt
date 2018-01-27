@@ -1,0 +1,31 @@
+Show clinic folder
+这项服务是在明确要求之后发起的
+The part of the Patient actor Patient access to the form
+main (for instance GUIPrincipale) on the management of
+系统提供的所有服务都符合患者的需求
+并在那里选择他们的诊所文件夹的显示
+The patient then passes control to the instance of
+GUIPrincipaleHandler which delegates to the instance of
+GUICartellaClinicaHandler管理服务的任务
+the first step to take is to find the data for
+all visits and examinations carried out by Patient
+applicant, and therefore control passes to the instance of
+CartellaClinicaManager At this point through a process
+iterative are the retrieval of all visits and all
+step is carried out as follows: The body of
+VisiteManager通过应用数据访问找到
+进行访问然后通过控制
+EsamiManager application to ensure that through instances of
+Consideration for finding all the examinations for the visit
+At the end of this process, the results are sent
+to the instance of CartellaClinicaManager The next step
+是找到有关病人的数据
+applicant, and therefore control passes to the instance of
+PazienteManager through which the request for Patient Recovers
+这些数据并将它们向后发送到实例
+CartellaClinicaManager At this point the control switches
+GUICartellaClinicaHandler to the instance of which shall
+visualization of anagrafica data and Patient visits
+在管理文件夹上的蒙版上执行
+clinics (for instance GUICartellaClinica) This feature is `
+been described by the collaboration diagram of Fig 3 11

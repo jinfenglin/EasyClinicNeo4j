@@ -1,0 +1,15 @@
+Class TipoVisita日期：20/09/03
+版：
+0 01 000
+说明包含不同类型的说明
+visit that may be made in
+outpatient
+Attributes
+名称访问说明
+Private code code type of visit
+（记者DH C）
+Private description description of the type of
+访问
+方法
+Signature Access
+描述

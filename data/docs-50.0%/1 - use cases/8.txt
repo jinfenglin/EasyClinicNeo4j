@@ -1,0 +1,59 @@
+记录访问
+It allows the operator to record a
+参观在门诊举行
+The Operator has an interest in a record
+参观在门诊举行
+The Operator has been recognized by `
+System (See UcValOp) and the Operator has
+收到访问的数据
+文件夹诊所
+受到访问的病人
+is not changed
+Success: All information is
+存储在文件夹中
+病人诊所
+The operator activates the execution of
+参观登记服务
+1查看蒙版
+to record of the visit
+
+2输入必要的数据
+注册
+visit
+3 Confirm input
+4验证数据插入
+由操作员
+5存储数据
+6通知操作员
+that the operation was
+concluded successfully
+输入关于新考试的数据
+6 1 Inserting new examination
+操作者对输入数据的兴趣
+an examination of the visit concerned
+Inserting examination
+6 2 Back on 6 point
+无效的数据集
+4 1 Show an appropriate message
+4 2从1回收跑步
+underpinned the fields of the form with data
+由用户插入
+Operator cancels the operation
+注册
+3 1 ends the use case with failure
+4 1登记所需的资料
+访问的对象是：那个医生名字的那个日期
+对访问的原因进行了调查
+illnesses accused by the patient history
+made by medical diagnosis tests
+规定的治疗规定（指示
+药品和招聘时间）和'必要的
+Furthermore, the inclusion of possible values
+在访问期间进行的仪器观察
+（例如心跳压力
+n number of blood found dioptres etc)
+For biological testing and / or instrumental is `
+must enter information on the
+laboratory that has made them the values of
+results of each examination and evaluation
+diagnosis made by medical

@@ -1,0 +1,22 @@
+GUIEliminaPrenotazione类日期：16/09/2003
+Version:
+0 01 000
+Description Make the mask used for
+management of an
+Reservations
+Attributes
+Name Access Description
+用于取消私人btnAnnulla按钮
+the delete of a visit
+Private gridElencoPrenotaz list containing all
+active reservation made by
+病人
+方法
+Signature VisualizzaElencoPrenotazioni Public Access
+()
+Description Display the list of reservations
+made by Patient
+Signature eliminaPrenotazione () Public Access
+内容提要它的任务是找到信息
+necessary for the realization of
+GUIEliminaPrenotazione

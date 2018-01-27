@@ -1,0 +1,22 @@
+Class GUIResoconto日期：16/09/2003
+版：
+0 01 000
+描述抽象类用于定义
+课程和GUIResocontoVisite GUIResocontoEsami
+GUIResocontoPrenotazioni
+属性
+名称访问说明
+其中的私有gridRisultati网格
+将显示结果
+报告
+私人btnRicerca按钮开始搜索
+参观考试或预约
+in outpatient
+私人btnUscita按钮，允许您返回
+掩码代表
+GUIPrincipale
+方法
+Signature visualizza Risultati（）公共访问
+说明查看那个搜索结果
+运营商报告的行为
+在门诊进行的活动

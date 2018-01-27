@@ -1,0 +1,16 @@
+Class GUIResocontoPrenotazioni Date: 16/09/2003
+版本：0 01 000
+描述在管理上制作蒙版
+在保留报告
+outpatient
+Attributes
+名称访问说明
+Private panelParametri panel containing all the parameters
+设置标准是必要的
+creation of reports
+预订
+方法
+Signature resocontoPrenotazioni () Public Access
+It description to find all the information
+生成报告所必需的
+compliance with the criteria specified

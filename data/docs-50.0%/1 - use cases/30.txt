@@ -1,0 +1,39 @@
+计划预订
+It allows the operator to view and / or
+print in tabular form plans
+为每种类型预订
+Visit
+运营商的兴趣看到
+和/或打印预订计划
+made
+运营商已被``认可
+System (See UcValOp)
+操作员激活执行
+service to view and / or print
+Plans reservations
+1查看蒙版
+查看和
+打印计划
+预订
+2 Select the type of
+访问
+3启用
+4访问数据库和
+在...中找到
+training required
+5 View
+information obtained
+Operator decides to print
+信息
+5 1开始打印信息
+displayed
+5 2 generates the report and sends it to
+Printer
+操作员取消操作
+3 1 ends the use case with failure
+2 1 The types of access that the operator can "select
+are: First Visit Day and Hospital Visit
+检查
+5 1 for each reservation in this plan
+保留是名字和
+name of patient

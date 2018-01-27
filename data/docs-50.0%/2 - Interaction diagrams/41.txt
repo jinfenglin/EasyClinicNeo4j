@@ -1,0 +1,111 @@
+保留第一次访问
+该服务是在明确要求后发起的
+by the actor The Operator logs on to form
+主（例如G​​UIPrincipale）并在那里选择功能
+reservation an initial visit and then passes control
+GUIPrincipaleHandler给代表哪个应用程序的实例
+GUIPrenotaVisitaHandler to the task of managing the service Given
+you are reservation a first visit passes control
+其中的应用程序将GUIAnagraficaPazienteHandler
+the integration of anagrafica patient data
+
+Creation of the new Patient
+
+The application displays the class GUIAnagraficaPazienteHandler
+the mask on the input of anagrafica data of
+患者（例如GUIAnagraficaPaziente）此时
+操作员插入患者的数据和确认
+such data, then passes control to the instance of
+GUIAnagraficaPazienteHandler who moved to the instance of
+PazienteManager verify that the patient within
+如果患者的SIO“这不是手术可以”
+然后继续GUIAnagraficaPazienteHandler代表团
+PazienteManager to the instance of the task of creating the new
+The patient by the panel shall Patient
+根据操作员插入的数据创建新的患者
+
+Creating the Hospital Card
+
+The application of class PazienteManager passes control
+这反过来指的是HospitalCardManager的实例
+医院卡的主体提供了一个新的创建
+医院卡在医院后被分配给病人A.
+creation sends a notification message that the success
+落后的实例
+GUIPrenotaVisitaHandler
+
+选择访问类型
+
+The application of class GUIPrenotaVisitaHandler displays the
+面具上的预约参观
+患者必须服从（例如GUIPrenotaVisita）在此
+Operator select the form and confirms the type of access and
+control returns to the instance of the GUIPrenotaVisitaHandler
+which delegation is to include a new reservation
+to the instance of PrenotazioniManager
+
+创建新的预订
+
+通过应用程序Prenotazioni管理器的应用程序
+预订会在此时创建新的预订
+The body of Reservation shall verify the validity of
+reservation or check that the new reservation respects
+保留的顺序有效如果
+预订是有效的预订应通知
+success of the creation of a reservation
+backward up to the instance of GUIPrenotaVisitaHandler
+
+Finding data available
+
+The application of the proxy class GUIPrenotaVisitaHandler
+to the instance of PrenotazioniManager task of finding the first
+访问时可以保留这个日期的日期是
+GUIPrenotaVisitaHandler给予其实例
+to display it on form
+reservation a visit (for instance GUIPrenotaVisita)
+The Operator confirmed the date proposed by the system and control
+返回到GUIPrenotaVisitaHandler的实例
+
+将数据存储在患者和医院卡上
+
+类GUIPrenotaVisitaHandler通行证的应用
+GUIAnagraficaPazienteHandler控制应用程序
+允许它存储数据患者
+The application GUIAnagraficaPazienteHandler in turn delegated
+存储与患者有关的个人数据
+PazienteManager到通过应用程序的类的实例
+数据中的患者永久存储在商店中
+控制返回到落后的类
+HospitalCardManager通过应用程序提供
+医院卡抢救数据医院卡
+on the patient who is reservation the visit Once
+操作完成后返回存储
+backward a message notifying the success of the up
+to come to the instance of the class GUIAnagraficaPazienteHandler
+
+Viewing and printing the Hospital Card
+
+The application of the proxy class GUIAnagraficaPazienteHandler
+to view and print the application Hospital Card
+Class GUIHospitalCardHandler latter obtains data
+医院卡由HospitalCardManager的适当机构提供
+在屏幕上显示数据
+the Hospital Card (for instance GUIHospitalCard) and the delegation
+打印医院卡到班级的实例
+PrintManager控件返回到
+reaching application GUIPrenotaVisitaHandler
+
+存储预定
+
+此时应用类GUIPrenotaVisitaHandler
+继续通过委托保存预订
+PrenotazioniManager task to the instance of this application
+通过申请保留应保存
+关于预订的数据一旦这样
+operation control passes to the instance of
+GUIPrenotaVisitaHandler which in turn deals with
+通过查看通知成功
+预订屏幕上的特殊消息
+参观（例如GUIPrenotaVisita）
+该功能是由该合作描述的
+图3的图

@@ -1,0 +1,20 @@
+病人登录情景验证运行
+The service was launched following the express request
+由患者演员患者访问屏幕
+on the management of the system (for instance
+GUISfondo）控制然后转到实例
+GUISfondoHandler委托给GUILoginHandler的实例
+the task of managing the service The first step to take
+is to enter the Hospital Patient Card and PIN and then
+病人被提交到同一页面进行收购
+这些数据（例如GUILogin）患者数据集和
+confirms the insertion, and the scrutiny goes back to the application
+GUILoginHandler of derogating the validation of the application
+HospitalCardManager latter deals to validate the information
+通过申请结果医院卡进入患者
+被通知积极向后回升
+GUILoginHandler的应用程序需要应用程序
+允许GUIPrincipaleHandler访问患者
+申请人然后安排展示
+main form (for instance GUIPrincipale) This feature
+它由图3的序列图描述

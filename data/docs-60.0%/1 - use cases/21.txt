@@ -1,0 +1,64 @@
+Show clinic folder
+Allows a patient of view
+诊所文件夹自己的文件夹使用
+specific locations displaced
+的门诊病人
+He has an interest in access to your
+Folder Clinic
+`The patient has been recognized by
+系统
+（见UcAccTB）
+病人获得
+显示信息
+载于他们的诊所文件夹
+病人激活执行
+服务显示文件夹
+诊所
+1访问数据库和
+retrieves information
+在文件夹上
+临床病人
+2查看详情
+病人和名单
+of visits
+in chronological order and
+pathology
+病人显示详细信息访问
+2 1从列表中选择一个访问
+需要查看细节
+2 2访问数据库并检索
+选择访问的细节
+2 3显示含有的面罩
+访问的细节
+Patient decides to print the
+Folder own clinic
+2 1开始打印文件夹
+Clinical
+2 2生成报告并将其发送到
+打印机
+Patient decides to print
+details of a visit
+2 3 1开始打印详细信息
+访问
+2 3 2 generates the report and sends it to
+打印机
+2 1每次访问都列出日期
+进行调查的医生的名字和
+访问的原因
+2 3 for each visit lists the date the
+name of the doctor who made the visit
+reason for the visit and accused by illnesses
+病人的历史由医生做出
+diagnostic tests prescribed therapy
+（给药和招募时间）
+They are required altres reported values
+any observations made instrumental
+在访问期间（例如心跳
+血压值为n数
+dioptres found etc) For examinations
+biological and / or instrumental once these
+have been made are given the
+有关实验室的信息
+作出和每个结果的价值
+examination and diagnostic evaluation made by
+医生

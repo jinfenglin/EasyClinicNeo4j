@@ -1,0 +1,17 @@
+访问部分患者失败（通过代码
+Hospital Card)
+这项服务是在明确要求之后发起的
+by the actor The Operator logs on to form
+在患者的管理部分（身体
+的GUILoginPaziente）插入医院卡的代码
+已提出请求并选择功能的患者
+validation control then the application of
+GUILoginPazienteHandler which delegates to the instance of
+HospitalCardManager the task of managing the service
+后者负责验证输入的数据
+通过申请医院卡失败
+the transaction is notified backward up to the instance of
+应显示GUILoginPazienteHandler
+屏幕访问（应用程序
+GUILoginPaziente）这个特性已经被``描述了
+The sequence diagram of Fig 3 14

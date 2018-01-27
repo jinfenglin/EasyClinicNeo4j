@@ -1,0 +1,63 @@
+Book visit
+It allows the operator to meet
+request for a booking service
+由一位非卧床患者制成
+The Operator has an interest in the record
+renting an outpatient service
+requested by a patient
+The Operator has been recognized by `
+System (See UcValOp) The patient is `
+been recognized by the system (See
+UcValPaz) and has issued to
+模块R S A正确完成
+The data in the S I O
+不被修改
+Success: The outpatient service
+required is properly booked
+The operator activates the execution of
+service booking service
+门诊病人
+1
+First visit
+
+The Operator has
+received a request
+First visit
+part of a patient
+
+Inserting anagrafica
+patient
+2 View the mask
+预订
+service
+Outpatient
+3选择访问类型
+that the patient wants
+make
+4 Inserts motivation of the
+请求
+5确认插入的数据
+6 Verify that the sequence
+Reservations are
+valid
+(See BrValSeq)
+Includes 7 (Select dates
+提供）
+8 Confirm your reservation
+9 Stores data
+Notify the operator 10
+该操作是`
+concluded successfully
+Sequence reservations invalid
+6 1 Show an appropriate message
+6 2重新插入步骤2中的执行
+Operator cancels the operation
+预订
+5 1 ends the use case with failure
+8 1
+9 1 For a first visit has shown to this point
+that will be saved even the personal data
+In addition, the patient always in the case of a
+Before visiting the system will
+view and print the card in hospital
+patient

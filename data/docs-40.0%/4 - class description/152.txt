@@ -1,0 +1,13 @@
+Operator Class Date: 20/09/03
+版：
+0 01 000
+它包含你的员工的描述
+的门诊病人
+属性
+Name Access Description
+Private operator login Login
+Private password associated with the login password
+Methods
+签名validaOperatore（）公共访问
+It description of the procedure for validation
+of Operator

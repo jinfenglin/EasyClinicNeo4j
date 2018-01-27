@@ -1,0 +1,20 @@
+测试用例操作员登录日期：
+C01's login through 20/06/2003
+correct and incorrect password
+扭矩（登录密码）
+in S I O
+Version:
+0 02 000
+Use Case He performs the functions
+UcValOpe验证一个
+操作者
+High Priority
+这对夫妇设置了（登录密码）=（Rocolo
+Virago）被记录在`S我O.
+描述测试
+输入登录名：Rocolo
+密码：Virago
+Oracle系统允许访问
+运营商
+类别覆盖有效：CE1 CE2 CE6 CE7
+类无效：无

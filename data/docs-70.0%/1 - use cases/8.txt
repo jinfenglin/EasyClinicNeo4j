@@ -1,0 +1,59 @@
+记录访问
+它允许操作员记录一个
+visit held in outpatient
+The Operator has an interest in a record
+参观在门诊举行
+运营商已被``认可
+系统（请参阅UcValOp）和运营商
+收到访问的数据
+The Clinic of Folder
+受到访问的病人
+没有改变
+成功：所有信息都是
+存储在文件夹中
+病人诊所
+操作员激活执行
+registration service of a visit
+1 View the mask
+以记录访问
+
+2输入必要的数据
+注册
+访问
+3确认输入
+4 Verify the data insert
+by operator
+5存储数据
+6通知操作员
+that the operation was
+成功结束
+Input Data about to a new examination
+6 1 Inserting new examination
+The Operator's interest to input data
+an examination of the visit concerned
+插入检查
+6 2回到6点
+Invalid data set
+4 1 Show an appropriate message
+4 2 take back running from 1
+用数据支持表单的字段
+由用户插入
+操作员取消操作
+注册
+3 1 ends the use case with failure
+4 1登记所需的资料
+访问的对象是：那个医生名字的那个日期
+对访问的原因进行了调查
+患者病史指责的疾病
+made by medical diagnosis tests
+规定的治疗规定（指示
+Medicines and time of recruitment) and 'necessary
+此外，包含可能的值
+在访问期间进行的仪器观察
+（例如心跳压力
+n个血液中发现的屈光度等）
+对于生物测试和/或器械是`
+必须输入信息
+实验室，使他们的价值观
+每次检查和评估的结果
+由医疗诊断

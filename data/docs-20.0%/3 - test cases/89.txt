@@ -1,0 +1,17 @@
+Test case reservation a visit Date:
+C39 control by 20/06/2003
+一个新病人
+Version:
+0 02 000
+Use Case Meets the request for a reservation
+UcPreVis服务由Outpatient a
+patient
+High Priority
+Set up There are no previous reservations
+Description test
+Input type selected visit: Visit
+check
+Oracle Sequence invalid The system
+allows the reservation of the visit
+课程覆盖有效：ce3 CE5
+Classes are not valid: None

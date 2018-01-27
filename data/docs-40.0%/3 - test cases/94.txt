@@ -1,0 +1,17 @@
+Testing houses delete a First Date:
+C44访问20/06/2003
+Version:
+0 02 000
+Use Case Meets the request for delete of
+UcAnnPre a reservation service
+由一位非卧床患者制成
+High Priority
+设置没有以前的保留和
+Reservations subsequent
+Description test
+Input Visit selected:
+03/09/2003小时09 00首次访问
+The oracle system eliminates the reservation and
+从S I O中删除患者
+Classes cover valid: CE1 CE6 CE10
+Classes are not valid: None

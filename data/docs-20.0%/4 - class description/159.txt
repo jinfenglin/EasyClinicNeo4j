@@ -1,0 +1,29 @@
+Class Booking Date:
+15/09/2003
+Version:
+0 01 000
+It contains data describing a reservation that is was
+在门诊进行
+属性
+Name Access Description
+dataRichiesta Private Data that has been carried out `
+Reservations
+dataVisita私人参观日期将会发生
+Private Grounds reason for which it was
+the request
+Private hour Now that the visit will take place
+Methods
+签名创建（）公共访问
+Description Its task is to create a new object of type
+Reservation
+Signature delete () Public Access
+Provides description to a reservation
+Signature save () Public Access
+Description Provides the storing of a reservation
+in the S I O
+Signature GetAttributes () Public Access
+It description of the retrieval of all
+information relating to a reservation
+Signature setAttributes () Public Access
+It description to set the attributes of a
+Reservations

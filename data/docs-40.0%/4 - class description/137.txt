@@ -1,0 +1,16 @@
+Class GUIHospitalCard日期：
+16/09/2003
+版：
+0 01 000
+Description Make the mask used for
+卡的dell'Hospital视图
+Newly recorded patient
+Attributes
+名称访问说明
+
+Methods
+Signature visualizzaHospitalCard () Public Access
+Description Display data Hospital Card
+签名stampaHC（）公共访问
+Description Its task is to find the data for the
+查看数据dell'Hospital卡

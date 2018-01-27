@@ -1,0 +1,28 @@
+GUIVisita类日期：18/09/2003
+Version:
+0 01 000
+内容提要访问时制作面具
+offers the opportunity to view patient
+访问的详细数据
+属性
+名称访问说明
+私人btn下一个按钮用于查看
+the subsequent examination of the
+Visit concerned
+私人btnPrev按钮用于查看
+之前的考试
+有关的访问
+Private btnRitorna button used to return
+to the form of clinic folder
+(GUICartellaClinica)
+包含数据的私人小组达拉斯小组
+Patient进行了一项评估
+包含所有数据的专用panelDatiVisita面板
+参观
+方法
+签名创建（）公共访问
+Description Manufacturer of Class
+签名销毁（）公共访问
+类驱逐舰的描述
+签名getDettagliVisita（）公共访问
+说明获取访问的详细信息

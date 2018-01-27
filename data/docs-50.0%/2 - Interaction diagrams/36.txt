@@ -1,0 +1,32 @@
+记录访问
+
+This feature is has been described by
+图3的协作图21主要场景：
+service is started following the explicit request
+The actor part of the operator access to the mask
+主（例如G​​UIPrincipale）并在那里选择功能
+The management visits then passes control to the instance of
+GUIPrincipaleHandler which delegates to the instance of
+GUIVisitaHandler提供服务的任务第一步
+is to obtain a list of all visits
+in outpatient therefore control passes to the instance of
+VisiteManager Through an iterative process are the goods
+retrieval of all visits and every step is made in
+as follows: the panel found through VisiteManager
+关于访问和访问的数据正文
+然后将控制传递给该EsamiManager的实例
+通过考试实例提供所有的查找
+同一次访问的考试通过此列表
+GUIVisitaHandler to the instance of which shall display
+the visits made on the mask on the
+管理访问（例如GUIVisite）运营商
+选择功能访问位置插入数据
+Visit the new and confirms control passes to the application
+GUIVisiteHandler of the delegation which is to enter the
+通过VisiteManager的新实例访问
+Visit the panel and ensure the inclusion of rescue
+新巡视和返回控制应用程序的数据
+GUIVisitaHandler of which in turn is responsible to notify
+成功通过查看一个
+消息形式的管理
+访问（例如GUIVisita）

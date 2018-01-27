@@ -1,0 +1,23 @@
+Class PazienteManager Date:
+14/09/2003
+Version:
+0 01 000
+Description has the task to manage operations
+需要访问个人资料
+Patients
+属性
+Name Access Description
+
+Methods
+Signature editPaziente () Public Access
+Description Manages updating of data
+a patient
+签名findPaziente（）公共访问
+说明检查特定患者
+在S I O中
+Signature getDatiPaziente () Public Access
+说明它的任务是找到所有的信息
+涉及给定的个人资料
+患者
+签名newPaziente（）公共访问
+说明其任务是创建一个新的病人

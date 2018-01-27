@@ -1,0 +1,23 @@
+Class GUIAnagraficaLaboratorio Date:
+16/09/2003
+版：
+0 01 000
+Description Make the mask on the management
+the anagrafica of laboratories
+Attributes
+Name Access Description
+私有网格包含信息的ElencoLaborat列表
+金牌重点实验室注册
+在S I O内
+Methods
+Signature visualizzaDatiLaboratorio () Public Access
+Description View details of the laboratory
+在panelDati中选择
+签名visualizzaElencoLaboratori（）公共访问
+说明查看已注册实验室的列表
+in the S I O
+签名gestione Anagrafica（）公共访问
+它描述了所有信息的检索
+necessary for the organization of the mask
+implemented by GUIAnagraficaLaboratorio
+

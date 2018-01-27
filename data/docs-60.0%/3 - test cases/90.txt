@@ -1,0 +1,18 @@
+Test case reservation a visit Date:
+在20/06/2003之前的C40控制
+A Day Hospital
+版：
+0 02 000
+使用案例满足预约的要求
+UcPreVis service by Outpatient a
+patient
+高优先级
+设置最后一个预定是`：
+03/10/2003营业时间08 00日间医院
+Description test
+Input type selected visit: Visit
+check
+Oracle系统支持保留
+访问
+课程覆盖有效：ce3 CE7
+类无效：无

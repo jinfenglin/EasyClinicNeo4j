@@ -1,0 +1,38 @@
+删除访问
+它允许操作员删除一个
+访问先前记录
+运营商有意删除一个
+Visit previously recorded
+The Operator has been recognized by `
+系统（请参阅UcValOp）和访问
+is registered in the S I O
+The data in the S I O
+不被修改
+成功：文件夹诊所病人
+这是提交访问
+淘汰更新
+操作员激活执行
+service elimination of a visit
+1查看列表
+visits in
+按时间顺序排列
+2选择访问
+删除
+3确认选择
+4查看蒙版
+供观看
+of visit
+5确认删除
+6删除访问和
+与之相关的考试
+Notify the operator 7
+该操作是`
+成功结束
+操作员取消操作
+评论
+3 1结束失败的用例
+5 1
+4 1面具将包含访问数据
+选择以允许操作员
+在继续之前详细验证它们
+删除

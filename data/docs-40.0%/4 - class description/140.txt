@@ -1,0 +1,38 @@
+GUIVisita类日期：
+16/09/2003
+Version:
+0 01 000
+描述使掩码用于管理
+内的访问
+of the outpatient
+Attributes
+名称访问说明
+Private btnDelete button that allows you to start
+procedure for delete of a
+访问
+Private btnEdit button that allows you to start
+procedure for changing a visit
+私人btn新按钮，可以让你开始
+procedure for input a new
+访问
+私人btnSave按钮，允许您启动
+保存访问的过程
+just changed or added
+私人btnUndo按钮，允许您取消
+The last operation performed
+Methods
+签名notificaSuccesso（）公共访问
+Description Its task is to notify the success
+of
+Signature visualizzaElencoVisite () Public Access
+Description Its task is to see the list of
+visits
+签名考试（）公共访问
+Description Its task is to manage the event generated
+当操作员选择访问时
+从列表中并需要访问该部分
+这显示了这样的考试
+visit
+Signature visit () Public Access
+Description Its task is to find the information
+necessary for the realization of GUIVisita

@@ -1,0 +1,19 @@
+Login failed validation patient Scenario
+这项服务是在明确要求之后发起的
+由患者演员患者访问屏幕
+对系统的管理（例如
+GUISfondo) Control then goes to the instance of
+GUISfondoHandler委托给GUILoginHandler的实例
+管理服务的任务是采取的第一步
+is to enter the Hospital Patient Card and PIN and then
+病人被提交到同一页面进行收购
+这些数据（例如GUILogin）纳税患者数据
+并确认包含，控制再次通过
+到GUILoginHandler贬损验证的实例
+HospitalCardManager到后者的实例交易
+validate the data iserted by the patient through the panel
+通知医院卡不成功操作
+向后是GUILoginHandler的实例
+在上显示错误消息
+访问形式（例如GUILogin）此功能是`
+已经由图3的序列图描述

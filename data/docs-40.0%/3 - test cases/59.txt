@@ -1,0 +1,16 @@
+Validation test case Patient Data:
+C09卡医院不是20/06/2003
+声音（更少
+figures)
+Version:
+0 02 000
+Use Case He performs the functions
+UcValPaz necessary to authenticate an
+患者
+高优先级
+Set up not identified
+描述测试
+Hospital Input Card: 0000
+Oracle Input Invalid
+课程覆盖有效：无
+Classes invalid: ce3

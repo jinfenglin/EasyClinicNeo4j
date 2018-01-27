@@ -1,0 +1,19 @@
+GUIPianiPrenotazioni类日期：16/09/2003
+版本：0 01 000
+说明它的任务是显示掩码
+对计划的管理
+Reservations made in outpatient
+Attributes
+名称访问说明
+Private btnUscita button that allows you to return
+the mask represented by
+GUIPrincipale
+Private panelParametri panel containing all the parameters
+necessary to set criteria
+制定保留计划
+方法
+Signature pianiPrenotazioni () Public Access
+It description to find all the information
+necessary for the generation of plan
+符合标准的预订
+规定

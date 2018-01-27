@@ -1,0 +1,15 @@
+Class TipoVisita Date: 20/09/03
+版：
+0 01 000
+说明包含不同类型的说明
+visit that may be made in
+outpatient
+Attributes
+Name Access Description
+Private code code type of visit
+(PV DH C)
+私人描述的类型的描述
+visit
+Methods
+Signature Access
+Description

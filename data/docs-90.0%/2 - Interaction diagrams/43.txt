@@ -1,0 +1,60 @@
+在稍后的日期访问时滑倒
+该服务是在明确要求后发起的
+由演员操作员登录形成
+病人（例如GUIPaziente）和那里的部分
+check the function of change reservation Control
+然后是代表GUIPazienteHandler的实例
+GUIPrenotaVisitaHandler来管理任务的实例
+服务
+
+上传预订
+
+对GUIPrenotaVisitaHandler实例的请求
+GUISelezionaPrenotazioniHandler是获得一份清单
+患者通过该对象进行的所有预留
+监测哪个Prenotazioni经理的应用
+通过保留实例应该发现
+that list and return to the instance of
+GUISelezionaPrenotazioniHandler反过来应
+可视化在掩码上获得的数据（应用程序
+GUISelezionaPrenotazioni）
+
+Selecting the reservation to be change
+
+运营商从列表预订中进行选择
+编辑和控制是向后传递的
+GUIPrenotaVisitaHandler作为委员会的实例作为面板
+Prenotazioni经理转移所有的任务
+关于所选保留的信息请求
+Prenotazioni管理器通过应用保留执行
+这个任务，并返回到获得的数据实例
+GUIPrenotaVisita反过来应该给
+在管理屏幕上显示
+reservations (for instance GUIPrenotaVisita)
+
+申请新的日期
+
+操作员需要一个新的日期，当访问可以“
+保持和控制传递给的实例
+GUIPrenotaVisitaHandler which obtained the next day
+由适当的机构提供，以确保Prenotazioni经理
+在屏幕上查看它
+保留管理（例如GUIPrenotaVisita）
+经营者确认了系统和控制建议的日期
+返回到GUIPrenotaVisitaHandler的实例
+
+节省预订
+
+此时应用类GUIPrenotaVisitaHandler
+通过委托进行预约
+任务到这个PrenotazioniManager的实例
+通过申请预约应开始
+验证预订并且仅在如此救援时
+关于预订的数据一旦这样
+操作控制返回到
+GUIPrenotaVisitaHandler得到它的实例
+用消息报告成功
+掩盖管理保留（例如
+GUIPrenotaVisita）
+This feature is was described by the collaboration
+图3的图

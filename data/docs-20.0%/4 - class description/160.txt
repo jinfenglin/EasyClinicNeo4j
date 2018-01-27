@@ -1,0 +1,15 @@
+Class TipoVisita Date: 20/09/03
+Version:
+0 01 000
+Description contains a description of the different types of
+访问，可能是在做
+outpatient
+Attributes
+Name Access Description
+Private code code type of visit
+（记者DH C）
+Private description description of the type of
+visit
+Methods
+签名访问
+Description

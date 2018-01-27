@@ -1,0 +1,15 @@
+Class GUIResocontoVisite日期：16/09/2003
+版：
+0 01 000
+Description Make the mask on the management of
+门诊需要访问报告
+Attributes
+名称访问说明
+Private panelParametri panel containing the parameters
+设置标准是必要的
+creation of report of visits
+Methods
+签名resocontoVisite（）公共访问
+It description to find all the information
+necessary to generate the report in
+compliance with the criteria specified

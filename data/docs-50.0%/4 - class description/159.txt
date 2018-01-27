@@ -1,0 +1,29 @@
+Class Booking Date:
+15/09/2003
+Version:
+0 01 000
+它包含描述预订的数据
+performed in outpatient
+Attributes
+名称访问说明
+dataRichiesta Private Data that has been carried out `
+预订
+dataVisita私人参观日期将会发生
+Private Grounds reason for which it was
+请求
+私人时间现在，访问将发生
+方法
+Signature create () Public Access
+Description Its task is to create a new object of type
+保留
+Signature delete () Public Access
+提供保留的描述
+签名保存（）公共访问
+Description Provides the storing of a reservation
+在S I O中
+Signature GetAttributes () Public Access
+它描述了所有的检索
+information relating to a reservation
+Signature setAttributes () Public Access
+它描述了设置a的属性
+预订

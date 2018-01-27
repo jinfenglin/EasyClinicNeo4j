@@ -1,0 +1,15 @@
+Class GUISelezionaPrenotazione Date: 16/09/2003
+Version: 0 01 000
+Make description to permit the mask
+the operator to select a particular
+Reservations
+Attributes
+Name Access Description
+Private btnSelezionaPrenota button that allows you to confirm
+options the selection of the reservation
+made in
+Methods
+签名选择预订（）公共访问
+它描述了所有信息的检索
+实现的必要条件
+GUISelezionaPrenotazioni

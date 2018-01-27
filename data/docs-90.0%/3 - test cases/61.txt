@@ -1,0 +1,18 @@
+验证测试用例患者数据：
+C11卡医院截至20/06/2003
+但没有妥善保存
+在S I O中
+版：
+0 02 000
+Use Case He performs the functions
+UcValPaz验证一个
+患者
+高优先级
+医院不应该设置99,999张卡
+recorded in S I O
+描述测试
+医院输入卡：99,999
+Oracle系统不允许访问
+关于患者的部分
+课程覆盖有效：CE1
+课程无效：CE5

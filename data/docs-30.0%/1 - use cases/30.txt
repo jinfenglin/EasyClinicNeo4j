@@ -1,0 +1,39 @@
+Plans reservations
+It allows the operator to view and / or
+print in tabular form plans
+为每种类型预订
+访问
+The Operator's interest to see
+and / or print the plans of reservations
+made
+The Operator has been recognized by `
+系统（请参阅UcValOp）
+The operator activates the execution of
+service to view and / or print
+计划预订
+1查看蒙版
+To view and
+print plans
+预订
+2选择类型
+visit
+3 Enable
+4 Access to the database and
+在...中找到
+training required
+5查看
+information obtained
+Operator decides to print
+information
+5 1 Start printing information
+displayed
+5 2生成报告并将其发送到
+Printer
+Operator cancels the operation
+3 1 ends the use case with failure
+2 1 The types of access that the operator can "select
+are: First Visit Day and Hospital Visit
+Check
+5 1 for each reservation in this plan
+Reservations is the name and
+患者姓名

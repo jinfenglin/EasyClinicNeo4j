@@ -1,0 +1,32 @@
+输入测试用例数据日期：
+C17 details of a patient 20/06/2003
+not recorded in S I O
+（税码和正确
+没有记录在S I O）
+数据不包括在内
+none except the name
+Version:
+0 02 000
+Use Case He performs the functions
+UcInsPaz需要输入anagrafica的
+一个新病人
+Media Priorities
+设置税码不应该是ZCCRCC80D13G942U
+be registered in S I O
+Description test
+输入税：ZCCRCC80D13G942U
+Name:
+姓：Rocco
+Sex: M
+Birth date: 13/04/1980
+Place of birth: Power
+Province of birth: PCS
+地址：fraz Paoladoce 26
+住所：Avigliano
+Province of residence: PCS
+邮政编码：85020
+Contact information: 0971/87267 347/9908973
+Oracle Invalid Input: Name
+Classes cover valid: ce3 CE5 CE8 CE10 CE12
+CE14 CE16 CE18 CE20 CE23 CE24 CE28
+Classes invalid: CE2

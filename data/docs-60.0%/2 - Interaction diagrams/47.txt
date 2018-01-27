@@ -1,0 +1,17 @@
+Show anagrafica
+The service was launched following the express request
+由患者演员患者访问面罩
+main (for instance GUIPrincipale) on the management of
+all services provided by the system to the request of patients
+并选择他们的anagrafica的显示
+主控制然后转到实例
+GUIPrincipaleHandler代表的实例
+GUIAnagraficaHandler在此管理服务的任务
+点控制传递给PazienteManager的实例
+which deals with finding by the panel of the Patient
+患者资料申请者结果是
+向后推到GUIAnagraficaHandler的实例
+turn is responsible for their display on the screen
+on the management of registries of patients (for instance
+GUIAnagrafica）这个功能被描述了
+图3的协作图9

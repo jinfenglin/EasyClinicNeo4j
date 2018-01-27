@@ -1,0 +1,19 @@
+GUIAnagrafica类日期：18/09/2003
+版：
+0 01 000
+说明使用掩码来显示
+详细的anagrafica数据
+Patient
+属性
+名称访问说明
+用于返回的私人btnRitorna按钮
+面膜GUIPrincipale
+包含所有数据的专用panelDati面板
+aagrafica在病人身上
+方法
+Signature visualizzaAnagrafica（）公共访问
+说明管理查看anagrafica数据
+大师患者
+签名getAnagrafica（）公共访问
+它得到了anagrafica患者数据的描述
+登录

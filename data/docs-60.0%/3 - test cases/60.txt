@@ -1,0 +1,16 @@
+验证测试用例患者数据：
+C10卡医院不是20/06/2003
+适当（更高
+figures)
+版：
+0 02 000
+Use Case He performs the functions
+UcValPaz necessary to authenticate an
+患者
+High Priority
+设置不确定
+描述测试
+Hospital Input Card: 000,000
+Oracle输入无效
+Classes cover valid: None
+类无效：CE4

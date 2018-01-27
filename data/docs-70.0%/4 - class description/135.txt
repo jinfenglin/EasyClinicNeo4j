@@ -1,0 +1,15 @@
+GUISelezionaPrenotazione类日期：16/09/2003
+版本：0 01 000
+Make description to permit the mask
+the operator to select a particular
+预订
+属性
+名称访问说明
+私人btnSelezionaPrenota按钮，让您确认
+选择保留的选择
+made in
+Methods
+签名选择预订（）公共访问
+It description of the retrieval of all information
+实现的必要条件
+GUISelezionaPrenotazioni

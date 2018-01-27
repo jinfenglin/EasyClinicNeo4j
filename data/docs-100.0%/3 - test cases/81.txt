@@ -1,0 +1,17 @@
+测试用例预约a第一次日期：
+C31从20/06/2003访问
+新病人
+的门诊病人
+版：
+0 02 000
+Use Case Meets the request for a reservation
+UcPreVis服务由Outpatient a
+患者
+高优先级
+设置没有保留
+描述测试
+输入类型选择访问：首次访问
+Oracle系统支持保留
+访问
+课程覆盖有效：CE1 CE5
+类无效：无

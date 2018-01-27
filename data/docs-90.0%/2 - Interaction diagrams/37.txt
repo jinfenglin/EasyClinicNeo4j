@@ -1,0 +1,30 @@
+输入检查
+The service was launched following the express request
+由演员操作员登录形成
+关于访问的管理（例如GUIVisita）
+从访问中选择添加评估和
+activates the function of inserting a new examination Control
+然后到代表的GUIVisitaHandler的实例
+GUIEsameHandler提供服务任务的实例
+第一步是找到有关信息
+访问操作员选择的控制通行证
+通过应用程序的VisiteManager的应用程序
+访问访问的检索信息
+选择并将控制权传递给该EsamiManager的实例
+通过检查机构发现了一份包含该清单的清单
+有关考试访问的信息列表是
+GUIVisitaHandler返回到接收实例
+控制并确保访问的显示
+考试管理面具考试
+（GUIEsami的例子）
+操作员插入数据进一步检查和确认
+在这一点上包含控制开关
+GUIEsamiHandler to the instance of the delegation which is to
+进入申请信Esame Manager的新考试
+通过申请审查，以确保包容和
+保存数据以便进一步检查并通过控制
+到GUIEsameHandler进行处理的实例
+通过查看通知成功
+在管理面具上的特殊消息
+examinations (for instance GUIEsame) This feature is was
+由图3的协作图22描述

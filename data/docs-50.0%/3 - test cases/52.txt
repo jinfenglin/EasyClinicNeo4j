@@ -1,0 +1,18 @@
+按日期登录运算符测试用例：
+C02 login incorrect (number 20/06/2003
+更少的字符）和
+passwords stored on the
+并与O.
+版：
+0 02 000
+用例他执行这些功能
+UcValOpe necessary to authenticate an
+操作者
+高优先级
+Set up Virago The password is `recorded in the SIO
+Description test
+输入登录名：roc
+Password: Virago
+Oracle Invalid Input: login
+课程覆盖有效：CE7
+Classes invalid: ce3

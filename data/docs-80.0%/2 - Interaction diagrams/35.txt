@@ -1,0 +1,34 @@
+删除注册表
+The service was launched following the express request
+由演员操作员登录形成
+主（例如G​​UIPrincipale）并在那里选择功能
+anagrafica医生管理控制
+GUIPrincipaleHandler给代表哪个应用程序的实例
+GUIAnagraficaMedicoHandler to the task of managing the service
+第一步是获得所有医生的名单
+therefore control passes to the instance of the MedicoManager
+医生通过哪些实例检索列表和
+向后返回到实例
+GUIAnagraficaMedicoHandler现在该对象应该
+显示获得的医生名单
+掩盖了医生注册的管理
+（GUIAnagraficaMedico的实例）操作员选择
+从你的医生被淘汰和主动功能
+处理其监测和医疗数据
+GUIAnagraficaMedicoHandler传递给委派的实例
+查找选定医疗数据的任务
+面板的MedicoManager应用程序
+医生提供的恢复此类数据将提供应用程序
+GUIAnagraficaMedicoHandler of which in turn takes care of them
+GUIAnagraficaMedico面具在这一点上展示
+操作员确认所做的更改和控制通行证
+GUIAnagraficaMedicoHandler的代表团
+消除医生入选的实例
+通过医生申请的医疗经理信
+提供并传递控制权的实例
+GUIAnagraficaMedicoHandler反过来处理
+notify success by viewing
+a special message on the screen on the management
+医生登记册（例如GUIAnagraficaMedico）这
+feature is was described by the collaboration diagram
+图3的6

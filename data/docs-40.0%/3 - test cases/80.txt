@@ -1,0 +1,32 @@
+输入测试用例数据日期：
+C30 details of a patient 20/06/2003
+already registered within
+包括S I O数据
+不是零
+Version:
+0 02 000
+Use Case He performs the functions
+UcInsPaz necessary for input of anagrafica of
+a new patient
+Media Priorities
+Set up the tax code must RGANLL80C14H703E
+be registered in S I O
+Description test
+输入税：RGANLL80C14H703E
+名字：Aniello
+姓：拉戈
+Sex: M
+Birth date: 14/03/1980
+Place of birth: Salerno
+出生地：SA
+Address: Via Francesco De Sanctis 18
+Place of residence: Antessano
+Province of residence: SA
+ZIP code: 84021
+Contact information: 089/951257339/3166793
+Oracle: Patient already registered the system
+允许数据存储
+细节
+课程覆盖有效：CE1 CE3 CE5 CE8 CE10
+: CE12 CE14 CE16 CE18 CE20 CE28
+课程无效：CE27

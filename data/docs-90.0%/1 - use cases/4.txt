@@ -1,0 +1,48 @@
+插入anagrafica医生
+它允许操作员输入
+工作的医生的anagrafica
+在门诊
+运营商有责任
+医生anagrafica的输入
+在S I O中
+运营商已被``认可
+系统（请参阅UcValOp）并具有
+表征所有数据
+医生anagrafica
+S I O中的数据
+不被修改
+成功：医生anagrafica是
+正确插入
+并与O.
+操作员激活执行
+输入服务的
+注册表医生
+1查看蒙版
+for input of
+需要的信息
+2插入医生anagrafica的数据
+3确认输入
+4验证操作员插入的数据
+5存储数据
+6通知该操作
+完成了
+成功
+Data entered invalid
+4 1显示一条消息显示
+数据被认为无效
+4 2 take back running from point 1
+用数据支持表单的字段
+由操作员插入
+操作员取消操作
+3 1 ends the execution of use case with
+失败
+2 1医师的年龄是“特征在于”
+以下数据：姓氏性别代码
+出生地点的出生日期
+地址的出生地
+居住地址省邮政编码
+电话专业化的一年
+认证和附加说明
+NB: In italics are highlighted data
+可选的包含不影响
+正确完成操作

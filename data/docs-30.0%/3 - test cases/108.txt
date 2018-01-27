@@ -1,0 +1,17 @@
+Login test case by Patient Data:
+C58 Card Hospital incorrect 20/06/2003
+(fewer digits)
+and PIN recorded in S I O
+Version:
+0 02 000
+Use Case He performs the functions
+UcLogPaz验证一个
+患者
+High Priority
+Set up 65,323 The PIN is recorded in the `S I O
+Description test
+医院输入卡：0000
+PIN: 65,323
+Oracle无效输入：医院卡
+课程覆盖有效：CE7
+Classes invalid: ce3

@@ -1,0 +1,19 @@
+Class GUIAnagrafica Date: 18/09/2003
+Version:
+0 01 000
+Description Make the mask used to show
+detail the anagrafica data of
+患者
+属性
+名称访问说明
+Private btnRitorna button used to return to
+mask GUIPrincipale
+Private panelDati panel containing all the data
+aagrafica在病人身上
+方法
+Signature visualizzaAnagrafica () Public Access
+Description Manages viewing anagrafica data
+Master Patient
+签名getAnagrafica（）公共访问
+它得到了anagrafica患者数据的描述
+log on

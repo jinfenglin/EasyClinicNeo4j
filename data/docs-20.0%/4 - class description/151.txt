@@ -1,0 +1,25 @@
+Class Person Date:
+15/09/2003
+Version:
+0 01 000
+描述抽象类用于定义
+Operator classes and Doctor Patient
+Attributes
+Name Access Description
+CAP Private Postal Code
+codiceFiscale Private Company ID of the person
+私人名字人的姓
+dataNascita Private Date of birth of the person
+Private Address address of the person
+luogo nascita私人出生地的人
+luogoResidenza私人住所的人
+Private Name name of the person
+Private notes Additional Notes
+Private provinciaNascita Province of birth of the person
+provinciaResiden private residence of the Province
+person
+Private details of the person Addresses
+Private sex sex of the person
+Methods
+Signature Access
+描述

@@ -1,0 +1,20 @@
+Login test case by Patient Data:
+C63 Card Hospital but correct 20/06/2003
+not stored on the S I O and
+PIN记录在S I O中
+版：
+0 02 000
+Use Case He performs the functions
+UcLogPaz验证一个
+patient
+High Priority
+医院成立00,034卡未在`注册
+I S O
+PIN是在SIO中记录的65,323
+Description test
+医院输入卡：00,034
+pin: 65,323
+The Oracle system does not allow access to
+患者
+课程覆盖有效：CE1 CE7
+课程无效：CE5

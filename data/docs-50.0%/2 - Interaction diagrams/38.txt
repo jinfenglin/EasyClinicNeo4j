@@ -1,0 +1,18 @@
+Access section patient performed (by code
+tax)
+The service was launched following the express request
+by the actor The Operator logs on to form
+在患者的管理部分（身体
+GUILoginPaziente）插入Patient的税码
+has made a request and select the function
+The validation then passes control to the instance of
+代表实例的GUILoginPazienteHandler
+PazienteManager负责管理服务的增长
+处理验证通过使用输入的数据
+The body of the patient outcome is the
+notified backward up to the instance of GUILoginPazienteHandler
+这需要使用GUIPazienteHandler来启用
+由科病人访问
+申请人和该对象应显示
+main form (for instance GUIPaziente) This feature is `
+已经由图3的序列图13描述

@@ -1,0 +1,45 @@
+Cancel Reservation
+It allows the operator to meet
+要求取消一项
+renting an outpatient service
+by a patient
+The Operator's interest to cancel
+reservation an outpatient ambulatorial service
+先前由患者请求
+运营商已被``认可
+系统（请参阅UcValOp）患者是`
+被系统认可（见
+UcValPaz) and the reservation of which
+要求取消是`这个
+在S I O中
+The data in the S I O
+not be modified
+成功：保留是
+definitively annulled
+The operator activates the execution of
+服务取消了
+Reservations
+1查看列表
+Reservations for the
+Patient
+2 Select the reservation
+正在改变
+3 Confirm cancellation
+4 Verify that the sequence
+Reservations are
+valid
+(See BrValSeq)
+5 Cancel Reservation
+6 Notify the operator
+该操作是`
+concluded successfully
+序列保留无效
+4 1显示适当的信息
+4 2 Reinserts running from 1 step
+Operator cancels the operation
+评论
+3 1结束失败的用例
+4 1保留的顺序必须是ricontrollat​​a
+because the patient may take
+取消预约以外的预约
+last

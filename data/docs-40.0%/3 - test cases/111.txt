@@ -1,0 +1,19 @@
+Login test case by Patient Data:
+C61 Card Hospital recorded 20/06/2003
+在S I O和PIN中
+适当（更高
+人物）
+Version:
+0 02 000
+用例他执行这些功能
+UcLogPaz necessary to authenticate an
+patient
+High Priority
+The Hospital set up 00,001 Card is `recorded in
+I S O
+描述测试
+Hospital Input Card: 00,001
+PIN: 65323555
+Oracle Invalid Input: PIN
+Classes cover valid: CE2
+课程无效：CE9

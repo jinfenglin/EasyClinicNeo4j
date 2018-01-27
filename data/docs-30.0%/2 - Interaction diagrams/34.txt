@@ -1,0 +1,36 @@
+Changing anagrafica laboratory
+The service was launched following the express request
+by the actor The Operator logs on to form
+主（例如G​​UIPrincipale）并在那里选择功能
+The laboratories certified management control then
+GUIPrincipaleHandler to the instance of the delegation which application
+GUIAnagraficaLaboratorioHandler to the task of providing the
+服务的第一步是获取所有的列表
+因此，实验室控制传递给实例
+LaboratorioManager through which instances of Laboratory
+检索列表并将其返回给应用程序
+of GUIAnagraficaLaboratorioHandler Now that object
+应显示收到的实验室名单
+the mask on the management of database
+实验室（例如GUIAnagraficaLaboratorio）运营商
+Select from the laboratory to change the active
+Review the register function of the laboratory and
+control passes to the instance of the GUIAnagraficaLaboratorioHandler
+which delegates the task to collect data on the
+laboratory selected to the instance of LaboratorioManager
+The latter by the Laboratory of application shall
+recovery of supplying such data to the instance of
+GUIAnagraficaLaboratorioHandler which in turn is responsible for
+Their view on the mask GUIAnagraficaLaboratorio
+此时，操作员确认所做的更改
+control passes to the instance of GUIAnagraficaLaboratorioHandler
+The delegation which is to store the data in the laboratory
+考虑通过实验室经理的申请
+The body of laboratory provides data to the rescue
+altered passes control to the instance of
+GUIAnagraficaLaboratorioHandler which in turn deals with
+通过查看通知成功
+a special message on the screen on the management
+the register of laboratories (for instance
+GUIAnagraficaLaboratorio）此功能已被描述`
+through collaboration diagram of Fig 3 5

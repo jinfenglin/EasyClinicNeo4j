@@ -1,0 +1,16 @@
+Class GUIResocontoPrenotazioni Date: 16/09/2003
+版本：0 01 000
+Description Make the mask on the management of
+在保留报告
+门诊病人
+属性
+Name Access Description
+包含所有参数的专用panelParametri面板
+设置标准是必要的
+创建报告
+预订
+Methods
+签名reportBooking（）公共访问
+它描述了所有的信息
+necessary to generate the report in
+符合规定的标准

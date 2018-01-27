@@ -1,0 +1,30 @@
+Cancel Reservation
+
+该服务是在明确要求后发起的
+由演员操作员登录形成
+在主要部分患者（例如GUIPaziente）上
+并选择取消预订
+The control then goes to the instance of the GUIPazienteHandler
+其中代表GUIEliminaPrenotazioniHandler的实例
+管理服务的任务请求
+GUIEliminaPrenotazioneHandler delegation application
+Prenotazioni经理是获得所有的列表
+Reservations from Patient This object through the
+请求保留以确保检索清单和
+return to the instance of that GUIEliminaPrenotazioneHandler
+转动提供获得的观看数据
+在面具（例如GUIEliminaPrenotazione）
+The operator selects from the list by the reservation
+delete and control is passed to the instance of
+GUIEliminaPrenotazioneHandler which the request for delegation
+PrenotazioniManager of completing the transaction The application
+Prenotazioni经理通过申请预约应
+以验证序列即使在之后也是有效的
+消除保留
+Only if so the elimination of reservation
+is completed and will return control
+GUIEliminaPrenotazioneHandler的实例
+用消息通知交易成功
+on the screen (for instance GUIEliminaPrenotazione) This
+功能是由协作图来描述的
+图3的20

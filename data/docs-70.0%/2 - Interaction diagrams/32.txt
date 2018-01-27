@@ -1,0 +1,14 @@
+登录验证操作员方案失败
+这项服务是在明确要求之后发起的
+by the actor Operator The access to the screen
+on the management of the system (for instance
+GUILogin）输入登录名和密码并检查功能
+验证然后将控制传递给实例
+GUILoginHandler which delegates to the instance of OperatoreManager
+管理后者处理的任务
+validate the data entered by using the panel
+通知负面结果的操作员
+向后是GUILoginHandler的实例
+在上显示错误消息
+面罩GUILogin此功能被描述
+sequence diagram of Fig 3 3

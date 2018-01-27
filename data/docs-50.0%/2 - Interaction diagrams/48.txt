@@ -1,0 +1,18 @@
+View list reservations
+这项服务是在明确要求之后发起的
+由患者演员患者访问面罩
+main (for instance GUIPrincipale) on the management of
+系统提供的所有服务都符合患者的要求
+and there select the display of reservation
+The control made then to the instance of
+GUIPrincipaleHandler代表的实例
+GUIPrenotazioniHandler the task of managing the service at this
+Point control is passed to the instance of
+PrenotazioniManager which deals with finding through
+所有预订的预订请求
+请求结果的患者发送反向链接
+to the instance of GUIPrenotazioniHandler which in turn deals
+their display on the screen on the management
+患者的预约（例如GUIPrenotazioni）这
+功能是由协作图来描述的
+图3的10

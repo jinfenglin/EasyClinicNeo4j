@@ -1,0 +1,60 @@
+Slipping on a visit to a later date
+The service was launched following the express request
+by the actor The Operator logs on to form
+section on the patient (for instance GUIPaziente) and there
+check the function of change reservation Control
+then to the instance of GUIPazienteHandler which delegates
+GUIPrenotaVisitaHandler to the instance of the task of managing the
+service
+
+Uploading reservations
+
+The request for the matter to the instance of GUIPrenotaVisitaHandler
+GUISelezionaPrenotazioniHandler is to obtain a list of
+all reservations made by the patient This object passes
+monitoring the application of which PrenotazioniManager
+through instances of reservation shall finding
+该列表并返回到的实例
+GUISelezionaPrenotazioniHandler which in turn shall
+visualization of data obtained on the mask (application
+of GUISelezionaPrenotazioni)
+
+Selecting the reservation to be change
+
+The operator selects from the list reservation
+to edit and control is passed backward up
+GUIPrenotaVisitaHandler to the instance of the delegation as the panel
+PrenotazioniManager to the task of transferring all
+information on the reservation selected The request for
+PrenotazioniManager through the application of Reservation perform
+this task, and returns to the instance of data obtained
+GUIPrenotaVisita which in turn shall give
+在管理屏幕上显示
+保留（例如GUIPrenotaVisita）
+
+申请新的日期
+
+The operator requires a new date when the visit can "
+keep and control passes to the instance of
+GUIPrenotaVisitaHandler which obtained the next day
+available by the appropriate body to ensure PrenotazioniManager
+在屏幕上查看它
+保留管理（例如GUIPrenotaVisita）
+经营者确认了系统和控制建议的日期
+is returned to the instance of GUIPrenotaVisitaHandler
+
+Saving Reservation
+
+The application of class GUIPrenotaVisitaHandler at this point
+proceeds for the reservation by delegating this
+task to the instance of this PrenotazioniManager
+through the application for reservation shall begin to
+验证预订并且仅在如此救援时
+关于预订的数据一旦这样
+操作控制返回到
+GUIPrenotaVisitaHandler get to the instance of which shall
+to report success with a message
+mask on the management of reservations (for instance
+GUIPrenotaVisita)
+This feature is was described by the collaboration
+图3的图

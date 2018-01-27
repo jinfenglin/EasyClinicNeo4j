@@ -1,0 +1,17 @@
+Test case reservation a Day Date:
+C37医院在20/06/2003之前
+其他日间医院
+Version:
+0 02 000
+Use Case Meets the request for a reservation
+UcPreVis服务由Outpatient a
+patient
+高优先级
+设置最后一个预定是`：
+03/10/2003 hours 08 00 Day Hospital
+Description test
+Input type selected visit: Day Hospital
+Oracle序列无效系统
+允许预约访问
+Classes cover valid: CE2 CE7
+类无效：无

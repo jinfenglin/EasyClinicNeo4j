@@ -1,0 +1,26 @@
+GUIAnagrafica类日期：16/09/2003
+Version:
+0 01 000
+描述抽象类用于定义
+GUIAnagraficaLaboratorio类和
+GUIAnagraficaMadico
+属性
+名称访问说明
+Private btnElimina button that allows you to start
+删除程序
+实验室的anagrafica
+医生
+私人btnModifica按钮，允许您启动
+更改anagrafica的程序
+一个实验室或医生
+私人btnNovo按钮，允许您启动
+输入程序a
+实验室或医生
+包含所有数据的专用panelDati面板
+关于他们的年龄
+examination
+方法
+签名notificaSuccesso（）公共访问
+说明显示一条消息以通知
+开展的手术取得成功
+由操作员

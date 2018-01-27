@@ -1,0 +1,38 @@
+Delete visit
+它允许操作员删除一个
+访问先前记录
+运营商有意删除一个
+Visit previously recorded
+运营商已被``认可
+系统（请参阅UcValOp）和访问
+is registered in the S I O
+S I O中的数据
+不被修改
+成功：文件夹诊所病人
+这是提交访问
+淘汰更新
+The operator activates the execution of
+service elimination of a visit
+1 View the list of
+访问
+chronological order
+2 Select the visit to
+删除
+3确认选择
+4 View the mask
+for viewing
+of visit
+5确认删除
+6 Delete the visit and
+examinations related to it
+通知操作员7
+that the operation was `
+成功结束
+操作员取消操作
+评论
+3 1结束失败的用例
+5 1
+4 1 The mask will contain data on the visit
+selected so as to allow the operator
+在继续之前详细验证它们
+删除

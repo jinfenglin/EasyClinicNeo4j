@@ -1,0 +1,27 @@
+上课考试日期：14/09/2003
+版：
+0 01 000
+Description contains data of a survey that is was
+规定在访问中举行
+outpatient
+属性
+Name Access Description
+Private Data on where the patient has
+进行了检查
+由医疗诊断进行的私人诊断
+Individual results results
+Methods
+签名创建（）公共访问
+说明它的任务是创建一个新类型的对象
+Discussed
+Signature delete () Public Access
+Description Provides the elimination of an examination
+Signature save () Public Access
+Description Provides storage of data from an
+在S I O内部进行考试
+Methods
+Signature GetAttributes () Public Access
+它描述了所有的信息
+on examination
+Signature setAttributes () Public Access
+It description of the attributes set by examination

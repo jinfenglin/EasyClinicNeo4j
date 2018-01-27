@@ -1,0 +1,36 @@
+Report examinations
+It allows the operator to have a
+report on tests carried out in
+reference to visits made in
+outpatient
+The Operator's interest to have a
+进行测试报告
+The Operator has been recognized by `
+System (See UcValOp)
+The operator activates the execution of
+reporting service examinations
+1 View the mask
+for viewing
+报告
+考试
+2 Select the
+storm
+3 Confirm your selection
+4 Access to the database and
+found in the
+training required
+5 View
+information obtained
+Operator decides to print
+information
+5 1 Start printing information
+显示
+5 2 generates the report and sends it to
+Printer
+Operator cancels the operation
+3 1 ends the use case with failure
+2 1系统显示考试列表
+表明日期规定的处方
+完成日期患者医疗
+prescriber diagnosis and laboratory where
+The examination was carried out is

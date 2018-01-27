@@ -1,0 +1,35 @@
+GUIE同学日期：16/09/2003
+版：
+0 01 000
+在用于掩码的描述上
+与...有关的考试管理
+特别访问
+Attributes
+名称访问说明
+Private btnDelete button that allows you to start
+删除程序
+检查
+Private btnEdit button that allows you to start
+改变评论的程序
+Private btnNew button that allows you to start
+procedure for input a new
+examination
+Private btnSave button that allows you to start
+程序保存评论
+just changed or added
+Private btnUndo button that allows you to cancel
+最后的操作
+Methods
+Signature notificaSuccesso () Public Access
+Description Its task is to notify the success of
+a change or insertion
+删除一个;一个
+Signature visualizzaDatiEsame () Public Access
+内容提要它的任务是查看细节
+examination
+Signature visualizzaElencoEsami () Public Access
+Description Its task is to see the list of
+考察访问
+签名考试（）公共访问
+内容提要它的任务是找到信息
+necessary for the realization of GUIEsame

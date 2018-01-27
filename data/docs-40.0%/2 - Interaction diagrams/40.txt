@@ -1,0 +1,29 @@
+改变年龄患者
+
+The service was launched following the express request
+由演员操作员登录形成
+病人的主要部分（例如GUIPaziente）和那里
+select the function for amending the register of Patient
+提出请求并通过控制
+GUIPazienteHandler以该代表团的实例为例
+GUIAnagraficaPazienteHandler管理服务的任务A
+现在控制权传递给的实例
+GUIAnagraficaPazienteHandler which delegated the task of
+将申请人的患者数据检索到患者的实例
+PazienteManager latter through the application of patient
+provides for recovery of such data and provides them to the instance of
+GUIAnagraficaPazienteHandler反过来照顾他们
+display on screen GUIAnagraficaPaziente
+At this point, the operator confirms the changes made and
+Control goes back to the instance of
+GUIAnagraficaPazienteHandler which delegated the task of
+存储对数据所做的更改
+Patient concerned the application of this PazienteManager
+by the panel shall rescue Patient Data
+and modified when the store passes the
+control of the application to which GUIAnagraficaPazienteHandler
+turn is responsible to notify the success of
+by displaying a message on
+管理患者的面具
+(instance of GUIAnagraficaPaziente) This feature is was
+described by the collaboration diagram of Fig 3 15

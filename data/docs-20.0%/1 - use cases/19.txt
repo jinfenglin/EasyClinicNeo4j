@@ -1,0 +1,25 @@
+Access section patient
+It allows access to this patient
+by enabling the operator to
+meet one or more Requests received
+by Patient
+The Operator's interest to access the section of
+病人为了
+enslave the requests received from
+Patient
+The Operator has been recognized by `
+System (See UcValOp)
+The system denies access to
+section patient
+成功：运营商获得访问权限
+section and enabled the patient to
+满足从中收到的要求
+Patient
+The operator activates the execution of
+服务访问部分患者
+Includes 1 (valid patient)
+2 View mask of
+section patient
+操作员取消操作
+access to patient session
+3 1 ends the use case with failure

@@ -1,0 +1,21 @@
+Login Operator test case by Date:
+C07登录正确，但不是20/06/2003
+recorded in S I O and
+密码存储在
+并与O.
+版：
+0 02 000
+Use Case He performs the functions
+UcValOpe验证一个
+操作者
+高优先级
+设置登录橄榄树林未在`中注册
+并与O.
+密码是`Virago注册在S I O
+Description test
+输入登录名：橄榄树林
+Password: Virago
+The Oracle system does not allow access to
+患者
+课程覆盖有效：CE1 CE7
+Classes invalid: CE5

@@ -1,0 +1,16 @@
+Class GUIHospitalCard日期：
+16/09/2003
+版：
+0 01 000
+说明制作用于掩码的掩码
+卡的dell'Hospital视图
+Newly recorded patient
+属性
+名称访问说明
+
+Methods
+Signature visualizzaHospitalCard () Public Access
+说明显示数据医院卡
+签名stampaHC（）公共访问
+说明它的任务是找到数据
+viewing data dell'Hospital Card

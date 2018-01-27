@@ -1,0 +1,26 @@
+Class MediciManager Date:
+16/09/2003
+版：
+0 01 000
+说明具有管理操作的任务
+require access to anagrafica data of
+doctors who are at outpatient
+Attributes
+Name Access Description
+
+Methods
+签名delMedico（）公共访问
+Description Its task is to manage the disposal of data
+医生的细节
+Signature editMedico () Public Access
+Description Its task is to manage the change of data
+anagrafica of a doctor
+Signature getElencoMedici () Public Access
+描述的任务是找到anagrafica的数据
+所有的医生
+Signature getMedicoAt () Public Access
+内容提要它的任务是提高a的aagrafica
+医生
+Signature NewMedia () Public Access
+Description Its task is to manage the insertion of a
+新医生

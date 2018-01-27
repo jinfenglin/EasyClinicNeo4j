@@ -1,0 +1,30 @@
+取消预订
+
+The service was launched following the express request
+by the actor The Operator logs on to form
+on the main section patient (for instance GUIPaziente)
+and there select the elimination of a reservation
+然后控制权转到GUIPazienteHandler的实例
+which delegates to the instance of the GUIEliminaPrenotazioniHandler
+task of managing the service The request for
+GUIEliminaPrenotazioneHandler代表团申请
+PrenotazioniManager is to obtain a list of all
+Reservations from Patient This object through the
+Requests for reservations to ensure retrieval of the list and
+return to the instance of that GUIEliminaPrenotazioneHandler
+turn provides viewing data obtained
+在面具（例如GUIEliminaPrenotazione）
+运营商从预订列表中选择
+删除和控制传递给实例
+GUIEliminaPrenotazioneHandler which the request for delegation
+PrenotazioniManager of completing the transaction The application
+PrenotazioniManager through to the application for reservation shall
+to verify that the sequence is valid even after
+the elimination of reservation
+只有这样才能消除保留
+完成并返回控制权
+GUIEliminaPrenotazioneHandler to the instance of which shall
+notify the success of the transaction with a message
+在屏幕上（例如GUIEliminaPrenotazione）这
+feature is was described by the collaboration diagram
+Fig 3 of 20

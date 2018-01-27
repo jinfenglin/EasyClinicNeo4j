@@ -1,0 +1,42 @@
+删除注册表
+It allows the operator to delete
+工作的医生的anagrafica
+at the outpatient
+他为删除数据工作
+of anagrafica related to a doctor
+运营商已被``认可
+系统（请参阅UcValOp）和anagrafica
+“医生在场。”
+并与O.
+医生的细节
+are not modified, remain in
+这个状态在执行之前
+Success: The  doctor anagrafica is
+successfully deleted
+操作员激活执行
+删除注册服务
+Laboratory
+1 View the list of
+实验室
+在S I O中
+2选择哪个医生
+changing the anagrafica
+3 Confirm the selection
+4 View the mask
+删除
+医生anagrafica
+6确认删除
+doctor
+7 Delete the data
+about anagrafica of
+doctor
+Notify 8 that the operation
+它完成了
+成功
+操作员取消操作
+3 1结束了用例的执行
+6 1失败
+4 1面具将包含有关医疗的数据
+选择以允许操作员
+在继续之前详细检查它们
+to delete

@@ -1,0 +1,39 @@
+Plans reservations
+它允许操作员查看和/或
+print in tabular form plans
+为每种类型预订
+访问
+运营商的兴趣看到
+和/或打印预订计划
+made
+运营商已被``认可
+系统（请参阅UcValOp）
+The operator activates the execution of
+service to view and / or print
+Plans reservations
+1 View a mask
+To view and
+打印计划
+预订
+2 Select the type of
+访问
+3启用
+4访问数据库和
+在...中找到
+training required
+5查看
+information obtained
+运营商决定打印
+信息
+5 1 Start printing information
+显示
+5 2生成报告并将其发送到
+打印机
+操作员取消操作
+3 1 ends the use case with failure
+2 1 The types of access that the operator can "select
+是：第一次访问日和医院访问
+Check
+5 1 for each reservation in this plan
+保留是名字和
+患者姓名

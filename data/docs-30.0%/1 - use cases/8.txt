@@ -1,0 +1,59 @@
+Record visit
+It allows the operator to record a
+参观在门诊举行
+The Operator has an interest in a record
+visit held in outpatient
+The Operator has been recognized by `
+System (See UcValOp) and the Operator has
+received the data of for visit
+The Clinic of Folder
+Patient who was subjected to `visit
+is not changed
+Success: All information is
+stored in the folder
+Patient Clinic
+The operator activates the execution of
+registration service of a visit
+1查看蒙版
+to record of the visit
+
+2输入必要的数据
+注册
+visit
+3确认输入
+4验证数据插入
+by operator
+5存储数据
+6 Notify the operator
+that the operation was
+concluded successfully
+Input Data about to a new examination
+6 1插入新的考试
+The Operator's interest to input data
+an examination of the visit concerned
+Inserting examination
+6 2回到6点
+Invalid data set
+4 1 Show an appropriate message
+4 2从1回收跑步
+underpinned the fields of the form with data
+insert by user
+操作员取消操作
+注册
+3 1 ends the use case with failure
+4 1登记所需的资料
+访问的对象是：那个医生名字的那个日期
+carried out the survey the reason for the visit
+illnesses accused by the patient history
+通过医学诊断测试进行
+prescribed therapy prescribed (indicating
+Medicines and time of recruitment) and 'necessary
+Furthermore, the inclusion of possible values
+instrumental observations made during the visit
+(eg heart beat the pressure
+n number of blood found dioptres etc)
+对于生物测试和/或器械是`
+must enter information on the
+实验室，使他们的价值观
+results of each examination and evaluation
+diagnosis made by medical

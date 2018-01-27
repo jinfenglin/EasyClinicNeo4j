@@ -1,0 +1,48 @@
+GUIManagement类日期：16/09/2003
+版本：0 01 000
+说明它的任务是显示掩码
+on the management functions
+监测活动
+门诊
+属性
+名称访问说明
+私人btnPianiPrenotazioni按钮，提供访问权限
+由面具实施
+GUI PIA你P人o塔子哦你
+属性
+私人btnResocontoEsami按钮，提供访问权限
+由面具实施
+GUIResocontoEsami
+私人btnResocontoMedicina按钮，提供访问权限
+将被部署为掩码
+GUIResocontoMedicinali
+私人btnResocontoPrenotaz按钮，提供访问权限
+离子形成由操作员实施
+GUIResocontoPrenotazioni
+私人btnResocontoVisite按钮，提供访问权限
+由面具实施
+GUIResocontoVisite
+私人btnTempiMedi按钮，提供访问权限
+由面具实施
+GUITempiMedi
+方法
+签名resocontoVisite（）公共访问
+说明它的任务是绘制处理程序类
+与通过实施的面具相关联
+GUIResocontoVisite
+签名resocontoEsami（）公共访问
+说明它的任务是绘制处理程序类
+与通过实施的面具相关联
+GUIResocontoEsami
+签名reportBooking（）公共访问
+说明它的任务是绘制处理程序类
+与通过实施的面具相关联
+GUIResocontoPrenotazioni
+签名tempiMedi（）公共访问
+说明它的任务是绘制处理程序类
+与通过实施的面具相关联
+GUITempiMedi
+签名pianiPrenotazioni（）公共访问
+说明它的任务是绘制处理程序类
+与通过实施的面具相关联
+GUI PIA你P人o塔子哦你

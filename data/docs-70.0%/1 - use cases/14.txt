@@ -1,0 +1,63 @@
+预订参观
+它允许操作员见面
+请求预订服务
+由一位非卧床患者制成
+经营者对记录有兴趣
+租用门诊服务
+病人要求
+运营商已被``认可
+System (See UcValOp) The patient is `
+被系统认可（见
+UcValPaz）并已颁发给
+The module R S A properly completed
+The data in the S I O
+not be modified
+成功：门诊服务
+所需要的是正确预订
+操作员激活执行
+服务预订服务
+门诊病人
+1
+First visit
+
+The Operator has
+received a request
+首次访问
+part of a patient
+
+注册表插入
+patient
+2查看蒙版
+预订
+服务
+门诊病人
+3选择访问类型
+病人想要的
+make
+4插入动机的
+Request
+5 Confirm data inserted
+6 Verify that the sequence
+预订是
+valid
+（见BrValSeq）
+包括7（选择日期
+提供）
+8确认您的预订
+9存储数据
+通知操作员10
+该操作是`
+成功结束
+Sequence reservations invalid
+6 1显示适当的信息
+6 2重新插入步骤2中的执行
+Operator cancels the operation
+Reservations
+5 1结束失败的用例
+8 1
+9 1首次访问显示了这一点
+甚至可以保存个人数据
+In addition, the patient always in the case of a
+在访问系统之前
+在医院查看并打印该卡片
+患者

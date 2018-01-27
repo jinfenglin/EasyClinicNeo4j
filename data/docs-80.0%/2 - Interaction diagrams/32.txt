@@ -1,0 +1,14 @@
+登录验证操作员方案失败
+这项服务是在明确要求之后发起的
+由演员操作员访问屏幕
+对系统的管理（例如
+GUILogin）输入登录名和密码并检查功能
+The validation then passes control to the instance of
+GUILoginHandler委托给OperatoreManager的实例
+管理后者处理的任务
+验证使用面板输入的数据
+通知负面结果的操作员
+backward up to the instance of which shall GUILoginHandler
+在上显示错误消息
+mask GUILogin This feature is was described by
+图3的序列图3

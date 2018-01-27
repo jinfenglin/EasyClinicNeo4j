@@ -1,0 +1,17 @@
+测试用例预订一天日期：
+C35 Hospital preceded by a 20/06/2003
+First visit
+版：
+0 02 000
+使用案例满足预约的要求
+UcPreVis service by Outpatient a
+患者
+High Priority
+设置最后一个预定是`：
+26/09/2003 hours 11 00 First visit
+Description test
+Input type selected visit: Day Hospital
+The Oracle system enables the reservation of
+visit
+Classes cover valid: CE2 CE6
+类无效：无

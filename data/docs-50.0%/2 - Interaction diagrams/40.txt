@@ -1,0 +1,29 @@
+Changing age Patient
+
+该服务是在明确要求后发起的
+by the actor The Operator logs on to form
+Patient's main section (for instance GUIPaziente) and there
+select the function for amending the register of Patient
+which made the request and then passes control
+GUIPazienteHandler以该代表团的实例为例
+GUIAnagraficaPazienteHandler管理服务的任务A
+现在控制权传递给的实例
+GUIAnagraficaPazienteHandler which delegated the task of
+将申请人的患者数据检索到患者的实例
+PazienteManager latter through the application of patient
+提供这些数据的恢复并将它们提供给实例
+GUIAnagraficaPazienteHandler which in turn takes care of them
+在屏幕上显示GUIAnagraficaPaziente
+此时，操作员确认所做的更改
+Control goes back to the instance of
+GUIAnagraficaPazienteHandler委托任务
+store the changes made to data from the
+患者关注这个PazienteManager的应用
+小组应通过营救患者数据
+and modified when the store passes the
+control of the application to which GUIAnagraficaPazienteHandler
+轮到负责通知成功
+by displaying a message on
+管理患者的面具
+(instance of GUIAnagraficaPaziente) This feature is was
+described by the collaboration diagram of Fig 3 15

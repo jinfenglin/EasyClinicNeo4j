@@ -1,0 +1,22 @@
+Testing houses delete a Visit Date:
+C46 control following a 20/06/2003
+Day Hospital and rap
+介绍最新的
+reservation
+Version:
+0 02 000
+Use Case Meets the request for delete of
+UcAnnPre a reservation service
+made by an ambulatory patient
+高优先级
+Set up the previous reservation is `:
+29/09/2003 hours 08 00 Day Hospital
+There are no reservations after
+selected
+Description test
+Input Visit selected:
+30/09/2003小时09 00访问控制
+oracle系统删除预留
+selected
+Classes cover valid: ce3 CE8 CE10
+类无效：无

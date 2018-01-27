@@ -1,0 +1,46 @@
+Delete anagrafica laboratory
+它允许操作员删除
+the anagrafica of a laboratory of
+分析
+He works for the elimination of data
+在实验室的anagrafica
+analysis
+该运营商已被认可
+System (See UcValOp) and age
+实验室在“内部”
+I S O
+The anagrafica data of
+laboratory are not changed:
+remain in the state this first
+的执行
+成功：实验室的年龄
+is successfully eliminated
+The operator activates the execution of
+消除的anagrafica
+实验室
+1 View the list of
+实验室
+在S I O中
+2 Select the laboratory
+哪个变化
+the anagrafica
+3确认您的选择
+4 View the mask
+消除
+anagrafica的
+laboratory
+6 confirm the delete of
+实验室
+7删除数据
+关于anagrafica的
+laboratory
+Notify 8 that the operation
+它完成了
+成功
+Operator cancels operation
+3 1结束了用例的执行
+6 1 failure
+4 1掩码将包含数据
+laboratory selected to enable
+操作员在以前详细监控它们
+to act the delete

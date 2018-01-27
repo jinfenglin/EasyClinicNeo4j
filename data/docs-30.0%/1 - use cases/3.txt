@@ -1,0 +1,46 @@
+删除注册局
+It allows the operator to remove
+the anagrafica of a laboratory of
+analysis
+He works for the elimination of data
+at anagrafica on a laboratory
+分析
+该运营商已被认可
+系统（请参阅UcValOp）和年龄
+Laboratory is `inside the
+I S O
+The anagrafica data of
+laboratory are not changed:
+remain in the state this first
+的执行
+成功：实验室的年龄
+is successfully eliminated
+The operator activates the execution of
+elimination of the anagrafica of
+Laboratory
+1 View the list of
+实验室
+in the S I O
+2选择实验室
+which change
+the anagrafica
+3 Confirm your selection
+4 View the mask
+to eliminate
+the anagrafica of
+实验室
+6 confirm the delete of
+laboratory
+7 Delete the data
+关于anagrafica的
+laboratory
+Notify 8 that the operation
+它完成了
+success
+操作员取消操作
+3 1 ends the execution of use case with
+6 1 failure
+4 1掩码将包含数据
+laboratory selected to enable
+the operator to monitor them in detail before
+to act the delete

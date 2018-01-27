@@ -1,0 +1,44 @@
+Validation patient
+He works to perform the functions
+认证一个必要的
+Patient
+对确认病人有兴趣
+访问与他有关的部分
+information
+The Operator has been recognized by `
+系统（请参阅UcValOp）患者必须
+向操作员提供医院或卡
+它的税码
+The patient is not recognized `
+系统
+Success: The patient is recognized by `
+System Operator and access to its
+section
+运营商积极执行a
+depending on a specific
+patient
+1 View the mask
+for validating the
+Patient
+2输入代码
+Hospital Card
+3确认验证
+4 Verify that the code
+卡的医院
+identifies a patient
+在S I O内
+5 Get information
+Patient
+6 Transfer in the memory
+患者数据
+通过税码进行验证
+2 1注入税码
+Patient
+2 2 Reinserts running from step 3
+操作员取消功能
+validation
+3 1结束了用例的执行
+failure
+Login failed
+4 1 Show appropriate message
+4 2 Reinserts execution from step 2

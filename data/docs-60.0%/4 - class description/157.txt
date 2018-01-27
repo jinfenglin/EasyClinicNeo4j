@@ -1,0 +1,13 @@
+Class TipoEsame Date:
+15/09/2003
+版：
+0 01 000
+说明包含不同类型的说明
+可以做的测试
+Attributes
+名称访问说明
+Private description description of the type of
+examination
+方法
+Signature Access
+描述

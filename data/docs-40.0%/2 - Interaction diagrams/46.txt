@@ -1,0 +1,19 @@
+登录失败的验证患者方案
+The service was launched following the explicit request
+由患者演员患者访问屏幕
+on the management of the system (for instance
+GUISfondo) Control then goes to the instance of
+GUISfondoHandler委托给GUILoginHandler的实例
+the task of managing the service The first step to take
+is to enter the Hospital Patient Card and PIN and then
+Patient is presented to the same page for the acquisition
+such data (for instance GUILogin) The tax Patient data
+并确认包含，控制再次通过
+to the instance of GUILoginHandler derogating validation
+HospitalCardManager to the instance of the latter deals
+validate the data iserted by the patient through the panel
+通知医院卡不成功操作
+backward up to the instance of which shall GUILoginHandler
+在上显示错误消息
+form of access (for instance GUILogin) This feature is `
+已经由图3的序列图描述

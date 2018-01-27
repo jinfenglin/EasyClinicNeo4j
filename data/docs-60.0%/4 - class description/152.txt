@@ -1,0 +1,13 @@
+Operator Class Date: 20/09/03
+Version:
+0 01 000
+It contains descriptions for your employees
+of the outpatient
+属性
+名称访问说明
+私人运营商登录登录
+Private password associated with the login password
+Methods
+签名validaOperatore（）公共访问
+它描述了验证的程序
+的运营商

@@ -1,0 +1,18 @@
+Validation test case Patient Data:
+通过20/06/2003 C15税码
+正确但未注册
+in S I O
+版：
+0 02 000
+Use Case He performs the functions
+UcValPaz necessary to authenticate an
+患者
+高优先级
+设置税码不应该是RGANLL80C14H703E
+be registered in S I O
+Description test
+Input Tax: RGANLL80C14H703E
+The Oracle system does not allow access to
+section on Patient
+课程覆盖有效：CE6
+Classes invalid: CE10

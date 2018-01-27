@@ -1,0 +1,45 @@
+输入检查
+It allows the operator to record
+results of a examination  supported by a
+patient required a visit
+在门诊进行
+The Operator's interest to enter
+a。支持的评论细节
+患者
+运营商已被``认可
+System (See UcValOp) and the visit to
+指的是考试必须已经完成
+recorded in the S I O
+S I O中的数据
+not be modified
+Success: The Folder Clinic Patient
+认为考试更新了
+操作员激活执行
+input service  of data from an
+examination
+1查看蒙版
+to record
+的考试
+2 Input necessary data to
+注册
+of examination
+3 Confirm input
+4 Verify the data inserted
+由操作员
+5 Stores data confirm the elimination
+6通知操作员
+该操作是`
+concluded successfully
+无效的数据集
+4 1 Show an appropriate message
+4 2 take back running from 1 step
+用数据支持表单的字段
+inserted by user
+Operator cancels the operation
+注册
+3 1结束失败的用例
+4 1 The data required for registration of a
+考虑的是：考试的类型
+information relating to the laboratory where they
+取得了结果的价值和
+由医生进行的诊断评估

@@ -1,0 +1,23 @@
+Show details visit
+The service was launched following the express request
+by the Patient The actor Patient access to the mask
+（GUICartellaClinica实例）管理
+临床文件夹的患者和那里选择访问
+see from the list of visits Control
+那么GUICartellaClinicaHandler的应用
+GUIVisitaHandler delegation to the instance of the task of managing the
+The service first step is to gather the information
+在选定的访问因此控制通行证
+The application of VisiteManager primarily through
+The body of visits retrieves this information and then
+EsamiManager委托给查找任务的实例
+information associated with all examinations related to the visit
+The selected object retrieved information through the
+考虑实例提供了应用程序的结果
+VisiteManager which in turn returns all
+信息反向发现的实例
+后者最后是GUIVisitaHandler
+显示在面具上收到的信息
+在访问的详细显示上（例如
+GUIVisita) This feature is was described by
+图3的协作图12

@@ -1,0 +1,29 @@
+Changing age Patient
+
+The service was launched following the express request
+by the actor The Operator logs on to form
+病人的主要部分（例如GUIPaziente）和那里
+选择修改患者注册的功能
+提出请求并通过控制
+GUIPazienteHandler以该代表团的实例为例
+GUIAnagraficaPazienteHandler管理服务的任务A
+现在控制权传递给的实例
+GUIAnagraficaPazienteHandler委托任务
+retrieve patient data on the applicant to the instance of
+Paziente经理通过申请病人的信
+提供这些数据的恢复并将它们提供给实例
+GUIAnagraficaPazienteHandler反过来照顾他们
+在屏幕上显示GUIAnagraficaPaziente
+此时，操作员确认所做的更改
+Control goes back to the instance of
+GUIAnagraficaPazienteHandler委托任务
+store the changes made to data from the
+患者关注这个PazienteManager的应用
+小组应通过营救患者数据
+并在商店通过时进行修改
+控制GUIAnagraficaPazienteHandler的应用程序
+turn is responsible to notify the success of
+by displaying a message on
+管理患者的面具
+（GUIAnagraficaPaziente的实例）这个特性是
+由图3 15的协作图描述

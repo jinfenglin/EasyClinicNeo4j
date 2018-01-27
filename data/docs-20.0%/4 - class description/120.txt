@@ -1,0 +1,26 @@
+Class GUILogin Date: 16/09/2003
+Version:
+0 01 000
+Description Make the mask that guides Operator
+during the validation
+Attributes
+名称访问说明
+Private btnAnnulla button used to end
+Easy Clinic 2003的实施
+操作者
+Private btnEsegui button used to confirm
+数据
+Private panelDati panel containing the boxes
+text where the operator enters the
+login
+Methods
+Signature showLoginError () Public Access
+Description Show an error message if
+in the process of validation
+is not successful
+Signature login () Public Access
+Description Manages the event generated when the patient
+start the process of validation
+签名注销（）公共访问
+Description Manages the event when the operator leaves
+the system

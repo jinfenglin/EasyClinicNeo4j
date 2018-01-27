@@ -1,0 +1,29 @@
+班级GUIPrenotazioni日期：18/09/2003
+版：
+0 01 000
+Description Make the mask used for
+显示保留
+由患者
+Attributes
+Name Access Description
+Private btnRitorna button used to return
+掩盖GUIPrincipale
+Private gridElenco Grid in which
+只有保留
+meet the search criteria
+由患者设置
+Private listaAppuntament list containing all
+Patient预订
+包含所有对象的专用panelParametri面板
+为患者提供可能性
+为研究设定参数
+预订：开始日期
+search and filtering type visit
+方法
+签名visualizzaPrenotazioni（）公共访问
+说明过滤并显示预订
+listaAppuntamenti根据所选择的标准
+Patient and displays the results in gridElenco
+签名获得Prenotazioni（）公共访问权限
+说明获取预订列表
+由患者

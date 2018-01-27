@@ -1,0 +1,36 @@
+报告考试
+It allows the operator to have a
+报告中进行的测试
+reference to visits made in
+outpatient
+运营商有兴趣拥有一个
+report of tests carried out
+运营商已被``认可
+系统（请参阅UcValOp）
+The operator activates the execution of
+报告服务考试
+1查看蒙版
+供观看
+报告
+考试
+2选择
+storm
+3确认您的选择
+4 Access to the database and
+在...中找到
+需要培训
+5 View
+information obtained
+Operator decides to print
+信息
+5 1开始打印信息
+displayed
+5 2生成报告并将其发送到
+Printer
+Operator cancels the operation
+3 1结束失败的用例
+2 1系统显示考试列表
+表明日期规定的处方
+完成日期患者医疗
+prescriber diagnosis and laboratory where
+The examination was carried out is

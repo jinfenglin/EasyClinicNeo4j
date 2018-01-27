@@ -1,0 +1,18 @@
+Validation test case Patient Data:
+C11卡医院截至20/06/2003
+but not stored properly
+in S I O
+Version:
+0 02 000
+用例他执行这些功能
+UcValPaz验证一个
+患者
+High Priority
+The Hospital set up 99,999 Card should not be
+recorded in S I O
+描述测试
+Hospital Input Card: 99,999
+The Oracle system does not allow access to
+section on Patient
+课程覆盖有效：CE1
+课程无效：CE5

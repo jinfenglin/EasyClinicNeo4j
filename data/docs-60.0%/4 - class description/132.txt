@@ -1,0 +1,27 @@
+Class GUILoginPaziente Date: 19/09/03
+版本：0 01 000
+描述制作管理访问的掩码
+病人部分的一部分
+属性
+名称访问说明
+Private btnValida button that starts the process
+访问这个病人
+Private btnAnnulla button that lets you exit the
+登录掩码
+专用editCodiceHC文本框用于
+允许操作员输入
+the code of dell'Hospital Card
+Patient
+专用editCodoceFiscal文本框用于
+并让操作员进入
+the tax code Patient
+Methods
+签名showLoginError（）公共访问
+Description Show an error message if
+访问该部分的过程
+病人失败
+签名登录（）公共访问
+说明管理操作员生成的事件
+insert the code card or dell'hospital
+Patient tax code and run the
+validation procedure

@@ -1,0 +1,63 @@
+Book visit
+It allows the operator to meet
+request for a booking service
+由一位非卧床患者制成
+The Operator has an interest in the record
+租用门诊服务
+病人要求
+运营商已被``认可
+System (See UcValOp) The patient is `
+been recognized by the system (See
+UcValPaz) and has issued to
+The module R S A properly completed
+The data in the S I O
+不被修改
+成功：门诊服务
+required is properly booked
+操作员激活执行
+服务预订服务
+门诊病人
+1
+首次访问
+
+运营商已经
+收到了一个请求
+首次访问
+part of a patient
+
+Inserting anagrafica
+患者
+2查看蒙版
+预订
+服务
+Outpatient
+3选择访问类型
+病人想要的
+make
+4插入动机的
+请求
+5确认插入的数据
+6 Verify that the sequence
+预订是
+valid
+（见BrValSeq）
+包括7（选择日期
+提供）
+8 Confirm your reservation
+9 Stores data
+通知操作员10
+that the operation was `
+成功结束
+序列保留无效
+6 1显示适当的信息
+6 2 Reinserts execution from step 2
+Operator cancels the operation
+预订
+5 1结束失败的用例
+8 1
+9 1 For a first visit has shown to this point
+that will be saved even the personal data
+In addition, the patient always in the case of a
+在访问系统之前
+view and print the card in hospital
+patient

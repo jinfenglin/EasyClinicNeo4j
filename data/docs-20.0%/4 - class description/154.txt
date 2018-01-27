@@ -1,0 +1,28 @@
+Class Patient Data:
+15/09/2003
+Version:
+0 01 000
+Description contains the age of the patients who are
+at outpatient
+Attributes
+Name Access Description
+dataRegistrazion患者拥有的私人数据
+and contacted for the first time
+the outpatient
+方法
+Signature create () Public Access
+Description Its task is to create a new object of type
+患者
+Signature GetAttributes () Public Access
+It description to find all the information to
+relating to it
+Signature save () Public Access
+Description Provides storage of data from an
+Patient in the S I O
+Signature setAttributes () Public Access
+It description to set the attributes of a
+Patient
+Methods
+签名validaPaziente（）公共访问
+它描述了验证的程序
+Patient

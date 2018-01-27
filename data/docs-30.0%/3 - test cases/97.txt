@@ -1,0 +1,21 @@
+Testing houses delete a Day Date:
+C47 Hospital following a First 20/06/2003
+并在访问之前访问
+Control
+Version:
+0 02 000
+用例满足删除的请求
+UcAnnPre预订服务
+由一位非卧床患者制成
+High Priority
+Set up the previous reservation is `:
+26/09/2003小时11 00首次访问
+The reservation is `Next:
+30/09/2003 hours 09 00 Visit Control
+Description test
+Input Visit selected:
+29/09/2003 hours 08 00 Day Hospital
+Oracle Sequence invalid The system
+allows cancellations
+课程覆盖有效：CE2 CE7 CE13
+Classes are not valid: None

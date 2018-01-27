@@ -1,0 +1,66 @@
+reservation for a visit after initial
+该服务是在明确要求后发起的
+by the actor The Operator logs on to form
+Patient's main section (for instance GUIPaziente) and there
+然后检查预约访问的功能
+The first control and then passes to the instance of
+GUIPazienteHandler代表的实例
+GUIPrenotaVisitaHandler管理服务的任务
+
+Choosing the type of visit
+
+类GUIPrenotaVisitaHandler的应用程序显示
+mask on the reservation to visit the
+Patient must be subject (for instance GUIPrenotaVisita) On this
+Operator select the form and confirms the type of access and
+control returns to the instance of which GUIPrenotaVisitaHandler
+delegating the task to insert a new one application
+of PrenotazioniManager
+
+Creating the new reservation
+
+The application of class through the application PrenotazioniManager
+预订会在此时创建新的预订
+预订的主体应核实有效性
+预订或检查新的预订是否尊重
+保留有效的顺序如果
+Reservations is a valid reservation shall notify the
+创建保留的成功
+后退到GUIPrenotaVisitaHandler的实例
+
+查找可用数据
+
+The application of the proxy class GUIPrenotaVisitaHandler
+to the instance of PrenotazioniManager task of finding the first
+访问时可以保留这个日期的日期是
+GUIPrenotaVisitaHandler given to the instance of which shall
+to display it on form
+reservation a visit (for instance GUIPrenotaVisita)
+经营者确认了系统和控制建议的日期
+is returned to the instance of GUIPrenotaVisitaHandler
+
+
+
+
+
+
+
+
+节省预订
+
+The application of class GUIPrenotaVisitaHandler at this point
+proceed to store the reservation by delegating this
+PrenotazioniManager task to the instance of this application
+through the application for reservation shall saving
+关于预订的数据一旦这样
+operation control passes to the instance of
+GUIPrenotaVisitaHandler which in turn deals with
+通过查看通知成功
+a special message on the screen on the reservation
+参观（例如GUIPrenotaVisita）
+This feature is was described by the collaboration
+diagram of Fig 3 17 Also because? the book a
+Outpatient service is `the heart of it
+`is thought to comment on that functionality with un'activity diagram
+(Fig 3 18) in order to make more clear the iterations
+我们是参与者和系统本身

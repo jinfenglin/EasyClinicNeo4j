@@ -1,0 +1,50 @@
+改变考试
+它允许操作员更改一个
+先前记录的考试
+The Operator has an interest in change
+先前记录的考试
+运营商已被``认可
+系统（参见UcValOp）检查是
+注册在S I O和
+运营商已收到结果
+要改变
+文件夹诊所
+已经接受过`的病人
+is not changed
+Success: Information on examination
+在内部进行更新
+病人的诊所文件夹
+操作员激活执行
+服务来修改考试
+1查看清单
+在英国进行的测试
+按时间顺序排列
+2 Select the examination by
+更改
+3确认您的选择
+4查看蒙版
+为了修改一个
+检查
+5数据更改
+6确认更改
+7验证插入的数据
+由操作员
+记住8
+更新
+与运营商沟通9
+该操作是`
+成功结束
+无效的数据集
+7 1显示适当的信息
+7 2从4回收跑步
+用数据支持表单的字段
+inserted by operator
+操作员取消操作
+评论
+3 1结束失败的用例
+6 1
+4 1注册a。所需的数据
+考虑的是：考试的类型
+有关他们的实验室的信息
+取得了结果的价值和
+diagnostic evaluation made by the doctor

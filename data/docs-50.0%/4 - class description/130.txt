@@ -1,0 +1,23 @@
+GUITempiMedi类日期：16/09/2003
+Version: 0 01 000
+Description Its task is to display the mask
+在计算的平均时间是
+occurred to serve a request for
+Reservations
+Attributes
+Name Access Description
+Private btnUscita button that allows you to return
+面具代表的
+GUIPrincipale
+Private graphRisultati Chart显示平均时间
+是为了服务而发生的请求
+预订
+私人小组Risultati小组与结果
+（数值）从计算得到
+average time to serve the demands of
+Reservations
+Methods
+Signature tempiMedi () Public Access
+它描述了所有的信息
+necessary for the calculation of average
+有待

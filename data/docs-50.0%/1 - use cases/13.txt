@@ -1,0 +1,37 @@
+删除考试
+它允许操作员删除一个
+Visit previously recorded
+The Operator's interest to delete a
+review previously recorded
+The Operator has been recognized by `
+系统（见UcValOp）和检查结果显示
+在S I O注册
+The data in the S I O
+不被修改
+成功：文件夹诊所病人
+who had undergone to examination eliminated
+is updated
+The operator activates the execution of
+服务取消考试
+1查看清单
+examinations conducted in
+按时间顺序排列
+2 Select the examination to
+change
+3 Confirm your selection
+4 View the mask
+供观看
+的
+5确认共享
+6 Delete the examination
+通知操作员7
+that the operation was `
+concluded successfully
+操作员取消操作
+Review
+3 1结束失败的用例
+5 1
+4 1面具将包含有关的信息
+selected so as to allow the
+to monitor them in detail before proceeding
+删除

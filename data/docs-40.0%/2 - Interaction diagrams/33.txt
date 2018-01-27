@@ -1,0 +1,28 @@
+Inserting anagrafica laboratory
+The service was launched following the express request
+by the actor The Operator logs on to form
+main (for instance GUIPrincipale) and there select the function
+The laboratories certified management control then
+GUIPrincipaleHandler to the instance of the delegation which application
+GUIAnagraficaLaboratorioHandler提供的任务
+The service first step is to obtain a list of all
+Laboratories therefore control passes to the instance of
+LaboratorioManager through which instances of Laboratory
+检索列表并将其返回给应用程序
+of GUIAnagraficaLaboratorioHandler Now that object
+应显示收到的实验室名单
+数据库管理上的掩码
+实验室（例如GUIAnagraficaLaboratorio）运营商
+activates the function of the register inclusion of the laboratory
+插入新门诊的数据并确认数据
+控制权传递给GUIAnagraficaLaboratorioHandler的实例
+which delegation is to include a new laboratory
+LaboratorioManager的应用程序通过
+实验室的主体，以确保包容和
+saving data on the new lab passes the
+Subsequent GUIAnagraficaLaboratorioHandler which in turn
+deals with notification by the success of the
+displaying a message on the screen
+管理实验室（例如
+GUIAnagraficaLaboratorio) This feature has been described `
+通过图3的协作图4

@@ -1,0 +1,23 @@
+Class PazienteManager Date:
+14/09/2003
+版：
+0 01 000
+说明具有管理操作的任务
+require access to personal data of
+耐心
+Attributes
+Name Access Description
+
+Methods
+Signature editPaziente () Public Access
+说明管理数据的更新
+病人
+签名findPaziente（）公共访问
+Description Checks for a particular patient
+in the S I O
+签名getDatiPaziente（）公共访问
+Description Its task is to find all the information
+relating to personal data of a given
+Patient
+签名newPaziente（）公共访问
+说明其任务是创建一个新的病人

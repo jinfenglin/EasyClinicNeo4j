@@ -1,0 +1,54 @@
+改变医生anagrafica
+It allows the operator to change
+the anagrafica of a doctor who works
+在门诊
+它处理数据的修改
+关于医生anagrafica
+运营商已被``认可
+系统（请参阅UcValOp）和年龄
+“医生在场。”
+I S O
+The anagrafica data of the doctor
+are not modified, remain in
+这是之前
+Success: The personal doctor is
+correctly changed
+操作员激活执行
+Chanching service of the doctor anagrafica
+1 View the list of
+医生在场
+in the S I O
+2 Select the anagrafica doctor which
+改变anagrafica
+3 Confirm the selection
+4 View the mask
+改变
+the doctor anagrafica
+5 Changing the anagrafica of
+doctor
+6 Confirm Changes
+7验证操作员插入的数据
+Remember the 8
+更新
+Notify 9 that the operation
+it is `finished with
+success
+Data entered invalid
+7 1 Display a message showing the
+数据无效
+7 2 take back running from 4
+underpinned the fields of the form with data
+insert by user
+Operator cancels operation
+3 1 ends the execution of use case with
+6 1 failure
+5 1 The anagrafica of a doctor is `characterized by
+following data: name surname sex code
+Tax date of birth place of birth
+province of birth place of address
+home province of residence address ZIP code
+telephone specialization year
+certification and additional notes
+注意：斜体是突出显示的数据
+Optional whose inclusion does not affect
+on the correct completion of operation

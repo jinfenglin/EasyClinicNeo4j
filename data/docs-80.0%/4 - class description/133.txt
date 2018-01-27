@@ -1,0 +1,45 @@
+GUIPaziente类日期：16/09/2003
+版本：0 01 000
+说明在管理上制作蒙版
+Patient预约
+运营商
+属性
+名称访问说明
+Private btnAnnullaPrenot button that allows you to start
+行动程序删除一个
+程序
+私人btnModificaDatiP按钮，让您启动
+病人程序改变数据
+患者注册表
+Private btnModificaPreno button that allows you to start
+评估程序
+预订
+Private btnPrenotaVisita button that allows you to start
+预订程序
+visit
+方法
+Signature show () Public Access
+说明查看蒙版
+签名abilitaAccesso（）公共访问
+说明管理过程时生成的事件
+validation goes well
+签名消除Prenotazione（）公共访问
+其任务描述调用处理程序类
+与面具相关的面具
+GUIEliminaPrenotazuione并开始这个过程
+删除保留
+Signature modificaAnagrafica () Public Access
+说明它的任务是绘制处理程序类
+与面具相关的面具
+GUIAnagraficaPaziente开始的过程
+患者注册表数据的回顾
+签名修改Prenotazione（）公共访问
+说明它的任务是绘制处理程序类
+与面具相关的面具
+GUIAnagraficaPaziente并启动程序
+审查有关预订的数据
+签名bookVisit（）公共访问
+Description Its task is to draw handler class
+与面具相关的面具
+GUIPrenotaVisita and start the procedure
+预约参观

@@ -1,0 +1,31 @@
+Edit test case of a visit by Date:
+C54 preceded by a control 20/06/2003
+日间医院和随后一个
+Day in Hospital
+final position of
+sequence of reservations and
+在一天之前
+醫院
+Version:
+0 02 000
+Use Case Meets the request for modification of a
+UcModVis service by Outpatient a
+患者
+高优先级
+设置以前的保留是`：
+29/09/2003营业时间08 00日间医院
+预订是'下一步：
+03/10/2003营业时间08 00日间医院
+新的预订是
+10/10/2003营业时间08 00日间医院
+接下来没有任何保留
+评论
+描述测试
+选择输入访问：
+02/10/2003 hours 09 00 Visit control
+评论：
+02/10/2003 hours 10 30
+Oracle序列无效系统
+保留的变化
+Classes cover valid: ce3 CE8 CE13 CE16 CE23
+Classes are not valid: None

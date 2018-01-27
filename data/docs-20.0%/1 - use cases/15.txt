@@ -1,0 +1,55 @@
+Changing reservation
+It allows the operator to meet
+请求更改预订
+a service by Outpatient
+To change a patient means the
+shift the date to a date
+Next
+运营商有兴趣改变
+renting an outpatient service
+previously requested by a patient
+The Operator has been recognized by `
+系统（请参阅UcValOp）患者是`
+been recognized by the system (See
+UcValPaz) and the reservation of which
+requires the amendment is `this
+在S I O中
+The data in the S I O
+not be modified
+成功：保留是
+successfully slipped a date
+下一个
+The operator activates the execution of
+Service to changing a reservation
+1 View the list of
+Reservations for the
+Patient
+2 Select the reservation
+to be change
+3确认选择
+4 View the mask
+for changing the
+预订
+5 Includes (Select dates
+提供）
+6确认更改
+7 Verification that the sequence
+Reservations is
+valid
+(See BrValSeq)
+Remember the 8
+updates
+Notify the operator 10
+该操作是`
+concluded successfully
+Sequence reservations invalid
+7 1 System: Show an appropriate message
+7 2 System: Rejuvenating running from 4 step
+Operator cancels the operation
+Review
+3 1 ends the use case with failure
+6 1
+7 1 The sequence of reservations must be ricontrollata
+because the patient may take the
+Editing a different reservation
+since last

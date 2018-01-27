@@ -1,0 +1,19 @@
+通过患者数据登录测试案例：
+C60 Card Hospital recorded 20/06/2003
+在S I O和PIN中
+正确（更少
+人物）
+版：
+0 02 000
+用例他执行这些功能
+UcLogPaz验证一个
+患者
+High Priority
+医院成立00,001卡被录入
+并与O.
+描述测试
+Hospital Input Card: 00,001
+PIN: 6532
+Oracle Invalid Input: PIN
+课程覆盖有效：CE2
+Classes invalid: CE8

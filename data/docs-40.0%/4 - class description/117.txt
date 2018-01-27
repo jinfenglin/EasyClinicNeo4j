@@ -1,0 +1,29 @@
+班级GUIPrenotazioni日期：18/09/2003
+Version:
+0 01 000
+说明制作用于掩码的掩码
+显示保留
+by Patient
+属性
+Name Access Description
+Private btnRitorna button used to return
+掩盖GUIPrincipale
+Private gridElenco Grid in which
+Only the reservations
+符合搜索标准
+set by the Patient
+Private listaAppuntament list containing all
+Patient预订
+Private panelParametri panel containing all objects
+为患者提供可能性
+to set the parameters for research
+预订：开始日期
+search and filtering type visit
+方法
+Signature visualizzaPrenotazioni () Public Access
+Description Filter and displays reservations in
+listaAppuntamenti based on the criteria chosen by
+Patient and displays the results in gridElenco
+Signature getPrenotazioni () Public Access
+Description Get the list of reservation
+by Patient

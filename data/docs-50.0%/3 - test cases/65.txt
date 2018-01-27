@@ -1,0 +1,18 @@
+验证测试用例患者数据：
+C15 tax code through 20/06/2003
+correct but not registered
+in S I O
+Version:
+0 02 000
+Use Case He performs the functions
+UcValPaz验证一个
+患者
+高优先级
+Set up the tax code should not RGANLL80C14H703E
+be registered in S I O
+描述测试
+输入税：RGANLL80C14H703E
+The Oracle system does not allow access to
+section on Patient
+课程覆盖有效：CE6
+无效课程：CE10

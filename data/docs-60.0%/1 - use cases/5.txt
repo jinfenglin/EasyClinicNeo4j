@@ -1,0 +1,54 @@
+Changing  doctor anagrafica
+It allows the operator to change
+the anagrafica of a doctor who works
+在门诊
+它处理数据的修改
+about a doctor anagrafica
+运营商已被``认可
+系统（请参阅UcValOp）和年龄
+`the doctor is present within the
+I S O
+医生的anagrafica数据
+没有修改，留在
+This was before
+Success: The personal doctor is
+correctly changed
+操作员激活执行
+Chanching service of the doctor anagrafica
+1 View the list of
+医生在场
+in the S I O
+2选择anagrafica医生哪个
+改变anagrafica
+3确认选择
+4查看蒙版
+改变
+医生anagrafica
+5 Changing the anagrafica of
+医生
+6 Confirm Changes
+7验证操作员插入的数据
+Remember the 8
+updates
+通知9该操作
+it is `finished with
+success
+数据输入无效
+7 1显示一条消息显示
+数据无效
+7 2 take back running from 4
+用数据支持表单的字段
+由用户插入
+操作员取消操作
+3 1 ends the execution of use case with
+6 1失败
+5 1医生的anagrafica的特点是
+following data: name surname sex code
+出生地点的出生日期
+地址的出生地
+居住地址省邮政编码
+电话专业化的一年
+认证和附加说明
+NB: In italics are highlighted data
+可选的包含不影响
+正确完成操作

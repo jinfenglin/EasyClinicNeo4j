@@ -1,0 +1,22 @@
+Testing houses delete a Visit Date:
+20/06/2003之后的C50控制
+访问控制和
+在访问之前
+check
+版：
+0 02 000
+用例满足删除的请求
+UcAnnPre a booking service
+由一位非卧床患者制成
+High Priority
+设置以前的保留是`：
+02/10/2003小时09 00访问控制
+预订是'下一步：
+07/10/2003小时09 00访问控制
+描述测试
+Input Visit selected:
+06/10/2003 hours 09 00 Visit control
+oracle系统删除预留
+选
+课程覆盖有效：CE4 CE8 CE13
+类无效：无

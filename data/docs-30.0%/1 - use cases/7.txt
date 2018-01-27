@@ -1,0 +1,34 @@
+Validation operator
+He works to perform the functions
+necessary to authenticate an
+操作者
+It's Interest to make their
+validation in order to use the
+所有功能可用
+System
+运营商不承认
+system
+Success: The Operator is recognized by
+system and enabled it
+The operator tries to log on system
+1 View the mask
+进行验证
+的运营商
+2插入登录名和密码
+3 Confirm data
+4 verify login and
+identify a password
+Operator within
+the S I O
+5 allows access
+6 View the main mask
+
+Operator cancels the operation
+验证
+3 1 System: ends the execution of use case with
+failure
+验证失败
+4 1 System: Show appropriate message
+4 2系统：收回执行1点
+underpinned the fields of the form with data
+insert by user

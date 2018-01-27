@@ -1,0 +1,31 @@
+Class VisiteManager Date:
+16/09/2003
+版：
+0 01 000
+Description has the task to manage operations
+require access to data of visits
+performed in outpatient
+Attributes
+名称访问说明
+
+方法
+签名delvis（）公共访问
+Description has the task to manage the disposal of a
+访问
+Signature editVisita () Public Access
+Description Its task is to manage the change data
+参观
+Signature getElencoVisite () Public Access
+提供所有检索的描述
+visits
+Signature getVisitaAt () Public Access
+Description Its task is to find all the information
+on a visit
+Signature newVisita () Public Access
+Description Its task is to manage the inclusion of a
+new visit
+Signature resocontoVisite () Public Access
+Description Its task is to find all the information
+necessary for the composition of the statement of
+visits made in a given gap
+时间

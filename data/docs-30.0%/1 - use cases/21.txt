@@ -1,0 +1,64 @@
+Show clinic folder
+Allows a patient of view
+Clinic folder own folder using the
+specific locations displaced
+of the outpatient
+He has an interest in access to your
+文件夹诊所
+`病人已被确认
+system
+(See UcAccTB)
+The patient obtains
+display information
+contained in their clinic folder
+The patient activates the execution of
+service display Folder
+Clinic
+1 Access to the database and
+retrieves information
+在文件夹上
+临床病人
+2 View details
+Patient and the list
+的访问
+按时间顺序排列
+pathology
+Patient displays details visit
+2 1从列表中选择一个访问
+requires viewing details
+2 2访问数据库并检索
+选择访问的细节
+2 3 Display the mask containing the
+details of the visit
+病人决定打印
+夹自己的诊所
+2 1开始打印文件夹
+Clinical
+2 2生成报告并将其发送到
+打印机
+Patient decides to print
+details of a visit
+2 3 1 Start printing the details of
+visit
+2 3 2 generates the report and sends it to
+Printer
+2 1 For each visit lists the date the
+name of the doctor who carried out the survey and
+reason for the visit
+2 3每次访问列出日期
+name of the doctor who made the visit
+reason for the visit and accused by illnesses
+病人的历史由医生做出
+diagnostic tests prescribed therapy
+(giving medicines and time of recruitment)
+They are required altres reported values
+任何观察都是有用的
+during the visit (eg heartbeat
+血压值为n数
+dioptres found etc) For examinations
+生物和/或仪器一旦这些
+have been made are given the
+information relating to the laboratory that has
+made and the values of the results of each
+examination and diagnostic evaluation made by
+doctor

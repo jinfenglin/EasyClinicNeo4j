@@ -1,0 +1,31 @@
+VisiteManager类日期：
+16/09/2003
+Version:
+0 01 000
+Description has the task to manage operations
+require access to data of visits
+在门诊进行
+属性
+Name Access Description
+
+方法
+签名delvis（）公共访问
+描述的任务是管理a的处置
+visit
+Signature editVisita () Public Access
+说明它的任务是管理更改数据
+参观
+签名getElencoVisite（）公共访问
+Provides description of the retrieval of all
+访问
+签名getVisitaAt（）公共访问
+说明它的任务是找到所有的信息
+on a visit
+Signature newVisita () Public Access
+Description Its task is to manage the inclusion of a
+new visit
+签名resocontoVisite（）公共访问
+说明它的任务是找到所有的信息
+necessary for the composition of the statement of
+visits made in a given gap
+time

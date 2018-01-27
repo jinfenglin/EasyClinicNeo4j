@@ -1,0 +1,35 @@
+Show anagrafica
+允许患者查看
+他们的anagrafica数据使用
+具体地点流离失所
+的门诊病人
+他有兴趣访问你的
+注册表信息
+`病人已被确认
+系统
+（见UcAccTB）
+The patient obtains
+显示他们的数据
+注册处
+病人激活执行
+服务展示他们的
+个人资料
+1访问数据库和
+检索信息
+关于注册表
+患者
+2视图
+个人信息
+患者
+病人决定打印
+显示信息
+2 1开始打印清单
+预订
+2 2生成报告并将其发送到
+打印机
+2 1患者的年龄以“特征”表征
+以下数据：姓氏性别代码
+出生地点的出生日期
+province of birth place of address
+home province of residence address ZIP code
+额外的电话和笔记

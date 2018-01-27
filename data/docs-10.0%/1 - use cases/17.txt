@@ -1,0 +1,51 @@
+Changing anagrafica patient
+It allows the operator to change
+一个病人的anagrafica是
+at outpatient
+它处理数据的修改
+about anagrafica a Patient
+The Operator has been recognized by `
+System (See UcValOp) The patient is `
+been recognized by the system (See
+UcValPaz) and the age of the patient is `
+inside of S I O
+The anagrafica data Patient
+are not modified, remain in
+This was before execution
+Success: The anagrafica of the patient is
+properly changed
+The operator activates the execution of
+change Service  of the anagrafica
+患者
+1 View the mask
+for editing
+the anagrafica of
+Patient
+2 Cgange the anagrafica of
+Patient
+3 Confirm Changes
+4 Verify the data inserted by operator
+5 Remember the
+updates
+6 Notify that the operation
+it is `finished with
+success
+Invalid data set
+4 1 Display a message showing the
+data deemed invalid
+4 2重新插入从1开始运行
+underpinned the fields of the form with data
+insterted by user
+Operator cancels function
+change
+3 1 ends the execution of use case with
+失败
+2 1 The anagrafica of a patient is characterized by `
+following data: name surname sex code
+Tax date of birth place of birth
+province of birth place of address
+home province of residence address ZIP code
+Additional telephone and Notes
+NB: In italics are highlighted data
+Optional whose inclusion does not affect
+on the correct completion of the operation

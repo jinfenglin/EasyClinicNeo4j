@@ -1,0 +1,48 @@
+GUIManagement类日期：16/09/2003
+版本：0 01 000
+Description Its task is to display the mask
+在管理职能上
+监测活动
+门诊
+Attributes
+名称访问说明
+私人btnPianiPrenotazioni按钮，提供访问权限
+implemented by the mask
+GUI PIA你P人o塔子哦你
+Attributes
+私人btnResocontoEsami按钮，提供访问权限
+由面具实施
+GUIResocontoEsami
+私人btnResocontoMedicina按钮，提供访问权限
+will be deployed to mask
+GUIResocontoMedicinali
+私人btnResocontoPrenotaz按钮，提供访问权限
+离子形成由操作员实施
+GUIResocontoPrenotazioni
+Private btnResocontoVisite button that provides access
+implemented by the mask
+GUIResocontoVisite
+私人btnTempiMedi按钮，提供访问权限
+implemented by the mask
+GUITempiMedi
+方法
+签名resocontoVisite（）公共访问
+说明它的任务是绘制处理程序类
+与通过实施的面具相关联
+GUIResocontoVisite
+签名resocontoEsami（）公共访问
+说明它的任务是绘制处理程序类
+与通过实施的面具相关联
+GUIResocontoEsami
+签名reportBooking（）公共访问
+Description Its task is to draw handler class
+associated with the mask implemented by
+GUIResocontoPrenotazioni
+Signature tempiMedi () Public Access
+说明它的任务是绘制处理程序类
+associated with the mask implemented by
+GUITempiMedi
+签名pianiPrenotazioni（）公共访问
+说明它的任务是绘制处理程序类
+与通过实施的面具相关联
+GUI PIA你P人o塔子哦你

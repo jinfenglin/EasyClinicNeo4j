@@ -1,0 +1,47 @@
+GUIPrenotaVisita类日期：16/09/2003
+版本：0 01 000
+Description Make the mask on the management
+预约参观
+Attributes
+名称访问说明
+私人btnAnnulla按钮，允许您返回
+implemented by the mask
+GUIPaziente
+Private btnConfermaTipo button that allows you to confirm
+预订的类型
+私人btnPrenota按钮，让您确认
+预订
+包含日期的专用panelDataVisita面板
+建议系统访问
+包含必要数据的专用panelDati面板
+预约
+Private panelTipoVisita panel containing the various types of
+visit which can be booked
+方法
+签名notificaSuccesso（）公共访问
+说明它的任务是通知成功
+of
+签名秀（）公共访问
+说明查看蒙版
+签名visualizzaDataVisi公共访问
+他 ()
+说明查看系统提出的日期
+Signature visualizzaDatiVisi Public Access
+ta ()
+Description View data for a reservation
+Signature eliminaPrenotazione () Public Access
+说明管理操作员生成的事件
+Select a reservation and start the procedure
+delete
+Signature modificaPrenotazione () Public Access
+说明管理操作员生成的事件
+选择一个预订并开始程序
+changing
+签名bookVisit（）公共访问
+Description Manages the event generated when the Operator
+select and start the reservation process
+a new visit
+Signature primaVisita () Public Access
+说明管理操作员生成的事件
+选择一个预订并开始程序
+保留第一次访问

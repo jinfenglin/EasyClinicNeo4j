@@ -1,0 +1,50 @@
+改变考试
+它允许操作员更改一个
+先前记录的考试
+运营商对改变有兴趣
+先前记录的考试
+The Operator has been recognized by `
+System (See UcValOp) examination is
+注册在S I O和
+运营商已收到结果
+to be change
+文件夹诊所
+Patient who has undergone `
+没有改变
+Success: Information on examination
+在内部进行更新
+of the patient's Clinic Folder
+操作员激活执行
+service to modify an examination
+1 View a list of
+tests carried out in
+chronological order
+2通过选择检查
+change
+3确认您的选择
+4 View the mask
+for the modification of a
+examination
+5 Change of data
+6 Confirm Changes
+7 Verify the data inserted
+by operator
+Remember the 8
+更新
+Communicate to the operator 9
+that the operation was `
+concluded successfully
+Invalid data set
+7 1 Show an appropriate message
+7 2 take back running from 4
+underpinned the fields of the form with data
+inserted by operator
+操作员取消操作
+Review
+3 1结束失败的用例
+6 1
+4 1 The data required for registration of a
+考虑的是：考试的类型
+information relating to the laboratory where they
+取得了结果的价值和
+由医生进行的诊断评估

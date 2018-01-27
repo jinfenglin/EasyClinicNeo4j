@@ -1,0 +1,26 @@
+第一次修改访问的测试案例日期：
+C51 followed by a Day Hospital 20/06/2003
+在一个位置
+两次访问之间控制
+Version:
+0 02 000
+Use Case Meets the request for modification of a
+UcModVis服务由Outpatient a
+patient
+High Priority
+Set up There are no previous reservations
+The reservation is `Next:
+29/09/2003 hours 08 00 Day Hospital
+新的预订是
+02/10/2003小时09 00访问控制
+新的保留函：
+07/10/2003 hours 09 00 Visit Control
+Description test
+选择输入访问：
+26/09/2003 hours 11 00 First visit
+Review:
+03/10/2003 hours 11 00
+Oracle Sequence invalid The system
+保留的变化
+Classes cover valid: CE1 CE8 CE14 CE19 CE21
+类无效：无

@@ -1,0 +1,30 @@
+Edit test case of a Day Hospital Date:
+C52之前是20/06/2003
+visit and followed by a
+访问控制
+a之间的位置
+Day Hospital and a Visit
+Control
+Version:
+0 02 000
+Use Case Meets the request for modification of a
+UcModVis service by Outpatient a
+patient
+High Priority
+Set up the previous reservation is `:
+26/09/2003 hours 11 00 First visit
+The reservation is `Next:
+02/10/2003 hours 09 00 Visit Control
+New reservation was
+03/10/2003 hours 08 00 Day Hospital
+稍后再次预订：
+06/10/2003小时09 00访问控制
+描述测试
+Input: Visit selected:
+29/09/2003营业时间08 00日间医院
+评论：
+06/10/2003 hours 08 00
+Oracle: Sequence invalid The system
+保留的变化
+Classes cover valid: CE2 CE9 CE13 CE19 CE22
+: Classes are not valid: None

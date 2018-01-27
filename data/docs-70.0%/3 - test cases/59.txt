@@ -1,0 +1,16 @@
+Validation test case Patient Data:
+C09卡医院不是20/06/2003
+声音（更少
+人物）
+Version:
+0 02 000
+Use Case He performs the functions
+UcValPaz验证一个
+患者
+High Priority
+设置不确定
+描述测试
+医院输入卡：0000
+Oracle输入无效
+Classes cover valid: None
+类无效：ce3

@@ -1,0 +1,26 @@
+MediciManager类日期：
+16/09/2003
+Version:
+0 01 000
+说明具有管理操作的任务
+require access to anagrafica data of
+在门诊的医生
+属性
+Name Access Description
+
+方法
+签名delMedico（）公共访问
+Description Its task is to manage the disposal of data
+医生的细节
+签名editMedico（）公共访问
+Description Its task is to manage the change of data
+anagrafica of a doctor
+签名getElencoMedici（）公共访问
+描述的任务是找到anagrafica的数据
+所有的医生
+签名getMedicoAt（）公共访问
+Description Its task is to raise the anagrafica of a
+医生
+签名NewMedia（）公共访问
+说明它的任务是管理一个插入
+新医生

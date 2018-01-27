@@ -1,0 +1,22 @@
+类GUIAnagraficaMedico日期：16/09/2003
+版：
+0 01 000
+说明在管理上制作蒙版
+医生的anagrafica
+Attributes
+名称访问说明
+Private gridElencoMedici list containing the information
+在美国注册的医生的校长
+并与O.
+方法
+Signature visualizzaDatiMedico () Public Access
+说明查看所选医生的详细信息
+Section panelDati
+签名visualizzaElencoMedicii（）公共访问
+Description View list of doctors registered in
+I S O
+Signature gestioneAnagrafica () Public Access
+它描述了所有的检索
+information necessary for the organization
+通过掩码实现
+GUIAnagraficaMedico

@@ -1,0 +1,30 @@
+取消预订
+
+该服务是在明确要求后发起的
+by the actor The Operator logs on to form
+在主要部分患者（例如GUIPaziente）上
+and there select the elimination of a reservation
+然后控制权转到GUIPazienteHandler的实例
+其中代表GUIEliminaPrenotazioniHandler的实例
+task of managing the service The request for
+GUIEliminaPrenotazioneHandler代表团申请
+Prenotazioni经理是获得所有的列表
+来自Patient的预订此对象通过
+Requests for reservations to ensure retrieval of the list and
+返回到GUIEliminaPrenotazioneHandler的实例
+转动提供获得的观看数据
+在面具（例如GUIEliminaPrenotazione）
+运营商从预订列表中选择
+delete and control is passed to the instance of
+GUIEliminaPrenotazioneHandler，其中请求授权
+Prenotazioni完成交易的经理申请
+Prenotazioni经理通过申请预约应
+以验证序列即使在之后也是有效的
+消除保留
+只有这样才能消除保留
+is completed and will return control
+GUIEliminaPrenotazioneHandler的实例
+用消息通知交易成功
+on the screen (for instance GUIEliminaPrenotazione) This
+功能是由协作图来描述的
+图3的20

@@ -1,0 +1,17 @@
+验证测试用例患者数据：
+不是20/06/2003的C14税码
+正确（更高
+figures), but not this
+在S I O中
+版：
+0 02 000
+用例他执行这些功能
+UcValPaz验证一个
+Patient
+高优先级
+设置不确定
+Description test
+输入税：ZCCRCC80D13G942UZCCRCC
+Oracle输入无效
+Classes cover valid: None
+课程无效：CE9

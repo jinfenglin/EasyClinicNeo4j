@@ -1,0 +1,33 @@
+input test case data Date:
+C21 details of a patient 20/06/2003
+没有记录在S I O中
+（税码和正确
+没有记录在S I O）
+The data are not included
+除了地方以外没有其他人
+分娩
+Version:
+0 02 000
+Use Case He performs the functions
+UcInsPaz需要输入anagrafica的
+一个新病人
+Media Priorities
+Set up the tax code should not ZCCVTN77D53G942U
+在S I O注册
+Description test
+Input Tax: ZCCVTN77D53G942U
+名称：Vitina
+Surname: Zaccagnino
+性别：女
+出生日期：13/04/1977
+出生地：
+Province of birth: PCS
+Address: via La Frasca 36
+Place of residence: Atella
+居住省份：PCS
+邮政编码：85020
+Contact information: 0972/720897 340/9008171
+Oracle Invalid Input: Place of Birth
+课程覆盖有效：CE1 CE3 CE6 CE8 CE12
+CE14 CE16 CE18 CE20 CE23 CE24 CE28
+课程无效：CE11

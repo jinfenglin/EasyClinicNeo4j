@@ -1,0 +1,17 @@
+注册表演
+The service was launched following the express request
+由患者演员患者访问面罩
+主要（例如GUIPrincipale）的管理
+系统提供的所有服务都符合患者的要求
+and there select the display of their anagrafica
+主控制然后转到实例
+GUIPrincipaleHandler which delegates to the instance of
+GUIAnagraficaHandler the task of managing the service at this
+点控制传递给PazienteManager的实例
+which deals with finding by the panel of the Patient
+患者资料申请者结果是
+向后推到GUIAnagraficaHandler的实例
+轮到他们负责在屏幕上显示
+关于患者注册管理（例如
+GUIAnagrafica）这个功能被描述了
+collaboration diagram of Fig 3 9

@@ -1,0 +1,22 @@
+测试机构删除访问日期：
+20/06/2003之后的C46控制
+日间医院和说唱
+介绍最新的
+保留
+版：
+0 02 000
+用例满足删除的请求
+UcAnnPre a reservation service
+made by an ambulatory patient
+高优先级
+设置以前的保留是`：
+29/09/2003营业时间08 00日间医院
+之后没有任何保留
+选
+Description test
+Input Visit selected:
+30/09/2003 hours 09 00 Visit control
+oracle系统删除预留
+选
+Classes cover valid: ce3 CE8 CE10
+类无效：无

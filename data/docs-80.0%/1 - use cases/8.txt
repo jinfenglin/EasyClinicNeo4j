@@ -1,0 +1,59 @@
+记录访问
+它允许操作员记录一个
+参观在门诊举行
+运营商对记录有兴趣
+参观在门诊举行
+运营商已被``认可
+系统（请参阅UcValOp）和运营商
+收到访问的数据
+文件夹诊所
+受到访问的病人
+没有改变
+成功：所有信息都是
+存储在文件夹中
+病人诊所
+The operator activates the execution of
+参观登记服务
+1查看蒙版
+以记录访问
+
+2输入必要的数据
+the registration of
+访问
+3确认输入
+4 Verify the data insert
+by operator
+5 Stores data
+6通知操作员
+那操作是
+成功结束
+Input Data about to a new examination
+6 1插入新的考试
+The Operator's interest to input data
+考察有关的访问
+Inserting examination
+6 2 Back on 6 point
+无效的数据集
+4 1显示适当的信息
+4 2 take back running from 1
+用数据支持表单的字段
+insert by user
+操作员取消操作
+注册
+3 1结束失败的用例
+4 1登记所需的资料
+访问的对象是：那个医生名字的那个日期
+对访问的原因进行了调查
+患者病史指责的疾病
+通过医学诊断测试进行
+规定的治疗规定（指示
+药品和招聘时间）和'必要的
+此外，包含可能的值
+在访问期间进行的仪器观察
+（例如心跳压力
+n个血液中发现的屈光度等）
+对于生物测试和/或器械是`
+must enter information on the
+实验室，使他们的价值观
+每次检查和评估的结果
+由医疗诊断

@@ -1,0 +1,50 @@
+Changing examination
+它允许操作员更改一个
+先前记录的考试
+The Operator has an interest in change
+examination  previously recorded
+运营商已被``认可
+System (See UcValOp) examination is
+registered in the S I O and
+The Operator has received the results of
+to be change
+The Clinic of Folder
+Patient who has undergone `
+is not changed
+Success: Information on examination
+to be updated within
+of the patient's Clinic Folder
+The operator activates the execution of
+service to modify an examination
+1 View a list of
+tests carried out in
+chronological order
+2 Select the examination by
+change
+3 Confirm your selection
+4 View the mask
+for the modification of a
+examination
+5数据更改
+6 Confirm Changes
+7 Verify the data inserted
+by operator
+Remember the 8
+updates
+Communicate to the operator 9
+that the operation was `
+成功结束
+无效的数据集
+7 1 Show an appropriate message
+7 2 take back running from 4
+underpinned the fields of the form with data
+由操作员插入
+Operator cancels the operation
+Review
+3 1 ends the use case with failure
+6 1
+4 1注册a。所需的数据
+consideration are: the type of examination
+有关他们的实验室的信息
+made the values of the results and
+由医生进行的诊断评估

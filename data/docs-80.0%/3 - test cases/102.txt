@@ -1,0 +1,30 @@
+编辑日间医院的测试案例日期：
+C52之前是20/06/2003
+visit and followed by a
+访问控制
+position between a
+日间医院和参观
+Control
+版：
+0 02 000
+用例满足修改a的请求
+UcModVis服务由Outpatient a
+患者
+高优先级
+设置以前的保留是`：
+26/09/2003小时11 00首次访问
+预订是'下一步：
+02/10/2003小时09 00访问控制
+New reservation was
+03/10/2003营业时间08 00日间医院
+New reservation later:
+06/10/2003小时09 00访问控制
+描述测试
+输入：访问选择：
+29/09/2003 hours 08 00 Day Hospital
+评论：
+06/10/2003小时08 00
+Oracle：序列无效系统
+保留的变化
+课程覆盖有效：CE2 CE9 CE13 CE19 CE22
+：类无效：无

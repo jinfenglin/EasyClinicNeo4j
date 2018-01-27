@@ -1,0 +1,40 @@
+Report reservations
+It allows the operator to have a
+report on reservation
+运营商有兴趣拥有一个
+完成保留的报告
+The Operator has been recognized by `
+系统（请参阅UcValOp）
+The operator activates the execution of
+服务报告预订
+1查看蒙版
+用于查看保留报告
+2选择
+时间空隙
+3选择类型
+信息摘要
+4确认选择
+5访问数据库和
+在...中找到
+需要培训
+6查看
+获得的信息
+运营商决定打印
+信息
+6 1开始打印信息
+displayed
+6 2 generates the report and sends it to
+打印机
+操作员取消操作
+4 1结束失败的用例
+3 1操作员可以“访问以下内容
+摘要信息：
+对于你想要的特定患者
+知道预订的顺序
+in a given period or throughout the period
+where it was in contact with the clinic
+指定约会和约会的日期
+参观的类型;
+为你想要的特定日期
+所有预订的列表
+制作

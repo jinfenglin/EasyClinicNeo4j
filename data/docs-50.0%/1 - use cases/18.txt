@@ -1,0 +1,55 @@
+患者注册表输入
+它允许操作员输入
+接触病人的anagrafica
+for the first time the outpatient
+The Operator has an interest in record
+the anagrafica of a new patient in
+作为第一个联系人
+手术后，需要一个
+Before booking for a Visit
+运营商已被``认可
+系统（请参阅UcValOp）患者
+发给S A R的表格
+with the section about anagrafica
+successfully completed
+The data in the S I O
+not be modified
+Success: The anagrafica of the patient is
+correctly maintained in memory and
+仅存储在S I O中
+第一次保留的结束
+访问
+The operator activates the execution of
+预订服务的第一
+Visit
+1查看蒙版
+用于必要的输入
+信息
+2插入关于anagrafica的数据
+Patient
+3 Confirm input
+4 Verify the data inserted
+由操作员
+5建立和分配
+Hospital Card
+（见BrCreCar）
+10第一次访问
+Invalid data set
+4 1 Display a message showing the
+data deemed invalid
+4 2从1步重新插入运行
+underpinned the fields of the form with data
+由操作员插入
+Operator cancels function
+插入
+3 1 ends the execution of use case with
+failure
+2 1一个病人的anagrafica特点是`
+following data: name surname sex code
+Tax date of birth place of birth
+地址的出生地
+居住地址省邮政编码
+Additional telephone and Notes
+NB: In italics are highlighted data
+Optional whose inclusion does not affect
+正确完成操作

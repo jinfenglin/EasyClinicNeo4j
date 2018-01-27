@@ -1,0 +1,66 @@
+预约后访问
+该服务是在明确要求后发起的
+由演员操作员登录形成
+病人的主要部分（例如GUIPaziente）和那里
+然后检查预约访问的功能
+第一个控件然后传递给的实例
+GUIPazienteHandler代表的实例
+GUIPrenotaVisitaHandler管理服务的任务
+
+Choosing the type of visit
+
+类GUIPrenotaVisitaHandler的应用程序显示
+mask on the reservation to visit the
+患者必须服从（例如GUIPrenotaVisita）在此
+运营商选择表格并确认访问类型和
+control returns to the instance of which GUIPrenotaVisitaHandler
+委托任务来插入一个新的应用程序
+的预订管理器
+
+Creating the new reservation
+
+通过应用程序Prenotazioni管理器的应用程序
+预订会在此时创建新的预订
+预订的主体应核实有效性
+预订或检查新的预订是否尊重
+保留有效的顺序如果
+预订是有效的预订应通知
+创建保留的成功
+后退到GUIPrenotaVisitaHandler的实例
+
+查找可用数据
+
+代理类GUIPrenotaVisitaHandler的应用
+到Prenotazioni Manager找到第一个任务的实例
+访问时可以保留这个日期的日期是
+GUIPrenotaVisitaHandler给予其实例
+to display it on form
+预约参观（例如GUIPrenotaVisita）
+The Operator confirmed the date proposed by the system and control
+is returned to the instance of GUIPrenotaVisitaHandler
+
+
+
+
+
+
+
+
+节省预订
+
+此时应用类GUIPrenotaVisitaHandler
+继续通过委托保存预订
+PrenotazioniManager任务到这个应用程序的实例
+通过申请保留应保存
+关于预订的数据一旦这样
+操作控制传递给实例
+GUIPrenotaVisitaHandler反过来处理
+通过查看通知成功
+预订屏幕上的特殊消息
+a visit (for instance GUIPrenotaVisita)
+This feature is was described by the collaboration
+图3的图17也是因为？书a
+门诊服务是它的核心
+被认为是用非活动图来评论这个功能
+(Fig 3 18) in order to make more clear the iterations
+我们是参与者和系统本身

@@ -1,0 +1,18 @@
+按日期登录运算符测试用例：
+C03登录错误（编号20/06/2003
+顶部字符）和
+passwords stored on the
+并与O.
+Version:
+0 02 000
+Use Case He performs the functions
+UcValOpe验证一个
+Operator
+高优先级
+设置Virago密码被记录在SIO中
+Description test
+Input Login: roccoliveto
+Password: Virago
+Oracle无效的输入：登录
+Classes cover valid: CE7
+Classes invalid: CE4

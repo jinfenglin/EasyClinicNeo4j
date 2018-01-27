@@ -1,0 +1,31 @@
+input test case data Date:
+C28 details of a patient I 20/06/2003
+数据不是无效的
+and the tax code is `not
+正确（更少
+字符）
+版：
+0 02 000
+
+用例他执行这些功能
+UcInsPaz需要输入anagrafica的
+a new patient
+媒体优先
+Set up not identified
+描述测试
+Input Tax: ZCCRCC
+名字：Rocco
+Surname: Zaccagnino
+Sex: M
+Birth date: 13/04/1980
+出生地点：电源
+出生地：PCS
+Address: fraz Paoladoce 26
+住所：Avigliano
+Province of residence: PCS
+ZIP code: 85020
+Contact information: 0971/87267 347/9908973
+Oracle无效输入：税
+Classes cover valid: CE1 ce3 CE5 CE8 CE10
+CE12 CE14 CE16 CE18 CE20 CE28
+课程无效：CE25

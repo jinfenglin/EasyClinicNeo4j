@@ -1,0 +1,27 @@
+Class Examination Date: 14/09/2003
+Version:
+0 01 000
+说明包含一个调查的数据
+prescribed in a visit held in
+outpatient
+Attributes
+Name Access Description
+私人数据在病人的地方
+carried out the examination
+Private diagnosis made by medical diagnosis
+个人结果结果
+Methods
+Signature create () Public Access
+Description Its task is to create a new object of type
+Discussed
+Signature delete () Public Access
+描述提供消除考试
+Signature save () Public Access
+Description Provides storage of data from an
+examination within the S I O
+Methods
+Signature GetAttributes () Public Access
+It description to find all the information
+on examination
+Signature setAttributes () Public Access
+它描述了由考试设置的属性

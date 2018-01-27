@@ -1,0 +1,26 @@
+Test case of a First Amendment to visit Date:
+C51，随后是20/06/2003的日间医院
+in a location
+两次访问之间控制
+Version:
+0 02 000
+用例满足修改a的请求
+UcModVis service by Outpatient a
+patient
+High Priority
+设置没有以前的保留
+The reservation is `Next:
+29/09/2003 hours 08 00 Day Hospital
+新的预订是
+02/10/2003小时09 00访问控制
+新的保留函：
+07/10/2003小时09 00访问控制
+描述测试
+Input Visit selected:
+26/09/2003 hours 11 00 First visit
+评论：
+03/10/2003 hours 11 00
+Oracle序列无效系统
+保留的变化
+类别覆盖有效：CE1 CE8 CE14 CE19 CE21
+Classes are not valid: None

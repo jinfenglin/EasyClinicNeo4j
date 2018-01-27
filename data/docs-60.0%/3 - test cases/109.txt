@@ -1,0 +1,17 @@
+通过患者数据登录测试案例：
+C59 Card Hospital incorrect 20/06/2003
+（更高的位数）
+和PIN记录在S I O中
+Version:
+0 02 000
+用例他执行这些功能
+UcLogPaz验证一个
+patient
+High Priority
+设置65,323 PIN码被记录在'S I O'中
+Description test
+医院输入卡：000,000
+PIN: 65,323
+Oracle无效输入：医院卡
+Classes cover valid: CE7
+类无效：CE4

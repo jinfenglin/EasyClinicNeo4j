@@ -1,0 +1,32 @@
+平均等待时间
+它允许操作员获得估计
+提供服务所需的平均时间
+预订
+The Operator's interest to have a
+估计服务a的平均时间
+预订请求
+操作员激活执行
+service for calculating the estimated time
+平均
+1查看蒙版
+去看看
+计算结果
+时间估计
+medium to serve a
+request
+预订
+2 Start function
+3 View results
+计算
+运营商决定打印
+信息
+3 1 Start printing information
+显示
+3 2生成报告并将其发送到
+打印机
+Operator cancels the operation
+2 1结束失败的用例
+1 1 The time of service delivered in days is `equal
+请求日期之间的时间
+reservation and when the appointment
+被安排了

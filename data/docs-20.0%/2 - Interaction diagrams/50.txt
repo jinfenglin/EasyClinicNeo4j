@@ -1,0 +1,23 @@
+Show details visit
+该服务是在明确要求后发起的
+by the Patient The actor Patient access to the mask
+(instance of GUICartellaClinica) on the management of
+clinic folder of patients and there select a visit from
+see from the list of visits Control
+那么GUICartellaClinicaHandler的应用
+GUIVisitaHandler delegation to the instance of the task of managing the
+The service first step is to gather the information
+on the selected visit therefore control passes
+The application of VisiteManager primarily through
+The body of visits retrieves this information and then
+EsamiManager delegation to the instance of the task of finding the
+information associated with all examinations related to the visit
+The selected object retrieved information through the
+Consideration of instances provides the results of the application
+VisiteManager which in turn returns all
+information found backward up to the instance of
+The latter finally GUIVisitaHandler shall
+displaying the information received on the mask
+在访问的详细显示上（例如
+GUIVisita）这个功能被描述了
+collaboration diagram of Fig 3 12

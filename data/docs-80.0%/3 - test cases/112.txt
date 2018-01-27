@@ -1,0 +1,20 @@
+Login test case by Patient Data:
+C62卡医院记录20/06/2003
+in S I O and correct PIN but
+not recorded in S I O
+版：
+0 02 000
+Use Case He performs the functions
+UcLogPaz验证一个
+患者
+高优先级
+医院成立00,001卡被录入
+并与O.
+在SIO中记录的PIN不是47,389
+描述测试
+Input: Hospital Card: 00,001
+pin: 47,389
+Oracle：系统不允许访问
+患者
+课程覆盖有效：CE2
+：课程无效：CE10

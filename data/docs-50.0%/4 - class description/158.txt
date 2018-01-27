@@ -1,0 +1,36 @@
+Class Data Laboratory:
+15/09/2003
+版：
+0 01 000
+说明包含来自实验室的数据
+已经在考试中奠定了
+门诊病人
+Attributes
+名称访问说明
+ZIP Code Private Post
+Private City city where it is located on
+实验室
+私人地址你在哪里
+实验室
+Private party VAT Laboratory
+Private province Province where it is located on
+实验室
+私人ragione实验室的名称
+私人实验室地址的详细信息
+方法
+Signature create () Public Access
+Description Its task is to create a new object of type
+实验室
+Signature delete () Public Access
+Description Provides elimination of data on
+实验室
+Signature save () Public Access
+Description Provides storage of data
+a laboratory in the S I O
+Methods
+Signature GetAttributes () Public Access
+It description of the retrieval of all
+有关实验室的信息
+Signature setAttributes () Public Access
+它描述了设置a的属性
+laboratory

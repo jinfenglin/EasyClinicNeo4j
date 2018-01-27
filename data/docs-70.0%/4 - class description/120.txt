@@ -1,0 +1,26 @@
+Class GUILogin Date: 16/09/2003
+版：
+0 01 000
+Description Make the mask that guides Operator
+during the validation
+属性
+名称访问说明
+私人btnAnnulla按钮用于结束
+the implementation of Easy Clinic 2003
+操作者
+用于确认的私人btnEgui按钮
+数据
+包含盒子的私人panelDati面板
+运营商进入的文本
+login
+方法
+签名showLoginError（）公共访问
+说明如果显示错误消息
+在验证过程中
+is not successful
+签名登录（）公共访问
+Description Manages the event generated when the patient
+开始验证过程
+签名注销（）公共访问
+Description Manages the event when the operator leaves
+系统

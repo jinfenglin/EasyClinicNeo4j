@@ -1,0 +1,36 @@
+班级数据实验室：
+15/09/2003
+Version:
+0 01 000
+Description contains data from a laboratory where they are
+been laid in the Examination
+outpatient
+属性
+Name Access Description
+邮政编码私人邮政
+Private City city where it is located on
+实验室
+Private Address address where you are located on
+实验室
+私人聚会增值税实验室
+Private province Province where it is located on
+laboratory
+私人ragione实验室的名称
+Private details of the laboratory Addresses
+方法
+签名创建（）公共访问
+说明它的任务是创建一个新类型的对象
+Laboratory
+Signature delete () Public Access
+Description Provides elimination of data on
+a laboratory
+签名保存（）公共访问
+Description Provides storage of data
+a laboratory in the S I O
+Methods
+Signature GetAttributes () Public Access
+It description of the retrieval of all
+有关实验室的信息
+Signature setAttributes () Public Access
+它描述了设置a的属性
+实验室

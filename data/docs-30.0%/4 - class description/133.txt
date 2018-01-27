@@ -1,0 +1,45 @@
+Class GUIPaziente Date: 16/09/2003
+Version: 0 01 000
+Description Make the mask on the management
+of reservation by Patient
+the operator
+属性
+Name Access Description
+私人btnAnnullaPrenot按钮，让你开始
+action procedure delete of a
+程序
+Private btnModificaDatiP button that allows you to start
+病人程序改变数据
+患者注册表
+Private btnModificaPreno button that allows you to start
+assessment procedure for changing a
+Reservations
+Private btnPrenotaVisita button that allows you to start
+reservation procedure of a
+visit
+Methods
+签名秀（）公共访问
+Description View mask
+Signature abilitaAccesso () Public Access
+说明管理过程时生成的事件
+validation goes well
+Signature eliminaPrenotazione () Public Access
+其任务描述调用处理程序类
+与面具相关的面具
+GUIEliminaPrenotazuione并开始这个过程
+delete of a reservation
+Signature modificaAnagrafica () Public Access
+Description Its task is to draw handler class
+associated with the mask represented by
+GUIAnagraficaPaziente and begin the process of
+患者注册表数据的回顾
+签名修改Prenotazione（）公共访问
+Description Its task is to draw handler class
+associated with the mask represented by
+GUIAnagraficaPaziente and start the procedure
+Review of data relating to a reservation
+Signature prenotaVisita () Public Access
+说明它的任务是绘制处理程序类
+associated with the mask represented by
+GUIPrenotaVisita and start the procedure
+reservation a visit

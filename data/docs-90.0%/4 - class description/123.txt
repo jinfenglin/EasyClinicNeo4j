@@ -1,0 +1,23 @@
+GUIAnagraficaLaboratorio类日期：
+16/09/2003
+版：
+0 01 000
+说明在管理上制作蒙版
+实验室的anagrafica
+属性
+名称访问说明
+Private gridElencoLaborat list containing the information
+金牌重点实验室注册
+在S I O内
+方法
+Signature visualizzaDatiLaboratorio（）公共访问
+说明查看实验室的详细信息
+selected in the panelDati
+签名visualizzaElencoLaboratori（）公共访问
+说明查看已注册实验室的列表
+在S I O中
+Signature gestioneAnagrafica () Public Access
+它描述了所有信息的检索
+组织面具所必需的
+由GUIAnagraficaLaboratorio实施
+

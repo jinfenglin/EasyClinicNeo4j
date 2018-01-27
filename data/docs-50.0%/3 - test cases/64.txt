@@ -1,0 +1,17 @@
+验证测试用例患者数据：
+C14 tax code by not 20/06/2003
+correct (higher
+figures), but not this
+在S I O中
+Version:
+0 02 000
+用例他执行这些功能
+UcValPaz necessary to authenticate an
+Patient
+High Priority
+设置不确定
+描述测试
+Input Tax: ZCCRCC80D13G942UZCCRCC
+Oracle Input Invalid
+课程覆盖有效：无
+课程无效：CE9

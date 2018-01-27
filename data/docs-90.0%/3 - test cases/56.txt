@@ -1,0 +1,20 @@
+Login Operator test case by Date:
+登录于S I O 20/06/2003的C06登录
+和密码正确，但不是
+recorded in S I O
+版：
+0 02 000
+用例他执行这些功能
+UcValOpe验证一个
+操作者
+高优先级
+设置登录Rocolo是在SIO中录制的
+密码是'rocco未注册
+并与O.
+描述测试
+输入登录名：Rocolo
+密码：rocco
+Oracle系统不允许访问
+患者
+课程覆盖有效：CE2
+无效课程：CE10

@@ -1,0 +1,30 @@
+输入检查
+The service was launched following the express request
+by the actor The Operator logs on to form
+on the management of visits (for instance GUIVisita)
+Select from a visit to add a assessment and
+激活插入新检查控件的功能
+then to the instance of GUIVisitaHandler which delegates
+GUIEsameHandler提供服务任务的实例
+The first step is to find information on the
+visit that the operator has selected therefore control passes
+通过应用程序的VisiteManager的应用程序
+Visit the retrieves information on the visit
+选择并将控制权传递给该EsamiManager的实例
+通过检查机构发现了一份包含该清单的清单
+information relating to the examinations visit The list is
+GUIVisitaHandler返回到接收实例
+control and ensure display of the visit and
+examinations on the mask on the management of examinations
+(instance of GUIEsami)
+操作员插入数据进一步检查和确认
+the inclusion of the same at this point the control switches
+GUIEsamiHandler to the instance of the delegation which is to
+进入申请信Esame Manager的新考试
+通过申请审查，以确保包容和
+保存数据以便进一步检查并通过控制
+to the instance of GUIEsameHandler which in turn deals with
+notify success by viewing
+a special message in the mask on the management
+examinations (for instance GUIEsame) This feature is was
+由图3的协作图22描述

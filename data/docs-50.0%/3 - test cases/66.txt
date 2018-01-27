@@ -1,0 +1,34 @@
+Entering Data:
+病人的主测试案例20/06/2003
+C16 is not registered in S I O
+(tax code and correct
+没有记录在S I O）
+数据不包括在内
+null
+Version:
+0 02 000
+用例他执行这些功能
+UcInsPaz necessary for input
+新患者的anagrafica
+Media Priorities
+设置税码不应该是ZCCRCC80D13G942U
+be registered in S I O
+Description test
+输入税：ZCCRCC80D13G942U
+名字：Rocco
+Surname: Zaccagnino
+Sex: M
+Birth date: 13/04/1980
+Place of birth: Power
+出生地：PCS
+地址：fraz Paoladoce 26
+Place of residence: Avigliano
+居住省份：PCS
+ZIP code: 85020
+Contact information: 0971/87267 347/9908973
+Oracle系统允许注册
+数据
+课程覆盖有效：CE1 CE3 CE5 CE8 CE10
+CE12 CE14 CE16 CE18 CE20 CE23 CE24
+CE28
+类无效：无

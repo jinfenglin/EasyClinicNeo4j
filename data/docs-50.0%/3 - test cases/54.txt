@@ -1,0 +1,18 @@
+按日期登录运算符测试用例：
+C04登录于SIO和20/06/2003
+密码错误
+（少
+characters)
+Version:
+0 02 000
+Use Case He performs the functions
+UcValOpe necessary to authenticate an
+Operator
+高优先级
+Set up the login Rocolo is `recorded in the SIO
+描述测试
+Input Login: Rocolo
+Password: vir
+Oracle无效输入：密码
+课程覆盖有效：CE2
+Classes invalid: CE8

@@ -1,0 +1,47 @@
+Class GUIPrenotaVisita Date: 16/09/2003
+Version: 0 01 000
+说明在管理上制作蒙版
+预约参观
+Attributes
+名称访问说明
+Private btnAnnulla button that allows you to return
+implemented by the mask
+GUIPaziente
+Private btnConfermaTipo button that allows you to confirm
+type of access to reservation
+Private btnPrenota button that allows you to confirm
+Reservations
+Private panelDataVisita panel containing the date of
+proposed visit by the system
+Private panelDati panel containing the necessary data
+to make a reservation
+包含各种类型的私人panelTipoVisita面板
+visit which can be booked
+Methods
+签名notificaSuccesso（）公共访问
+Description Its task is to notify the success
+of
+Signature show () Public Access
+说明查看蒙版
+Signature visualizzaDataVisi Public Access
+ta ()
+Description View date proposed by the system
+Signature visualizzaDatiVisi Public Access
+ta ()
+Description View data for a reservation
+Signature eliminaPrenotazione () Public Access
+Description Manages the event generated when the Operator
+Select a reservation and start the procedure
+delete
+Signature modificaPrenotazione () Public Access
+Description Manages the event generated when the Operator
+Select a reservation and start the procedure
+changing
+Signature prenotaVisita () Public Access
+Description Manages the event generated when the Operator
+select and start the reservation process
+新的访问
+签名primaVisita（）公共访问
+Description Manages the event generated when the Operator
+选择一个预订并开始程序
+reservation a first visit

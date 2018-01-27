@@ -1,0 +1,18 @@
+Login Operator test case by Date:
+C04 login registered in S I O and 20/06/2003
+密码错误
+（少
+字符）
+版：
+0 02 000
+用例他执行这些功能
+UcValOpe necessary to authenticate an
+操作者
+High Priority
+Set up the login Rocolo is `recorded in the SIO
+描述测试
+Input Login: Rocolo
+密码：为
+Oracle Invalid Input: Password
+课程覆盖有效：CE2
+Classes invalid: CE8

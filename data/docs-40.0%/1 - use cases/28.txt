@@ -1,0 +1,36 @@
+Report examinations
+它允许操作员拥有一个
+report on tests carried out in
+reference to visits made in
+outpatient
+运营商有兴趣拥有一个
+进行测试报告
+The Operator has been recognized by `
+System (See UcValOp)
+The operator activates the execution of
+报告服务考试
+1 View the mask
+供观看
+报告
+exams
+2 Select the
+storm
+3确认您的选择
+4访问数据库和
+found in the
+需要培训
+5 View
+获得的信息
+运营商决定打印
+information
+5 1 Start printing information
+displayed
+5 2生成报告并将其发送到
+打印机
+Operator cancels the operation
+3 1 ends the use case with failure
+2 1 The system displays a list of exams
+indicating the date prescribed prescription
+completion date patient medical
+处方者诊断和实验室在哪里
+The examination was carried out is

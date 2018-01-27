@@ -1,0 +1,22 @@
+测试机构删除日期日期：
+C45 Hospital following a First 20/06/2003
+visit and that is
+最后一次预订
+制作
+版：
+0 02 000
+用例满足删除的请求
+UcAnnPre预订服务
+made by an ambulatory patient
+高优先级
+Set up the previous reservation is `:
+26/09/2003小时11 00首次访问
+之后没有任何保留
+selected
+描述测试
+选择输入访问：
+30/09/2003 hours 08 00 Day Hospital
+The oracle system deletes the reservation
+selected
+Classes cover valid: CE2 CE7 CE10
+类无效：无

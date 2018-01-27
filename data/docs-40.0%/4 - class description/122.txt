@@ -1,0 +1,26 @@
+Class GUIAnagrafica Date: 16/09/2003
+Version:
+0 01 000
+Description abstract class used to define
+GUIAnagraficaLaboratorio of classes and
+GUIAnagraficaMadico
+属性
+名称访问说明
+Private btnElimina button that allows you to start
+delete procedure
+实验室的anagrafica
+医生
+Private btnModifica button that allows you to start
+更改anagrafica的程序
+一个实验室或医生
+私人btnNovo按钮，允许您启动
+procedure for input a
+laboratory or doctor
+Private panelDati panel containing all the data
+关于他们的年龄
+examination
+Methods
+Signature notificaSuccesso () Public Access
+Description Displays a message to notify the
+开展的手术取得成功
+by operator

@@ -1,0 +1,35 @@
+Show anagrafica
+Allows a patient of view
+their anagrafica data using the
+specific locations displaced
+of the outpatient
+他有兴趣访问你的
+anagrafica information
+`The patient has been recognized by
+system
+(See UcAccTB)
+The patient obtains
+显示他们的数据
+anagrafica
+病人激活执行
+service display their
+data anagrafica
+1 Access to the database and
+retrieves information
+关于注册表
+Patient
+2 View
+个人信息
+患者
+Patient decides to print
+Information displayed
+2 1 Start printing the list of
+Reservations
+2 2 generates the report and sends it to
+Printer
+2 1 The age of a patient is characterized by `
+following data: name surname sex code
+Tax date of birth place of birth
+地址的出生地
+home province of residence address ZIP code
+Additional telephone and Notes

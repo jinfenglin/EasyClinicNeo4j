@@ -1,0 +1,18 @@
+Test case reservation a visit Date:
+在2003年6月20日之前的C42控制
+Before a visit
+版：
+0 02 000
+Use Case Meets the request for a reservation
+UcPreVis service by Outpatient a
+患者
+Media Priorities
+设置最后一个预定是`：
+03/09/2003小时09 00首次访问
+描述测试
+输入类型选择访问：访问
+查
+Oracle Sequence invalid The system
+允许预约访问
+Classes cover valid: ce3 CE6
+类无效：无

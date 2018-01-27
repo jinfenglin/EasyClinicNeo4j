@@ -1,0 +1,17 @@
+Test case reservation a First Date:
+2003年6月20日前C32访问
+首次访问
+版：
+0 02 000
+使用案例满足预约的要求
+UcPreVis service by Outpatient a
+patient
+高优先级
+设置最后一个预定是`：
+24/09/2003 hours 09 00 First visit
+Description test
+输入类型选择访问：首次访问
+Oracle Sequence invalid The system
+allows the reservation of the visit
+Classes cover valid: CE1 CE6
+类无效：无

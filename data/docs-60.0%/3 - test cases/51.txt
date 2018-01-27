@@ -1,0 +1,20 @@
+Test case Operator Login Date:
+C01的登录截止日期为20/06/2003
+正确和不正确的密码
+扭矩（登录密码）
+在S I O中
+Version:
+0 02 000
+Use Case He performs the functions
+UcValOpe验证一个
+操作者
+High Priority
+The couple set up (login password) = (Rocolo
+Virago）被记录在`S我O.
+Description test
+Input Login: Rocolo
+Password: Virago
+Oracle系统允许访问
+运营商
+类别覆盖有效：CE1 CE2 CE6 CE7
+类无效：无

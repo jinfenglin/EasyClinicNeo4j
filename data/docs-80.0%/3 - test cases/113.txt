@@ -1,0 +1,20 @@
+通过患者数据登录测试案例：
+C63卡医院，但正确20/06/2003
+不存储在S I O和
+PIN recorded in S I O
+Version:
+0 02 000
+Use Case He performs the functions
+UcLogPaz验证一个
+患者
+高优先级
+The Hospital set up 00,034 Card is not registered in `
+并与O.
+PIN是在SIO中记录的65,323
+描述测试
+医院输入卡：00,034
+pin: 65,323
+Oracle系统不允许访问
+患者
+Classes cover valid: CE1 CE7
+课程无效：CE5

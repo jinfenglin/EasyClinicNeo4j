@@ -1,0 +1,64 @@
+显示诊所文件夹
+允许患者查看
+诊所文件夹自己的文件夹使用
+具体地点流离失所
+的门诊病人
+He has an interest in access to your
+文件夹诊所
+`病人已被确认
+系统
+（见UcAccTB）
+The patient obtains
+display information
+载于他们的诊所文件夹
+病人激活执行
+service display Folder
+诊所
+1访问数据库和
+检索信息
+在文件夹上
+临床病人
+2查看详情
+病人和名单
+的访问
+按时间顺序排列
+病理
+Patient displays details visit
+2 1 Select a visit from the list and
+需要查看细节
+2 2访问数据库并检索
+选择访问的细节
+2 3 Display the mask containing the
+访问的细节
+病人决定打印
+夹自己的诊所
+2 1开始打印文件夹
+Clinical
+2 2生成报告并将其发送到
+打印机
+病人决定打印
+访问的细节
+2 3 1开始打印详细信息
+访问
+2 3 2 generates the report and sends it to
+Printer
+2 1 For each visit lists the date the
+进行调查的医生的名字和
+reason for the visit
+2 3每次访问列出日期
+name of the doctor who made the visit
+reason for the visit and accused by illnesses
+病人的历史由医生做出
+diagnostic tests prescribed therapy
+(giving medicines and time of recruitment)
+他们需要altres报告值
+任何观察都是有用的
+during the visit (eg heartbeat
+血压值为n数
+dioptres found etc) For examinations
+生物和/或仪器一旦这些
+have been made are given the
+information relating to the laboratory that has
+作出和每个结果的价值
+检查和诊断评估由
+医生

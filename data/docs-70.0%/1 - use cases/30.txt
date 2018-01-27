@@ -1,0 +1,39 @@
+Plans reservations
+它允许操作员查看和/或
+以表格形式打印
+为每种类型预订
+访问
+The Operator's interest to see
+和/或打印预订计划
+制作
+运营商已被``认可
+系统（请参阅UcValOp）
+The operator activates the execution of
+服务查看和/或打印
+Plans reservations
+1查看蒙版
+To view and
+打印计划
+预订
+2选择类型
+visit
+3启用
+4访问数据库和
+在...中找到
+需要培训
+5查看
+information obtained
+运营商决定打印
+信息
+5 1 Start printing information
+显示
+5 2生成报告并将其发送到
+Printer
+操作员取消操作
+3 1 ends the use case with failure
+2 1操作员可以“选择的访问类型
+是：第一次访问日和医院访问
+Check
+本计划中的每项预订为5 1
+保留是名字和
+name of patient

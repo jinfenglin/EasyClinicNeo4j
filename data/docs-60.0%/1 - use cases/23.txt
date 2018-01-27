@@ -1,0 +1,35 @@
+Show anagrafica
+Allows a patient of view
+他们的anagrafica数据使用
+具体地点流离失所
+的门诊病人
+He has an interest in access to your
+anagrafica information
+`病人已被确认
+系统
+(See UcAccTB)
+病人获得
+显示他们的数据
+注册处
+The patient activates the execution of
+服务展示他们的
+个人资料
+1访问数据库和
+retrieves information
+关于注册表
+患者
+2视图
+个人信息
+患者
+Patient decides to print
+Information displayed
+2 1开始打印清单
+Reservations
+2 2 generates the report and sends it to
+打印机
+2 1 The age of a patient is characterized by `
+following data: name surname sex code
+出生地点的出生日期
+地址的出生地
+home province of residence address ZIP code
+额外的电话和笔记

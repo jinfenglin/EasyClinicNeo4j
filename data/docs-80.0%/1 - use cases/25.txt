@@ -1,0 +1,31 @@
+验证患者
+他努力执行这些功能
+认证一个必要的
+患者
+it's Interest to log on to
+看到你的信息
+病人必须拥有
+Hospital Card
+The patient is not recognized `
+system
+成功：病人被认可
+系统和访问其部分
+Patient access to Box Tower
+1 View the mask
+为操作
+登录
+2输入代码
+医院卡和代码
+pin
+3确认验证
+4 Verify that the couple
+（医院卡密码）
+识别病人
+在S I O内
+患者取消功能
+验证
+3 1结束了用例的执行
+失败
+验证失败
+4 1显示适当的信息
+4 2从1步重新插入运行

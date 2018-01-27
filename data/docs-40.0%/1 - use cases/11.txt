@@ -1,0 +1,45 @@
+Input examination
+它允许操作员录制
+results of a examination  supported by a
+patient required a visit
+held in outpatient
+运营商有兴趣进入
+details of a review supported by a
+Patient
+The Operator has been recognized by `
+System (See UcValOp) and the visit to
+refers the examination must be already
+recorded in the S I O
+The data in the S I O
+not be modified
+成功：文件夹诊所病人
+认为考试更新了
+The operator activates the execution of
+input service  of data from an
+examination
+1查看蒙版
+记录
+的考试
+2 Input necessary data to
+registration
+的考试
+3 Confirm input
+4验证插入的数据
+由操作员
+5店铺数据确认消除
+6 Notify the operator
+that the operation was `
+成功结束
+无效的数据集
+4 1显示适当的信息
+4 2 take back running from 1 step
+underpinned the fields of the form with data
+由用户插入
+Operator cancels the operation
+注册
+3 1 ends the use case with failure
+4 1注册a。所需的数据
+考虑的是：考试的类型
+information relating to the laboratory where they
+made the values of the results and
+diagnostic evaluation made by the doctor

@@ -1,0 +1,25 @@
+Medical Class Date: 20/09/03
+Version:
+0 01 000
+Contains the description of doctors who are age
+at outpatient
+属性
+名称访问说明
+私人的Anno Abilitazione医生在哪一年
+许可执业
+职业
+方法
+Signature create () Public Access
+说明它的任务是创建一个新类型的对象
+医生
+签名删除（）公共访问
+It description of the delete of a
+doctor
+签名GetAttributes（）公共访问
+It description of the retrieval of all
+有关医生的信息
+签名保存（）公共访问
+描述提供一个数据的存储
+S I O内的医生
+签名setAttributes（）公共访问
+It description to set the attributes of a physician

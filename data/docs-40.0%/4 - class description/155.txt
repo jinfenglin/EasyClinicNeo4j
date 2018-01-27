@@ -1,0 +1,30 @@
+Class Visit Date: 15/09/2003
+版：
+0 01 000
+它包含了一个访问的数据描述
+outpatient
+属性
+Name Access Description
+历史造就了历史私人医生
+Private Data on where the patient has
+支持访问
+Private diagnosis made by medical diagnosis
+私人理由理由参观
+私人rilevazioniStrume仪器观察
+在访问期间
+Private therapy treatment prescribed by the doctor
+Methods
+签名创建（）公共访问
+Description Its task is to create a new object of type
+访问
+Signature delete () Public Access
+Provides description of a visit to
+Signature save () Public Access
+说明为数据提供数据存储
+visit within the S I O
+Signature GetAttributes () Public Access
+It description to find all the information
+on a visit
+Signature setAttributes () Public Access
+它描述了设置a的属性
+Patient

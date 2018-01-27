@@ -1,0 +1,17 @@
+测试机构删除第一个日期：
+C44访问20/06/2003
+版：
+0 02 000
+Use Case Meets the request for delete of
+UcAnnPre预订服务
+由一位非卧床患者制成
+高优先级
+Set up There are no previous reservations and
+后续保留
+描述测试
+选择输入访问：
+03/09/2003小时09 00首次访问
+The oracle system eliminates the reservation and
+从S I O中删除患者
+课程覆盖有效：CE1 CE6 CE10
+Classes are not valid: None

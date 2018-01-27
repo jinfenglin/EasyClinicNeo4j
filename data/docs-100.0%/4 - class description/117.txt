@@ -1,0 +1,29 @@
+班级GUIPrenotazioni日期：18/09/2003
+版：
+0 01 000
+说明制作用于掩码的掩码
+显示保留
+由患者
+属性
+名称访问说明
+用于返回的私人btnRitorna按钮
+掩盖GUIPrincipale
+私有gridElenco网格在其中
+Only the reservations
+符合搜索标准
+由患者设置
+包含全部的私人列表应用列表
+Patient预订
+包含所有对象的专用panelParametri面板
+为患者提供可能性
+为研究设定参数
+预订：开始日期
+搜索和过滤类型访问
+方法
+签名visualizzaPrenotazioni（）公共访问
+说明过滤并显示预订
+listaAppuntamenti根据所选择的标准
+患者并在gridElenco中显示结果
+签名获得Prenotazioni（）公共访问权限
+说明获取预订列表
+由患者

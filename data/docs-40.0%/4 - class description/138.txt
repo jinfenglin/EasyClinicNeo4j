@@ -1,0 +1,22 @@
+GUIEliminaPrenotazione类日期：16/09/2003
+Version:
+0 01 000
+说明制作用于掩码的掩码
+management of an
+Reservations
+属性
+名称访问说明
+Private btnAnnulla button used to cancel
+the delete of a visit
+私人网格包含所有的ElencoPrenotaz列表
+积极保留
+a patient
+Methods
+Signature VisualizzaElencoPrenotazioni Public Access
+()
+Description Display the list of reservations
+made by Patient
+Signature eliminaPrenotazione () Public Access
+内容提要它的任务是找到信息
+necessary for the realization of
+GUIEliminaPrenotazione

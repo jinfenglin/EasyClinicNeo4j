@@ -1,0 +1,39 @@
+Class GUIPrincipale Date: 18/09/2003
+Version:
+0 01 000
+Description Make the main form of
+Easy Clinic2003 Box Tower This form is
+指导患者选择的任务
+要显示的信息
+属性
+Name Access Description
+Private btnAnagrafica button used to access the
+Personal Details section
+Private btnCartellaClin button used to access the
+ica section Folder Clinic
+Private btnPrenotazioni button used to access the
+Reservations section
+Private btnUscita button used to leave
+application
+方法
+Signature show () Public Access
+Description View mask
+Signature abilitaAccesso () Public Access
+Description Manages the event generated when the procedure
+validation ends with the success
+Patient is then enabled
+Signature cartellaClinica () Public Access
+Description Manages the event generated when the patient
+obtained access click Folder
+Clinic to access your folder
+Clinic
+Signature datiPaziente () Public Access
+Description Manages the event generated when the patient
+获得访问权后点击按钮数据
+Details to view its data
+details
+签名保留（）公共访问
+Description Manages the event generated when the patient
+obtained access click the button
+Reservations to see reservations
+which set

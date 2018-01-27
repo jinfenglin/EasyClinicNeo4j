@@ -1,0 +1,18 @@
+验证测试用例患者数据：
+C08 Card Hospital through 20/06/2003
+correct (5 digits) and
+in S I O
+Version:
+0 02 000
+Use Case He performs the functions
+UcValPaz验证一个
+患者
+High Priority
+The Hospital set up 00,001 Card must be
+recorded in S I O
+Description test
+医院输入卡：00,001
+oracle操作员访问操作
+validated patient
+课程覆盖有效：CE1 CE2
+Classes are not valid: None

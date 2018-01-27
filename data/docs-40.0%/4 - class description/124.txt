@@ -1,0 +1,22 @@
+Class GUIAnagraficaMedico Date: 16/09/2003
+Version:
+0 01 000
+Description Make the mask on the management
+the anagrafica of doctors
+Attributes
+名称访问说明
+包含该信息的私有网格ElencoMedici列表
+在美国注册的医生的校长
+并与O.
+Methods
+Signature visualizzaDatiMedico () Public Access
+Description View details of the doctor selected
+部分panelDati
+Signature visualizzaElencoMedicii () Public Access
+说明查看在中注册的医生名单
+I S O
+Signature gestioneAnagrafica () Public Access
+It description of the retrieval of all
+information necessary for the organization
+通过掩码实现
+GUIAnagraficaMedico

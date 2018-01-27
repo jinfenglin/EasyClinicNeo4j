@@ -1,0 +1,25 @@
+访问部分病人
+它允许访问这个病人
+by enabling the operator to
+符合收到的一个或多个请求
+由患者
+The Operator's interest to access the section of
+病人为了
+奴役从收到的请求
+患者
+运营商已被``认可
+系统（请参阅UcValOp）
+系统拒绝访问
+病人部分
+成功：运营商获得访问权限
+部分，并使病人能够
+meet the requests received from
+Patient
+The operator activates the execution of
+service access to section patient
+Includes 1 (valid patient)
+2查看掩码
+section patient
+Operator cancels the operation
+访问病人会议
+3 1 ends the use case with failure

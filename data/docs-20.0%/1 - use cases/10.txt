@@ -1,0 +1,38 @@
+删除访问
+It allows the operator to delete a
+访问先前记录
+The Operator's interest to delete a
+Visit previously recorded
+The Operator has been recognized by `
+系统（请参阅UcValOp）和访问
+is registered in the S I O
+The data in the S I O
+not be modified
+Success: The Folder Clinic Patient
+which was submitted to visit
+eliminated is updated
+The operator activates the execution of
+service elimination of a visit
+1 View the list of
+visits in
+按时间顺序排列
+2 Select the visit to
+delete
+3 Confirm the selection
+4 View the mask
+for viewing
+的访问
+5 Confirm the delete
+6 Delete the visit and
+examinations related to it
+Notify the operator 7
+that the operation was `
+concluded successfully
+Operator cancels the operation
+Review
+3 1 ends the use case with failure
+5 1
+4 1面具将包含访问数据
+selected so as to allow the operator
+在继续之前详细验证它们
+to delete

@@ -1,0 +1,15 @@
+Class GUIResocontoVisite日期：16/09/2003
+版：
+0 01 000
+Description Make the mask on the management of
+reports of visits required in outpatient
+Attributes
+名称访问说明
+包含参数的专用panelParametri面板
+necessary to set criteria
+创建访问报告
+Methods
+签名resocontoVisite（）公共访问
+它描述了所有的信息
+生成报告所必需的
+符合规定的标准

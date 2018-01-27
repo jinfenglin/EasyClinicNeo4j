@@ -1,0 +1,28 @@
+编辑日间医院的测试案例日期：
+C56在两次访问之间20/06/2003
+control in a position
+两次访问之间
+check
+版：
+0 02 000
+Use Case Meets the request for modification of a
+UcModVis服务由Outpatient a
+patient
+Media Priorities
+Set up the previous reservation is `:
+07/10/2003小时09 30访问控制
+预订是'下一步：
+09/10/2003 hours 10 00 Visit control
+New reservation was
+09/10/2003小时9 00访问控制
+稍后再次预订：
+13/10/2003小时9 00访问控制
+Description test
+Input: Visit selected:
+08/10/2003营业时间08 00日间医院
+评论：
+08/10/2003小时8 00
+Oracle：系统允许更改
+Reservations
+Classes cover valid: CE4 CE9 CE14 CE19 CE22
+：类无效：无

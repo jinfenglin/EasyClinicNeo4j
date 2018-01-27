@@ -1,0 +1,17 @@
+测试用例预订一天日期：
+C35医院在20/06/2003之前
+首次访问
+Version:
+0 02 000
+Use Case Meets the request for a reservation
+UcPreVis service by Outpatient a
+患者
+High Priority
+设置最后一个预定是`：
+26/09/2003小时11 00首次访问
+描述测试
+输入类型选择访问：日间医院
+The Oracle system enables the reservation of
+访问
+课程覆盖有效：CE2 CE6
+Classes are not valid: None

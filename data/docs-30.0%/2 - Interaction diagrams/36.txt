@@ -1,0 +1,32 @@
+Record visit
+
+This feature is has been described by
+collaboration diagrams of Fig 3 21 the main scenario: the
+服务在显式请求之后启动
+The actor part of the operator access to the mask
+main (for instance GUIPrincipale) and there select the function
+The management visits then passes control to the instance of
+GUIPrincipaleHandler which delegates to the instance of
+GUIVisitaHandler the task of providing the service The first step
+是获取所有访问的列表
+in outpatient therefore control passes to the instance of
+VisiteManager通过迭代过程是货物
+所有访问的检索和每一步都是在
+如下所示：通过VisiteManager找到该面板
+The body of data on visits to a visit and
+then passes control to the instance of that EsamiManager
+provides through instances of Examination for finding all
+examinations on the same visit This list is passed
+GUIVisitaHandler将显示其实例
+the visits made on the mask on the
+management visits (for instance GUIVisite) The Operator
+选择功能访问位置插入数据
+Visit the new and confirms control passes to the application
+GUIVisiteHandler的代表团即将进入
+new visit to the instance of VisiteManager latter through
+Visit the panel and ensure the inclusion of rescue
+data on a new tour and return control application
+GUIVisitaHandler负责通知
+success by viewing a
+message in the form of management
+visits (for instance GUIVisita)

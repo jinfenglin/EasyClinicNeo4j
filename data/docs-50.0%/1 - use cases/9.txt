@@ -1,0 +1,88 @@
+改变访问
+它允许操作员更改一个
+访问先前记录
+运营商对变更有兴趣
+Visit previously recorded
+该运营商已被认可
+System (See UcValOp) visit
+在S I O中注册
+操作员和收到的数据
+visit to be changing
+The clinic of Folder
+Patient who was subjected to `visit
+is not changed
+成功：关于的信息
+Visit concerned are updated
+文件夹内的诊所
+Patient
+操作员激活执行
+服务编辑访问
+1查看列表
+visits in
+按时间顺序排列
+2选择通过
+更改
+3 Confirm your selection
+4查看蒙版
+为了修改一个
+visit
+5 Changing data of the
+访问
+6确认更改
+7验证数据插入
+by operator
+8记住
+updates
+9通知操作员
+that the operation was `
+concluded successfully
+关于a的数据输入
+new examination
+5 1 Inserting new examination
+操作员有兴趣输入数据
+an examination of the visit in object
+5 2 Return to step 5
+更改考试数据
+5 1
+Change examination data
+
+The Operator's interest to modify the data
+考察访问
+
+编辑评论
+5 2 Return to step 5
+Changing data on a
+检查
+5 1
+删除数据检查
+
+The Operator's interest to delete data
+考察访问
+
+Delete examination
+5 2 Return to step 5
+Invalid data set
+7 1 Show an appropriate message
+7 2 take back running from 4 step
+underpinned the fields of the form with data
+由操作员插入
+操作员取消操作
+change
+3 1结束失败的用例
+6 1
+4 1 The data required for registration of
+访问的对象是：那个医生名字的那个日期
+carried out the survey the reason for the visit
+illnesses accused by the patient history
+made by medical diagnosis tests
+规定的治疗规定（指示
+药品和招聘时间）和'必要的
+Furthermore, the inclusion of possible values
+instrumental observations made during the visit
+(eg heart beat the pressure
+n个血液中发现的屈光度等）
+对于生物测试和/或器械是`
+必须输入信息
+laboratory that has made them the values of
+每次检查和评估的结果
+diagnosis made by medical

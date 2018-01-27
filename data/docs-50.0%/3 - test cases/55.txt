@@ -1,0 +1,18 @@
+Login Operator test case by Date:
+C05登录注册于S I O和20/06/2003
+incorrect password
+(higher
+characters)
+Version:
+0 02 000
+用例他执行这些功能
+UcValOpe验证一个
+操作者
+高优先级
+设置登录Rocolo是在SIO中录制的
+描述测试
+输入登录名：Rocolo
+Password: rocolivirago
+Oracle Invalid Input: Password
+课程覆盖有效：CE2
+Classes invalid: CE9

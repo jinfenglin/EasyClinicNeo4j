@@ -1,0 +1,18 @@
+Validation test case Patient Data:
+C11 Card Hospital through 20/06/2003
+但没有妥善保存
+在S I O中
+版：
+0 02 000
+用例他执行这些功能
+UcValPaz验证一个
+Patient
+高优先级
+医院不应该设置99,999张卡
+recorded in S I O
+描述测试
+Hospital Input Card: 99,999
+Oracle系统不允许访问
+section on Patient
+Classes cover valid: CE1
+Classes invalid: CE5

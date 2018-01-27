@@ -1,0 +1,17 @@
+类OperatoreManager日期：
+16/09/2003
+版：
+0 01 000
+说明具有管理操作访问的任务
+轻松的软件系统Clinch 2003 Operator
+由
+Attributes
+名称访问说明
+
+方法
+Login Signature () Public Access
+说明它的任务是管理操作登录
+的
+签名注销（）公共访问
+说明它的任务是管理操作注销
+的

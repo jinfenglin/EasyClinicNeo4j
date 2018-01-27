@@ -1,0 +1,45 @@
+Class GUIPaziente Date: 16/09/2003
+Version: 0 01 000
+Description Make the mask on the management
+of reservation by Patient
+the operator
+Attributes
+Name Access Description
+Private btnAnnullaPrenot button that allows you to start
+行动程序删除一个
+procedure
+Private btnModificaDatiP button that allows you to start
+pazient procedure for changing the data
+anagrafica Patient
+Private btnModificaPreno button that allows you to start
+assessment procedure for changing a
+Reservations
+Private btnPrenotaVisita button that allows you to start
+reservation procedure of a
+访问
+方法
+Signature show () Public Access
+Description View mask
+Signature abilitaAccesso () Public Access
+Description Manages the event generated when the procedure
+验证进展顺利
+签名消除Prenotazione（）公共访问
+Its task description call the handler class
+associated with the mask represented by
+GUIEliminaPrenotazuione and begin the process
+删除保留
+Signature modificaAnagrafica () Public Access
+Description Its task is to draw handler class
+associated with the mask represented by
+GUIAnagraficaPaziente and begin the process of
+Review of data anagrafica Patient
+Signature modificaPrenotazione () Public Access
+Description Its task is to draw handler class
+与面具相关的面具
+GUIAnagraficaPaziente并启动程序
+Review of data relating to a reservation
+签名bookVisit（）公共访问
+Description Its task is to draw handler class
+associated with the mask represented by
+GUIPrenotaVisita and start the procedure
+reservation a visit

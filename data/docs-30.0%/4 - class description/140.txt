@@ -1,0 +1,38 @@
+GUIVisita类日期：
+16/09/2003
+Version:
+0 01 000
+Description Make the mask used for managing
+of visits within
+的门诊病人
+Attributes
+Name Access Description
+私人btnDelete按钮，让您启动
+删除程序
+visit
+私人btnEdit按钮，可以让你开始
+procedure for changing a visit
+Private btnNew button that allows you to start
+procedure for input a new
+访问
+Private btnSave button that allows you to start
+procedure to save a visit
+只是改变或添加
+Private btnUndo button that allows you to cancel
+The last operation performed
+Methods
+签名notificaSuccesso（）公共访问
+Description Its task is to notify the success
+of
+签名visualizzaElencoVisite（）公共访问
+Description Its task is to see the list of
+访问
+Signature examinations () Public Access
+Description Its task is to manage the event generated
+When the operator selects a visit
+from the list and requires access to the section
+that shows the examination to such
+visit
+Signature visit () Public Access
+Description Its task is to find the information
+necessary for the realization of GUIVisita

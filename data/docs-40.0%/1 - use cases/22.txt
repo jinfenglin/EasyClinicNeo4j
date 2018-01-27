@@ -1,0 +1,33 @@
+Show Reservations
+允许患者查看
+The list of reservation profits
+使用适当的位置
+流离失所的门诊病人
+He has an interest in access to the
+他们的预订利润
+`The patient has been recognized by
+system
+(See UcAccTB)
+病人获得
+显示其列表
+预订
+The patient activates the execution of
+服务显示
+their reservations
+1 Access to the database and
+retrieves information
+on the reservation
+Patient information useful
+2 View the list of
+bookings
+the patient in order
+chronological
+病人决定打印清单
+reservations
+2 1 Start printing the list of
+Reservations
+2 2生成报告并将其发送到
+打印机
+2 1 for each reservation lists the date
+时间类型的访问以及为什么
+访问

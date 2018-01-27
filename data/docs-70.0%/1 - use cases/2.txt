@@ -1,0 +1,54 @@
+Changing anagrafica laboratory
+它允许操作员进行更改
+the anagrafica of a laboratory analysis
+它处理数据的修改
+关于实验室的anagrafica
+分析
+该运营商已被认可
+系统（请参阅UcValOp）和anagrafica
+实验室在里面
+并与O.
+阿格拉菲卡的数据
+laboratory are not changed:
+首先留在该州
+of
+成功：实验室的anagrafica
+is properly amended
+操作员激活执行
+服务变更的anagrafica的
+实验室
+1查看列表
+实验室
+在S I O中
+2选择实验室更改
+the anagrafica
+3确认您的选择
+4 View the mask
+进行编辑
+the anagrafica of
+实验室
+5改变
+laboratory
+确认更改6
+7验证操作员插入的数据
+8 Remember the
+更新
+9通知该操作
+it is finished with
+成功
+数据输入无效
+7 1 Display a message showing the
+data deemed invalid
+7 2从4重新插入
+用数据支持表单的字段
+进入
+操作员取消操作
+3 1结束了用例的执行
+6 1失败
+5 1 The anagrafica of a laboratory is characterized `
+通过以下数据：名称增值税
+地址城市省CAP地址
+Additional telephone and Notes
+注意：斜体是突出显示的数据
+Optional whose inclusion does not affect
+on the proper completion of

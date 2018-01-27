@@ -1,0 +1,16 @@
+Test case reservation a Day Date:
+C38 Hospital by a 20/06/2003
+new patient
+版：
+0 02 000
+使用案例满足预约的要求
+UcPreVis service by Outpatient a
+患者
+High Priority
+设置没有以前的保留
+Description test
+Input type selected visit: Day Hospital
+Oracle Sequence invalid The system
+允许预约访问
+Classes cover valid: CE2 CE5
+Classes are not valid: None

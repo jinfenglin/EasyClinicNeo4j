@@ -1,0 +1,40 @@
+Report reservations
+It allows the operator to have a
+report on reservation
+The Operator's interest to have a
+report of reservation done
+运营商已被``认可
+System (See UcValOp)
+The operator activates the execution of
+service report reservation
+1 View the mask
+for viewing of the report of reservation
+2 Select the
+time gap
+3选择类型
+Information summary
+4 Confirm selection
+5 Access to the database and
+在...中找到
+需要培训
+6查看
+information obtained
+Operator decides to print
+information
+6 1 Start printing information
+displayed
+6 2 generates the report and sends it to
+Printer
+操作员取消操作
+4 1结束失败的用例
+3 1 An operator can "access the following
+summary information:
+for a particular patient you want
+know the sequence of bookings
+in a given period or throughout the period
+它在哪里与诊所联系
+specifying the dates of appointments and
+the types of visit;
+for a specific date you want
+a list of all reservations
+made

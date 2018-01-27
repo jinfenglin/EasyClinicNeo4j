@@ -1,0 +1,18 @@
+Login Operator test case by Date:
+C03 login incorrect (number 20/06/2003
+top character) and
+密码存储在
+I S O
+Version:
+0 02 000
+Use Case He performs the functions
+UcValOpe验证一个
+Operator
+高优先级
+设置Virago密码被记录在SIO中
+Description test
+输入登录名：roccoliveto
+Password: Virago
+Oracle无效的输入：登录
+课程覆盖有效：CE7
+Classes invalid: CE4

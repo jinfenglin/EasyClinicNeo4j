@@ -1,0 +1,54 @@
+改变医生anagrafica
+它允许操作员进行更改
+工作的医生的anagrafica
+在门诊
+It deals with the modification of data
+关于医生anagrafica
+The Operator has been recognized by `
+系统（请参阅UcValOp）和年龄
+“医生在场。”
+并与O.
+The anagrafica data of the doctor
+没有修改，留在
+这是之前
+成功：私人医生是
+正确改变
+The operator activates the execution of
+改变医生anagrafica的服务
+1 View the list of
+医生在场
+在S I O中
+2选择anagrafica医生哪个
+改变anagrafica
+3 Confirm the selection
+4 View the mask
+改变
+医生anagrafica
+5 Changing the anagrafica of
+医生
+6 Confirm Changes
+7验证操作员插入的数据
+记住8
+更新
+通知9该操作
+它完成了
+成功
+数据输入无效
+7 1 Display a message showing the
+数据无效
+7 2从4回收跑步
+用数据支持表单的字段
+insert by user
+操作员取消操作
+3 1 ends the execution of use case with
+6 1 failure
+5 1医生的anagrafica的特点是
+following data: name surname sex code
+出生地点的出生日期
+地址的出生地
+居住地址省邮政编码
+telephone specialization year
+certification and additional notes
+NB: In italics are highlighted data
+可选的包含不影响
+正确完成操作

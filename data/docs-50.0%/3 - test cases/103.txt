@@ -1,0 +1,29 @@
+编辑日间医院的测试案例日期：
+C53 preceded by a First 20/06/2003
+访问，然后是一个
+访问控制
+两个之间的位置
+监测访问
+Version:
+0 02 000
+用例满足修改a的请求
+UcModVis服务由Outpatient a
+患者
+High Priority
+设置以前的保留是`：
+26/09/2003 hours 11 00 First visit
+The reservation is `Next:
+02/10/2003小时09 00访问控制
+新的预订是
+06/10/2003 hours 09 00 Visit Control
+稍后再次预订：
+13/10/2003 hours 09 30 Visit Control
+描述测试
+Input Visit selected:
+29/09/2003 hours 08 00 Day Hospital
+Review:
+08/10/2003 hours 08 00
+The Oracle system does not allow editing of
+Reservations
+Classes cover valid: CE2 CE9 CE14 CE19 CE22
+类无效：无

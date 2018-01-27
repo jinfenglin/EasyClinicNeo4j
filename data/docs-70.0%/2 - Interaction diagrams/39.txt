@@ -1,0 +1,17 @@
+访问部分患者失败（通过代码
+医院卡）
+这项服务是在明确要求之后发起的
+由演员操作员登录形成
+on the management section of the patient (body
+的GUILoginPaziente）插入医院卡的代码
+已提出请求并选择功能的患者
+验证控制然后应用
+代表实例的GUILoginPazienteHandler
+HospitalCardManager管理服务的任务
+后者负责验证输入的数据
+through the application of the Hospital Card fails
+the transaction is notified backward up to the instance of
+GUILoginPazienteHandler which shall display
+an error message on screen access (application
+of GUILoginPaziente) This feature has been described by `
+图3的序列图14

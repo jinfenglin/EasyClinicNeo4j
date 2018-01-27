@@ -1,0 +1,18 @@
+Test case reservation a visit Date:
+在20/06/2003之前的C40控制
+日间医院
+版：
+0 02 000
+Use Case Meets the request for a reservation
+UcPreVis service by Outpatient a
+患者
+High Priority
+Set up The last reservation is `:
+03/10/2003营业时间08 00日间医院
+描述测试
+Input type selected visit: Visit
+check
+The Oracle system enables the reservation of
+visit
+Classes cover valid: ce3 CE7
+Classes are not valid: None

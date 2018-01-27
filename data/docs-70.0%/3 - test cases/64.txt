@@ -1,0 +1,17 @@
+Validation test case Patient Data:
+C14 tax code by not 20/06/2003
+correct (higher
+figures), but not this
+在S I O中
+版：
+0 02 000
+用例他执行这些功能
+UcValPaz验证一个
+患者
+高优先级
+设置不确定
+描述测试
+输入税：ZCCRCC80D13G942UZCCRCC
+Oracle输入无效
+Classes cover valid: None
+Classes invalid: CE9

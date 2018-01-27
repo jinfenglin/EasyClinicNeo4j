@@ -1,0 +1,22 @@
+Testing houses delete a Day Date:
+C45医院在第一次20/06/2003之后
+visit and that is
+最后一次预订
+制作
+Version:
+0 02 000
+Use Case Meets the request for delete of
+UcAnnPre预订服务
+made by an ambulatory patient
+高优先级
+Set up the previous reservation is `:
+26/09/2003小时11 00首次访问
+There are no reservations after
+selected
+Description test
+选择输入访问：
+30/09/2003 hours 08 00 Day Hospital
+The oracle system deletes the reservation
+selected
+课程覆盖有效：CE2 CE7 CE10
+Classes are not valid: None

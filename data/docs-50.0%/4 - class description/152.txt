@@ -1,0 +1,13 @@
+运营商级日期：20/09/03
+版：
+0 01 000
+It contains descriptions for your employees
+的门诊病人
+属性
+Name Access Description
+私人运营商登录登录
+与登录密码相关的私人密码
+Methods
+Signature validaOperatore () Public Access
+It description of the procedure for validation
+of Operator

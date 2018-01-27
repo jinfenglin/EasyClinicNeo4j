@@ -1,0 +1,66 @@
+reservation for a visit after initial
+该服务是在明确要求后发起的
+by the actor The Operator logs on to form
+Patient's main section (for instance GUIPaziente) and there
+check the function of reservation a visit next
+The first control and then passes to the instance of
+GUIPazienteHandler which delegates to the instance of
+GUIPrenotaVisitaHandler the task of managing the service
+
+选择访问类型
+
+The application of class GUIPrenotaVisitaHandler displays the
+面具上的预约参观
+患者必须服从（例如GUIPrenotaVisita）在此
+Operator select the form and confirms the type of access and
+control returns to the instance of which GUIPrenotaVisitaHandler
+delegating the task to insert a new one application
+of PrenotazioniManager
+
+Creating the new reservation
+
+通过应用程序Prenotazioni管理器的应用程序
+reservation creates a new reservation, at this point
+The body of Reservation shall verify the validity of
+reservation or check that the new reservation respects
+the sequence of reservation valid If the
+Reservations is a valid reservation shall notify the
+success of the creation of a reservation
+后退到GUIPrenotaVisitaHandler的实例
+
+Finding data available
+
+The application of the proxy class GUIPrenotaVisitaHandler
+to the instance of PrenotazioniManager task of finding the first
+date available when the visit can "keep this date is
+GUIPrenotaVisitaHandler given to the instance of which shall
+在窗体上显示它
+reservation a visit (for instance GUIPrenotaVisita)
+The Operator confirmed the date proposed by the system and control
+is returned to the instance of GUIPrenotaVisitaHandler
+
+
+
+
+
+
+
+
+节省预订
+
+The application of class GUIPrenotaVisitaHandler at this point
+proceed to store the reservation by delegating this
+PrenotazioniManager task to the instance of this application
+through the application for reservation shall saving
+data on the reservation Once this
+operation control passes to the instance of
+GUIPrenotaVisitaHandler which in turn deals with
+notify success by viewing
+a special message on the screen on the reservation
+a visit (for instance GUIPrenotaVisita)
+该功能是由该合作描述的
+图3的图17也是因为？书a
+门诊服务是它的核心
+被认为是用非活动图来评论这个功能
+(Fig 3 18) in order to make more clear the iterations
+我们是参与者和系统本身

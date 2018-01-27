@@ -1,0 +1,19 @@
+通过患者数据登录测试案例：
+Hospital C57 Card correct PIN 20/06/2003
+correct and the couple
+(Hospital Card PIN)
+in S I O
+Version:
+0 02 000
+Use Case He performs the functions
+UcLogPaz necessary to authenticate an
+patient
+高优先级
+The couple set up (Hospital Card PIN) = (00,001
+65323) is registered in the `S I O
+描述测试
+医院输入卡：00,001
+pin: 65,323
+The Oracle system allows access to the patient
+Classes cover valid: CE1 CE2 CE6 CE7
+Classes are not valid: None

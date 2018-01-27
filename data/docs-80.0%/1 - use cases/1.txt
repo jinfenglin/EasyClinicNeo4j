@@ -1,0 +1,47 @@
+实验室数据录入
+It allows the operator to enter
+the anagrafica of a laboratory
+分析或任何数据的
+表征
+有兴趣进入的年龄
+S I O内的实验室
+运营商已被``认可
+系统（请参阅UcValOp）并具有
+all the data that characterize
+the anagrafica of the laboratory
+S I O中的数据
+不被修改
+成功：实验室的anagrafica
+正确插入内部
+S我O
+操作员激活执行
+anagrafica输入服务
+Laboratory
+1查看蒙版
+进入
+需要的信息
+2插入有关anagrafica的数据
+实验室
+3确认放置
+4 Verify the data entered
+by
+5存储数据
+6通知该操作
+它完成了
+成功
+数据输入无效
+4 1显示一条消息显示
+数据被认为无效
+4 2重新插入从1开始运行
+用数据支持表单的字段
+进入
+Operator cancels operation
+3 1 ends the execution of use case with
+失败
+2 1实验室的anagrafica特点`
+通过以下数据：名称增值税
+地址城市省CAP地址
+额外的电话和笔记
+注意：斜体是突出显示的数据
+可选的包含不影响
+on the correct completion of operation

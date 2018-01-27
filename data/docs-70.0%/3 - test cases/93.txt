@@ -1,0 +1,17 @@
+预定日期类型的测试用例：
+C43 is not expected visit 20/06/2003
+在此之前访问
+查
+Version:
+0 02 000
+使用案例满足预约的要求
+UcPreVis service by Outpatient a
+患者
+媒体优先
+Set up The last reservation is `:
+07/10/2003小时10 00访问控制
+描述测试
+Input type selected visit: NP
+Oracle输入无效
+课程覆盖有效：CE8
+类无效：CE4

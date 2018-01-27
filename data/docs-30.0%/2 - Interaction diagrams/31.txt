@@ -1,0 +1,16 @@
+Operator Login Scenario validation run
+The service was launched following the express request
+by the actor Operator The access to the screen
+对系统的管理（例如
+GUILogin) enter login and password and check the function
+The validation then passes control to the instance of
+GUILoginHandler which delegates to the instance of OperatoreManager
+管理后者处理的任务
+验证使用面板输入的数据
+成功的运营商会收到通知
+backward up the application of which requires GUILoginHandler
+to the instance of GUIPrincipaleHandler to enable access to
+Patient applicant and that object shall display
+the main form (for instance GUIPrincipale) This
+feature is was described by the sequence diagram of
+Fig 3 2

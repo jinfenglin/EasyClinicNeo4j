@@ -1,0 +1,21 @@
+测试机构删除访问日期：
+在2003年6月20日之后的C49控制
+日间医院，并在之前
+Visit control
+版：
+0 02 000
+Use Case Meets the request for delete of
+UcAnnPre a booking service
+made by an ambulatory patient
+High Priority
+设置以前的保留是`：
+29/03/2003营业时间08 00日间医院
+预订是'下一步：
+02/10/2003 hours 09 00 Visit Control
+Description test
+选择输入访问：
+30/09/2003小时12 00访问控制
+oracle系统消除了预留
+selected
+课程覆盖有效：ce3 CE8 CE13
+Classes are not valid: None

@@ -1,0 +1,22 @@
+Class GUIAnagraficaMedico Date: 16/09/2003
+版：
+0 01 000
+说明在管理上制作蒙版
+医生的anagrafica
+Attributes
+Name Access Description
+包含该信息的私有网格ElencoMedici列表
+在美国注册的医生的校长
+并与O.
+Methods
+Signature visualizzaDatiMedico () Public Access
+Description View details of the doctor selected
+部分panelDati
+签名visualizzaElencoMedicii（）公共访问
+Description View list of doctors registered in
+并与O.
+Signature gestioneAnagrafica () Public Access
+It description of the retrieval of all
+组织所需的信息
+Mask implemented by
+GUIAnagraficaMedico

@@ -1,0 +1,26 @@
+Class GUIAnagrafica Date: 16/09/2003
+版：
+0 01 000
+描述抽象类用于定义
+GUIAnagraficaLaboratorio类和
+GUIAnagraficaMadico
+属性
+名称访问说明
+Private btnElimina button that allows you to start
+删除程序
+the anagrafica of a laboratory or
+医生
+私人btnModifica按钮，允许您启动
+更改anagrafica的程序
+a laboratory or doctor
+Private btnNuovo button that allows you to start
+procedure for input a
+laboratory or doctor
+Private panelDati panel containing all the data
+关于他们的年龄
+检查
+Methods
+Signature notificaSuccesso () Public Access
+Description Displays a message to notify the
+success of the operation carried out
+由操作员

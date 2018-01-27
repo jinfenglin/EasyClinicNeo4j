@@ -1,0 +1,25 @@
+上课人日期：
+15/09/2003
+Version:
+0 01 000
+Description abstract class used to define the
+操作员类和医生病人
+Attributes
+名称访问说明
+CAP私人邮政编码
+codiceFiscale Private Company ID of the person
+Private First name Last name of the person
+dataNascita Private Date of birth of the person
+Private Address address of the person
+luogoNascita Private Place of birth of the person
+luogoResidenza私人住所的人
+Private Name name of the person
+私人备注附加说明
+Private provinciaNascita Province of birth of the person
+provinciaResiden private residence of the Province
+人
+Private details of the person Addresses
+私人的性爱
+Methods
+签名访问
+Description

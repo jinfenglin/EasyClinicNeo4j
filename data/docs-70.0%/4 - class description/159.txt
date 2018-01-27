@@ -1,0 +1,29 @@
+Class Booking Date:
+15/09/2003
+版：
+0 01 000
+它包含描述预订的数据
+在门诊进行
+属性
+名称访问说明
+dataRichiesta Private Data that has been carried out `
+预订
+dataVisita私人参观日期将会发生
+Private Grounds reason for which it was
+the request
+Private hour Now that the visit will take place
+方法
+签名创建（）公共访问
+说明它的任务是创建一个新类型的对象
+Reservation
+签名删除（）公共访问
+提供保留的描述
+签名保存（）公共访问
+说明提供保留的存储
+in the S I O
+签名GetAttributes（）公共访问
+它描述了所有的检索
+有关预订的信息
+签名setAttributes（）公共访问
+It description to set the attributes of a
+Reservations

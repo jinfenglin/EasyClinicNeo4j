@@ -1,0 +1,17 @@
+测试用例预约访问日期：
+到20/06/2003 C39控制
+一个新病人
+Version:
+0 02 000
+使用案例满足预约的要求
+UcPreVis服务由Outpatient a
+patient
+高优先级
+Set up There are no previous reservations
+描述测试
+输入类型选择访问：访问
+查
+Oracle序列无效系统
+allows the reservation of the visit
+Classes cover valid: ce3 CE5
+Classes are not valid: None

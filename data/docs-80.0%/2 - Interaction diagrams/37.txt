@@ -1,0 +1,30 @@
+input examination
+该服务是在明确要求后发起的
+由演员操作员登录形成
+on the management of visits (for instance GUIVisita)
+从访问中选择添加评估和
+激活插入新检查控件的功能
+然后到代表的GUIVisitaHandler的实例
+GUIEsameHandler提供服务任务的实例
+第一步是找到有关信息
+visit that the operator has selected therefore control passes
+通过应用程序的VisiteManager的应用程序
+访问访问的检索信息
+选择并将控制权传递给该EsamiManager的实例
+通过检查机构发现了一份包含该清单的清单
+information relating to the examinations visit The list is
+GUIVisitaHandler返回到接收实例
+控制并确保访问的显示
+考试管理面具考试
+（GUIEsami的例子）
+The operator inserts the data further examination and confirmation
+the inclusion of the same at this point the control switches
+GUIEsamiHandler到代表团的实例
+进入申请信Esame Manager的新考试
+through the application for review to ensure the inclusion and
+保存数据以便进一步检查并通过控制
+到GUIEsameHandler进行处理的实例
+通过查看通知成功
+在管理面具上的特殊消息
+考试（例如GUIEsame）这个功能是
+由图3的协作图22描述

@@ -1,0 +1,17 @@
+Class GUIElencoPrenotazioni Date: 19/09/03
+版：
+0 01 000
+Description abstract class used to define
+GUIEliminaPrenotazione of classes and
+GUISelezionaPrenotazione
+Attributes
+Name Access Description
+私人btnAnnulla按钮，允许您取消
+the current operation
+Private gridPrenotazioni grid containing the list of
+Reservations still active set
+by Patient
+Methods
+签名notificaSuccesso（）公共访问
+Description Its task is to notify the success
+的

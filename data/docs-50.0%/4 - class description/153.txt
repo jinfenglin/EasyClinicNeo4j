@@ -1,0 +1,25 @@
+Medical Class Date: 20/09/03
+版：
+0 01 000
+包含年龄的医生的描述
+at outpatient
+属性
+名称访问说明
+私人的Anno Abilitazione医生在哪一年
+licensed to practice
+职业
+方法
+签名创建（）公共访问
+Description Its task is to create a new object of type
+Doctor
+Signature delete () Public Access
+它描述了删除一个
+doctor
+Signature GetAttributes () Public Access
+It description of the retrieval of all
+information relating to a doctor
+Signature save () Public Access
+描述提供一个数据的存储
+doctor within the S I O
+Signature setAttributes () Public Access
+它描述了设置一个医生的属性

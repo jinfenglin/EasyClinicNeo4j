@@ -1,0 +1,31 @@
+VisiteManager类日期：
+16/09/2003
+Version:
+0 01 000
+说明具有管理操作的任务
+require access to data of visits
+performed in outpatient
+Attributes
+名称访问说明
+
+方法
+Signature delvis () Public Access
+Description has the task to manage the disposal of a
+visit
+Signature editVisita () Public Access
+Description Its task is to manage the change data
+a visit
+Signature getElencoVisite () Public Access
+Provides description of the retrieval of all
+visits
+Signature getVisitaAt () Public Access
+Description Its task is to find all the information
+on a visit
+Signature newVisita () Public Access
+说明它的任务是管理包含一个
+new visit
+Signature resocontoVisite () Public Access
+Description Its task is to find all the information
+necessary for the composition of the statement of
+visits made in a given gap
+time

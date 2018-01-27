@@ -1,0 +1,18 @@
+访问部分患者执行（通过代码
+税）
+该服务是在明确要求后发起的
+由演员操作员登录形成
+在患者的管理部分（身体
+GUILoginPaziente）插入Patient的税码
+已提出请求并选择功能
+验证然后将控制传递给实例
+代表实例的GUILoginPazienteHandler
+PazienteManager负责管理服务的增长
+处理验证通过使用输入的数据
+病人的结果是身体
+向后通知GUILoginPazienteHandler的实例
+which requires the application of GUIPazienteHandler to enable
+由科病人访问
+申请人和该对象应显示
+主要形式（例如GUIPaziente）此功能是`
+been described by the sequence diagram of Fig 3 13

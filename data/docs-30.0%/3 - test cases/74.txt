@@ -1,0 +1,34 @@
+input test case data Date:
+C24病人详情20/06/2003
+not recorded in S I O
+（税码和正确
+not recorded in S I O)
+The data are not included
+none except the place
+residence
+Version:
+0 02 000
+
+Use Case He performs the functions
+UcInsPaz necessary for input of anagrafica of
+一个新病人
+Media Priorities
+设置税码不应该是ZCCRCC80D13G942U
+be registered in S I O
+描述测试
+输入税：ZCCRCC80D13G942U
+名字：Rocco
+Surname: Zaccagnino
+Sex: M
+Birth date: 13/04/1980
+Place of birth: Power
+Province of birth: PCS
+地址：fraz Paoladoce 26
+居住地点：
+Province of residence: PCS
+ZIP code: 85020
+Contact information: 0971/87267 347/9908973
+Oracle Invalid Input: Place of residence
+Classes cover valid: CE1 ce3 CE5 CE8 CE10
+CE12 CE14 CE18 CE20 CE23 CE24 CE28
+Classes invalid: CE17

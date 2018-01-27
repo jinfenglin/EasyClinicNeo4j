@@ -1,0 +1,19 @@
+类CartellaClinicaManager日期：
+16/09/2003
+Version:
+0 01 000
+说明它的任务是管理组成的数据
+the medical records of a patient
+Attributes
+Name Access Description
+
+方法
+Signature getCartellaClinica () Public Access
+它的描述找到所有的信息
+clinic filder of a patient
+Signature getDettagli () Public Access
+Description Provides a load all the details of a
+visit
+签名getDatiPaziente（）公共访问
+Description has the task of finding the anagrafica data of
+Patient

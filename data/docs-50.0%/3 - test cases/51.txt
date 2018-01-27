@@ -1,0 +1,20 @@
+Test case Operator Login Date:
+C01的登录截止日期为20/06/2003
+correct and incorrect password
+扭矩（登录密码）
+在S I O中
+Version:
+0 02 000
+用例他执行这些功能
+UcValOpe验证一个
+操作者
+高优先级
+这对夫妇设置了（登录密码）=（Rocolo
+Virago) is recorded in the `S I O
+Description test
+Input Login: Rocolo
+Password: Virago
+The Oracle system allows access
+the operator
+类别覆盖有效：CE1 CE2 CE6 CE7
+Classes are not valid: None

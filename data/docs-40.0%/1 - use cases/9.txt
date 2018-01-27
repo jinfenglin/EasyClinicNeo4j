@@ -1,0 +1,88 @@
+改变访问
+它允许操作员更改一个
+访问先前记录
+运营商对变更有兴趣
+Visit previously recorded
+The Operator has been recognized by
+System (See UcValOp) visit
+is registered in the S I O
+Operator and received data
+参观改变
+Folder的诊所
+Patient who was subjected to `visit
+没有改变
+Success: Information on
+Visit concerned are updated
+Folder inside the Clinic of
+Patient
+The operator activates the execution of
+service editing a visit
+1 View the list of
+visits in
+按时间顺序排列
+2 Select the visit by
+更改
+3 Confirm your selection
+4查看蒙版
+for the modification of a
+访问
+5 Changing data of the
+访问
+6确认更改
+7 Verify the data insert
+由操作员
+8 Remember the
+更新
+9 Notify to the operator
+that the operation was `
+concluded successfully
+关于a的数据输入
+新考试
+5 1插入新的考试
+The Operator is interest to input data of
+an examination of the visit in object
+5 2返回到步骤5
+Changing data on an examination
+5 1
+改变检查数据
+
+The Operator's interest to modify the data
+考察访问
+
+Edit review
+5 2返回到步骤5
+Changing data on a
+examination
+5 1
+删除数据检查
+
+运营商有意删除数据
+an examination of the visit
+
+Delete examination
+5 2 Return to step 5
+Invalid data set
+7 1 Show an appropriate message
+7 2从4步回收跑步
+用数据支持表单的字段
+由操作员插入
+操作员取消操作
+change
+3 1 ends the use case with failure
+6 1
+4 1 The data required for registration of
+visit are: the date the name of the doctor who
+对访问的原因进行了调查
+illnesses accused by the patient history
+made by medical diagnosis tests
+prescribed therapy prescribed (indicating
+药品和招聘时间）和'必要的
+Furthermore, the inclusion of possible values
+instrumental observations made during the visit
+(eg heart beat the pressure
+n number of blood found dioptres etc)
+对于生物测试和/或器械是`
+must enter information on the
+实验室，使他们的价值观
+results of each examination and evaluation
+由医疗诊断

@@ -1,0 +1,31 @@
+Validation patient
+He works to perform the functions
+认证一个必要的
+患者
+这是登录到的兴趣
+看到你的信息
+病人必须拥有
+医院卡
+病人不认识
+system
+Success: The patient is recognized by `
+system and access to its section
+病人进入Box Tower
+1 View the mask
+for the operation
+登录
+2输入代码
+医院卡和代码
+PIN
+3 Confirm validation
+4确认这对夫妇
+(Hospital Card PIN)
+识别病人
+在S I O内
+患者取消功能
+验证
+3 1结束了用例的执行
+失败
+验证失败
+4 1显示适当的信息
+4 2从1步重新插入运行

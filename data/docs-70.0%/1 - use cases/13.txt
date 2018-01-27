@@ -1,0 +1,37 @@
+删除考试
+它允许操作员删除一个
+Visit previously recorded
+The Operator's interest to delete a
+审查以前记录
+运营商已被``认可
+系统（见UcValOp）和检查结果显示
+registered in the S I O
+The data in the S I O
+不被修改
+成功：文件夹诊所病人
+who had undergone to examination eliminated
+已更新
+操作员激活执行
+service elimination of an examination
+1 View a list of
+在英国进行的考试
+chronological order
+2 Select the examination to
+更改
+3确认您的选择
+4查看蒙版
+for viewing
+的
+5确认共享
+6删除检查
+通知操作员7
+that the operation was `
+成功结束
+操作员取消操作
+评论
+3 1 ends the use case with failure
+5 1
+4 1面具将包含有关的信息
+选择以便允许
+在继续操作之前对其进行详细监控
+删除

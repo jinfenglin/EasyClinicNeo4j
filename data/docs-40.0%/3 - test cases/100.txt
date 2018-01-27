@@ -1,0 +1,22 @@
+Testing houses delete a Visit Date:
+20/06/2003之后的C50控制
+访问控制和
+precedes a visit by
+check
+版：
+0 02 000
+Use Case Meets the request for delete of
+UcAnnPre预订服务
+由一位非卧床患者制成
+High Priority
+Set up the previous reservation is `:
+02/10/2003小时09 00访问控制
+The reservation is `Next:
+07/10/2003小时09 00访问控制
+Description test
+Input Visit selected:
+06/10/2003 hours 09 00 Visit control
+The oracle system deletes the reservation
+selected
+课程覆盖有效：CE4 CE8 CE13
+Classes are not valid: None

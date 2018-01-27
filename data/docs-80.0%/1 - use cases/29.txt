@@ -1,0 +1,32 @@
+平均等待时间
+它允许操作员获得估计
+提供服务所需的平均时间
+预订
+运营商有兴趣拥有一个
+估计服务a的平均时间
+预订请求
+操作员激活执行
+用于计算估计时间的服务
+平均
+1查看蒙版
+to see the
+result of the calculation
+时间估计
+中等服务
+请求
+Reservations
+2启动功能
+3查看结果
+计算
+运营商决定打印
+information
+3 1开始打印信息
+displayed
+3 2 generates the report and sends it to
+打印机
+操作员取消操作
+2 1结束失败的用例
+1 1以天为单位的服务时间是相等的
+the time between the date of request
+预约和预约时间
+被安排了

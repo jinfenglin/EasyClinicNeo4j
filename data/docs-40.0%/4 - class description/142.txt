@@ -1,0 +1,17 @@
+Class OperatoreManager Date:
+16/09/2003
+Version:
+0 01 000
+说明具有管理操作访问的任务
+Easy software system to Clinch 2003 Operator
+由
+Attributes
+名称访问说明
+
+Methods
+登录签名（）公共访问
+Description Its task is to manage the operation Login
+of
+Signature logout () Public Access
+Description Its task is to manage the operation logout
+的

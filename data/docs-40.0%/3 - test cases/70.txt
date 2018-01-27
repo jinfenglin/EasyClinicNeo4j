@@ -1,0 +1,34 @@
+输入测试用例数据日期：
+C20 details of a patient 20/06/2003
+not recorded in S I O
+(tax code and correct
+not recorded in S I O)
+The data are not included
+零和领域
+the date of birth is not `
+valid
+版：
+0 02 000
+Use Case He performs the functions
+UcInsPaz necessary for input of anagrafica of
+a new patient
+Media Priorities
+设置税码不应该是ZCCRCC80D13G942U
+be registered in S I O
+描述测试
+Input Tax: ZCCRCC80D13G942U
+Name: Rocco
+姓：Zaccagnino
+Sex: M
+出生日期：55/66/7777
+出生地点：电源
+出生地：PCS
+地址：fraz Paoladoce 26
+住所：Avigliano
+居住省份：PCS
+ZIP code: 85020
+Contact information: 0971/87267 347/9908973
+Oracle Invalid Input: Birth Date
+课程覆盖有效：CE1 CE3 CE5 CE10 CE12
+CE14 CE16 CE18 CE20 CE23 CE24 CE28
+Classes invalid: CE9

@@ -1,0 +1,60 @@
+Slipping on a visit to a later date
+该服务是在明确要求后发起的
+由演员操作员登录形成
+section on the patient (for instance GUIPaziente) and there
+检查更改预留控制的功能
+然后是代表GUIPazienteHandler的实例
+GUIPrenotaVisitaHandler to the instance of the task of managing the
+服务
+
+Uploading reservations
+
+The request for the matter to the instance of GUIPrenotaVisitaHandler
+GUISelezionaPrenotazioniHandler是获得一份清单
+all reservations made by the patient This object passes
+监测哪个Prenotazioni经理的应用
+通过保留实例应该发现
+该列表并返回到的实例
+GUISelezionaPrenotazioniHandler which in turn shall
+visualization of data obtained on the mask (application
+GUISelezionaPrenotazioni）
+
+选择要更改的预留
+
+The operator selects from the list reservation
+编辑和控制是向后传递的
+GUIPrenotaVisitaHandler作为委员会的实例作为面板
+PrenotazioniManager to the task of transferring all
+关于所选保留的信息请求
+PrenotazioniManager through the application of Reservation perform
+this task, and returns to the instance of data obtained
+GUIPrenotaVisita which in turn shall give
+displaying on the screen on the management
+保留（例如GUIPrenotaVisita）
+
+Request new date
+
+操作员需要一个新的日期，当访问可以“
+保持和控制传递给的实例
+GUIPrenotaVisitaHandler which obtained the next day
+由适当的机构提供，以确保Prenotazioni经理
+在屏幕上查看它
+management of reservations (for instance GUIPrenotaVisita)
+The Operator confirmed the date proposed by the system and control
+is returned to the instance of GUIPrenotaVisitaHandler
+
+节省预订
+
+The application of class GUIPrenotaVisitaHandler at this point
+proceeds for the reservation by delegating this
+task to the instance of this PrenotazioniManager
+通过申请预约应开始
+validate the reservation and only if so rescue
+关于预订的数据一旦这样
+操作控制返回到
+GUIPrenotaVisitaHandler得到它的实例
+to report success with a message
+mask on the management of reservations (for instance
+GUIPrenotaVisita)
+该功能是由该合作描述的
+diagram of Fig 3 19

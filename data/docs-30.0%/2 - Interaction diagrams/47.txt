@@ -1,0 +1,17 @@
+Show anagrafica
+The service was launched following the express request
+由患者演员患者访问面罩
+main (for instance GUIPrincipale) on the management of
+all services provided by the system to the request of patients
+and there select the display of their anagrafica
+主控制然后转到实例
+GUIPrincipaleHandler代表的实例
+GUIAnagraficaHandler在此管理服务的任务
+Point control is passed to the instance of PazienteManager
+which deals with finding by the panel of the Patient
+Patient data applicant Results are
+sent backward up to the instance of that GUIAnagraficaHandler
+轮到他们负责在屏幕上显示
+on the management of registries of patients (for instance
+GUIAnagrafica) This feature is was described by
+collaboration diagram of Fig 3 9

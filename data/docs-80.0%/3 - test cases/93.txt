@@ -1,0 +1,17 @@
+Reservation test case for a type of date:
+C43预计不会在20/06/2003访问
+在此之前访问
+查
+Version:
+0 02 000
+使用案例满足预约的要求
+UcPreVis服务由Outpatient a
+患者
+媒体优先
+Set up The last reservation is `:
+07/10/2003小时10 00访问控制
+描述测试
+输入类型选择访问：NP
+Oracle Input Invalid
+课程覆盖有效：CE8
+类无效：CE4

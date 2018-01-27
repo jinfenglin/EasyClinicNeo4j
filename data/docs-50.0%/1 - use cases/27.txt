@@ -1,0 +1,47 @@
+Report visits
+It allows the operator to have a
+record visits
+of the outpatient inside so
+总共有访问
+made by a patient visits
+由医生等支持
+The Operator's interest to have a
+访问报告
+within of the outpatient
+运营商已被``认可
+System (See UcValOp)
+操作员激活执行
+service record visits
+1查看蒙版
+for viewing
+报告
+visits
+2 Select the time gap
+3选择类型
+Information summary
+4 Confirm selection
+5 Access to the database and
+found in the
+需要培训
+6 View
+获得的信息
+Operator decides to print
+信息
+6 1 Start printing information
+displayed
+6 2生成报告并将其发送到
+Printer
+操作员取消操作
+4 1结束失败的用例
+运营商3 1可以访问以下内容
+摘要信息：
+所有访问与
+对病人进行医生访视
+谁带领了这次访问;
+所有的访问都是一样的
+doctor with the dates of patients
+参观了所需的考试;
+all visits made by a patient
+与医生的日期
+指责诊断病理学检查
+and medicines prescribed

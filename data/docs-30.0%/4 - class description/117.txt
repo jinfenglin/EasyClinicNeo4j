@@ -1,0 +1,29 @@
+Class GUIPrenotazioni Date: 18/09/2003
+版：
+0 01 000
+Description Make the mask used for
+reservation of display
+由患者
+Attributes
+Name Access Description
+Private btnRitorna button used to return
+to mask GUIPrincipale
+Private gridElenco Grid in which
+Only the reservations
+meet the search criteria
+由患者设置
+包含全部的私人列表应用列表
+reservation made by Patient
+Private panelParametri panel containing all objects
+giving the possibility to Patient
+to set the parameters for research
+预订：开始日期
+search and filtering type visit
+Methods
+Signature visualizzaPrenotazioni () Public Access
+说明过滤并显示预订
+listaAppuntamenti based on the criteria chosen by
+患者并在gridElenco中显示结果
+Signature getPrenotazioni () Public Access
+Description Get the list of reservation
+由患者
