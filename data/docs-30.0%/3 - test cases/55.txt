@@ -1,1 +1,0 @@
-login operator test case by date : c05 login registered in s i o and 20/06/2003 incorrect 密码 ( higher characters ) 版 : 0 02 000 use case he performs the functions ucvalope 必要 to authenticate an operator 高 优先 set up the login rocolo is `recorded in the SIO description test input login : rocolo 密码 : rocolivirago 神谕 无效 input : 密码 classes cover valid : ce2 classes 无效 : ce9

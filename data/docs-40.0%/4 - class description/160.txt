@@ -1,1 +1,0 @@
-class tipovisita 日期 : 20/09/03 version : 0 01 000 描述 contains a 描述 of the 不同 类型 of visit that may be 制作 in outpatient attributes name 访问 描述 private 码 码 type of visit ( 天 dh c ) private 描述 描述 of the type of visit 方法 signature 访问 描述

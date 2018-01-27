@@ -1,1 +1,0 @@
-类 tipovisita date : 20/09/03 version : 0 01 000 description 包含 a description of the 不同 类型 of visit that 可能 be 制作 in outpatient 属性 那么 访问 description 私人的 code code 类型 of visit ( 天 即 C ) 私人的 description description of the 类型 of visit 方法 signature 访问 description

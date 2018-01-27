@@ -1,1 +1,0 @@
-类 operatoremanager 日期 : 16/09/2003 版 : 0 01 000 描述 has the task of 管理的 the operations 访问 简单 软件 系统 to 成交 2003 operator by the 属性 name 访问 描述 methods 登录 signature ( ) 上市 访问 描述 its task is to manage the operation 登录 of signature logout ( ) 上市 访问 描述 its task is to manage the operation logout of

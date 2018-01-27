@@ -1,1 +1,0 @@
-validation 测试 案件 patient 数据 : c12 税 码 through 20/06/2003 正确 ( 16 数字 ) and in s i o 版 : 0 02 000 使用 案件 he performs the functions ucvalpaz necessary to authenticate an patient high 优先 组 up the 税 码 must zccrcc80d13g942u be 注册 in s i o description 测试 输入 : 公司 ID : zccrcc80d13g942u oracle : the operator 访问 to the operation validated patient 类 盖 valid : ce6 : 类 无效 : ce7

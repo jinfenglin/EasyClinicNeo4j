@@ -1,1 +1,0 @@
-类 guiresocontoesami 日期 : 16/09/2003 version : 0 01 000 描述 使 the mask on the management of 报告 of the 考试 规定 in 访问 发生 in 门诊病人 attributes name access 描述 private panelparametri panel containing the parameters 必要 to set criteria 创建 of 报告 of the 考试 方法 签名 resocontoesami ( ) public access it 描述 to 找 all the 信息 必要 to generate the 报告 in compliance with the criteria 规定

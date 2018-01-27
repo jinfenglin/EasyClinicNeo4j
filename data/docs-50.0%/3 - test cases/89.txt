@@ -1,1 +1,0 @@
-test case reservation a 访问 date : c39 控制 by 20/06/2003 a 新 patient version : 0 02 000 使用 case 符合 the 请求 for a reservation ucprevis service by 门诊病人 a patient 高 优先 组 up there are no previous 预订 描述 test input type selected 访问 : 访问 查 神谕 sequence invalid the 系统 allows the reservation of the 访问 classes cover 有效 : ce3 ce5 classes are not 有效 : 没有

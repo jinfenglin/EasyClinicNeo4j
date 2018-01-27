@@ -1,1 +1,0 @@
-operator 类 日期 : 20/09/03 版 : 0 01 000 it contains descriptions for your employees of the 门诊病人 attributes name access 描述 private operator login login private password associated with the login password methods 签名 validaoperatore ( ) public access it 描述 of the 程序 for 验证 of operator

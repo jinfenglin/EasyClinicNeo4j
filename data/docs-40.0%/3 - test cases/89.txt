@@ -1,1 +1,0 @@
-测试 案件 reservation a visit date : c39 控制 by 20/06/2003 a 新 patient 版 : 0 02 000 use 案件 符合 the request for a reservation 你预测 service by 门诊病人 a patient high priority set up there are no 以前 reservations description 测试 输入 类型 selected visit : visit check oracle sequence invalid the 系统 允许 the reservation of the visit classes cover valid : ce3 ce5 classes are not valid : none

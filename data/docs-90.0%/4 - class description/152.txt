@@ -1,1 +1,0 @@
-操作者 类 日期 : 20/09/03 版 : 0 01 000 it 包含 descriptions for your 雇员 of the 门诊病人 属性 那么 访问 描述 私人的 操作者 登录 登录 私人的 password 相关 with the 登录 password 方法 签名 validaoperatore ( ) public 访问 it 描述 of the 程序 for 验证 of 操作者

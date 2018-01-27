@@ -1,1 +1,0 @@
-class guiresocontoprenotazioni date : 16/09/2003 version : 0 01 000 description 使 the mask on the 管理 of 报告 of reservation in outpatient attributes name access description 私人的 panelparametri 面板 containing all the 参数 必要 to 组 标准 creation of 报告 预订 方法 signature resocontoprenotazioni ( ) 上市 access it description to find all the information 必要 to 生成 the 报告 in compliance with the 标准 规定

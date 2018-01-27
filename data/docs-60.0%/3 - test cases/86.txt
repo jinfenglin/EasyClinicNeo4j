@@ -1,1 +1,0 @@
-test 案件 保留 a 天 日期 : c36 醫院 之前 by a 20/06/2003 visit 控制 version : 0 02 000 use 案件 符合 the request for a 保留 ucprevis service by outpatient a patient 高 优先 组 up the last 保留 is ` : 02/10/2003 小时 09 00 visit 控制 description test input 类型 selected visit : 天 醫院 the 神谕 系统 使 the 保留 of visit 类 盖 有效 : ce2 ce8 类 are not 有效 : none

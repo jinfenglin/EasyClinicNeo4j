@@ -1,1 +1,0 @@
-class tipovisita 日期 : 20/09/03 版 : 0 01 000 描述 包含 a 描述 of the 不同 类型 of 访问 that 可能 be 制作 in 门诊病人 属性 那么 access 描述 私人的 码 码 类型 of 访问 ( 天 即 C ) 私人的 描述 描述 of the 类型 of 访问 方法 签名 access 描述

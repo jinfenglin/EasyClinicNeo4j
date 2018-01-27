@@ -1,1 +1,0 @@
-登录 operator test case by date : c05 登录 registered in s i o and 20/06/2003 incorrect password ( higher 人物 ) version : 0 02 000 use case he performs the functions ucvalope 必要 to authenticate an operator high priority set up the 登录 rocolo is `recorded in the sio description test input 登录 : rocolo password : rocolivirago oracle 无效 input : password 类 cover valid : ce2 类 无效 : ce9
